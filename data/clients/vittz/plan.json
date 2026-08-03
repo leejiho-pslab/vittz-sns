@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T08:30:11.614Z",
+  "updatedAt": "2026-08-03T18:30:00.000Z",
   "items": [
     {
       "id": "test-ig-ceilingfan",
@@ -69,7 +69,8 @@
       ],
       "cardImage": "cards/vittz/test-ig-ceilingfan-1.png",
       "mood": "dusk",
-      "series": "비츠 · 여름 시선"
+      "series": "비츠 · 여름 시선",
+      "designTheme": "lifestyle"
     },
     {
       "id": "test-ig-standard60",
@@ -139,7 +140,8 @@
       ],
       "cardImage": "cards/vittz/test-ig-standard60-1.png",
       "mood": "paper",
-      "series": "비츠 · 제품 노트"
+      "series": "비츠 · 제품 노트",
+      "designTheme": "lifestyle"
     },
     {
       "id": "test-blog-livingroom",
@@ -277,7 +279,8 @@
         "cards/vittz/test-ig-3lights-7.png",
         "cards/vittz/test-ig-3lights-8.png"
       ],
-      "cardImage": "cards/vittz/test-ig-3lights-1.png"
+      "cardImage": "cards/vittz/test-ig-3lights-1.png",
+      "designTheme": "lifestyle"
     },
     {
       "id": "test-yt-3lights",
@@ -309,6 +312,122 @@
       "mood": "dusk",
       "series": "비츠 · 조명 레시피",
       "videoFile": "shorts/test-yt-3lights/test-yt-3lights.mp4"
+    },
+    {
+      "id": "test-ig-productpick",
+      "topic": "여름 조명 추천",
+      "format": "카드뉴스",
+      "channels": [
+        "instagram"
+      ],
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "score": 90,
+      "status": "planned",
+      "designTheme": "product-pick",
+      "kicker": "비츠 픽",
+      "dayLabel": "제품추천 · 큐레이션",
+      "headline": "여름 집을 바꾸는<br>비츠 픽 *3*",
+      "captionNote": "주제별 디자인 폼 데모 — 제품추천(라이트 패널·키 컬러 잉크·넘버링)",
+      "captionBody": "더위에 지친 집, 조명 셋이면 분위기가 달라져요 ☀️\n\n비츠 픽 3\n① LED 블레이드 실링팬 조명 — 조명+공기순환을 한 번에\n② 세라핌 컬러 글라스 식탁등 — 저녁 식탁의 무드 담당\n③ COB 젤로비 레일조명 — 부담 없이 시작하는 포인트 조명\n\n실물과 자세한 설명은 프로필 링크에서 👉 @vittz_official\n\n#조명추천 #여름인테리어 #실링팬 #식탁등 #레일조명 #비츠조명 #인테리어조명 #비츠",
+      "slides": [
+        {
+          "scene": "cover",
+          "bgKey": "seraphim",
+          "imgIndex": 3,
+          "en": "VITTZ PICK",
+          "title": "여름 집을 바꾸는\n비츠 픽 *3*",
+          "body": "저장해두고 하나씩 들여보세요"
+        },
+        {
+          "scene": "product",
+          "productKey": "blade",
+          "imgIndex": 0,
+          "num": "1",
+          "body": "조명과 공기순환을 한 번에 —\n방등 자리에 그대로 설치하는 결합형."
+        },
+        {
+          "scene": "product",
+          "productKey": "seraphim",
+          "imgIndex": 1,
+          "num": "2",
+          "body": "컬러 글라스에 웜톤 한 점.\n저녁 식탁의 무드 담당."
+        },
+        {
+          "scene": "product",
+          "productKey": "jelrobi",
+          "imgIndex": 0,
+          "num": "3",
+          "body": "스팟 1개씩 더하는 레일 방식 —\n부담 없이 시작하는 포인트 조명."
+        },
+        {
+          "scene": "brand",
+          "title": "이번 여름,\n빛부터 바꿔보세요",
+          "body": "저장해두고 우리 집에 맞는 것부터.\n궁금한 건 댓글로 물어보세요."
+        }
+      ],
+      "mood": "paper",
+      "series": "비츠 픽",
+      "slideImages": [
+        "cards/vittz/test-ig-productpick-1.png",
+        "cards/vittz/test-ig-productpick-2.png",
+        "cards/vittz/test-ig-productpick-3.png",
+        "cards/vittz/test-ig-productpick-4.png",
+        "cards/vittz/test-ig-productpick-5.png"
+      ],
+      "cardImage": "cards/vittz/test-ig-productpick-1.png"
+    },
+    {
+      "id": "test-ig-brandstory",
+      "topic": "브랜드 이야기",
+      "format": "카드뉴스",
+      "channels": [
+        "instagram"
+      ],
+      "scheduledFor": "2026-08-07T09:00:00.000Z",
+      "score": 88,
+      "status": "planned",
+      "designTheme": "brand-story",
+      "kicker": "비츠 이야기",
+      "dayLabel": "브랜드이야기",
+      "headline": "조명 가게가 아니라<br>*빛을 다루는 팀*입니다",
+      "captionNote": "주제별 디자인 폼 데모 — 브랜드이야기(키 컬러 풀 배경·타이포 중심)",
+      "captionBody": "비츠는 조명을 파는 곳이 아니라 빛을 다루는 팀입니다 💡\n\n상위 1%의 품질을 가장 합리적인 가격으로 — 삼성 정품 LED 모듈, 플리커프리, 국가 표준 KC 인증까지. 그리고 배달과 설치를 한 번에 해결하는 비츠 딜리버리로 '조명 바꾸기'의 문턱을 낮춥니다.\n\n우리 집 빛이 달라지면 하루가 달라진다고 믿어요.\n\n@vittz_official\n\n#비츠 #비츠조명 #브랜드스토리 #인테리어조명 #조명맛집",
+      "slides": [
+        {
+          "scene": "cover",
+          "en": "VITTZ STORY",
+          "title": "조명 가게가 아니라\n*빛을 다루는 팀*입니다",
+          "body": "비츠가 일하는 방식"
+        },
+        {
+          "scene": "point",
+          "label": "우리의 기준",
+          "title": "상위 1% 품질을\n*합리적인 가격*으로",
+          "body": "삼성 정품 LED 모듈, 플리커프리,\n국가 표준 KC 인증 — 타협하지 않는 기본기."
+        },
+        {
+          "scene": "point",
+          "label": "우리의 방식",
+          "title": "배달과 설치를\n*한 번에*",
+          "body": "비츠 딜리버리가 조명 바꾸기의 문턱을 낮춥니다.\n주문하면 달아드리는 것까지가 저희 일이에요.",
+          "bgKey": "seraphim",
+          "imgIndex": 2
+        },
+        {
+          "scene": "brand",
+          "title": "우리 집 빛이 달라지면\n하루가 달라집니다",
+          "body": "비츠가 믿는 문장입니다.\n궁금한 이야기는 댓글로 물어보세요."
+        }
+      ],
+      "mood": "paper",
+      "series": "비츠 이야기",
+      "slideImages": [
+        "cards/vittz/test-ig-brandstory-1.png",
+        "cards/vittz/test-ig-brandstory-2.png",
+        "cards/vittz/test-ig-brandstory-3.png",
+        "cards/vittz/test-ig-brandstory-4.png"
+      ],
+      "cardImage": "cards/vittz/test-ig-brandstory-1.png"
     }
   ]
 }
