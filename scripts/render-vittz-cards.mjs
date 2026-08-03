@@ -8,8 +8,8 @@
  *  - brand-story(브랜드이야기): 타이포형 — 키 컬러(딥 인디고) 풀 배경 + 타이포 중심 미니멀
  *  주제 선택: plan.json items[].designTheme (기본 lifestyle)
  *
- * 키 컬러: #110453 (비츠 로고 딥 인디고 — vittz.co.kr 실사용 브랜드 컬러).
- *  라이프스타일 폼에도 라벨 칩·브랜드 클로징 로고에 녹인다.
+ * 키 컬러: #110453 (비츠 로고 딥 인디고) — 모든 콘텐츠 강조색을 이 색으로 통일(운영자 지시, 앰버 폐기).
+ *  어두운 사진 위 강조는 로고색 라이트 틴트(#A9A2FF)로 가독 확보.
  *
  * 텍스트 잘림 방지: fit() 오토핏 — 줄 길이에 따라 헤드라인·제목·제품명 크기 자동 축소.
  *
@@ -52,7 +52,7 @@ const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').
 
 // ── 디자인 토큰 (단일 출처: design-tokens.json) ─────────────────────
 const TOKEN_DEFAULTS = {
-  ink: '#FFFFFF', muted: 'rgba(255,255,255,.78)', accent: '#F2B75F',
+  ink: '#FFFFFF', muted: 'rgba(255,255,255,.78)', accent: '#A9A2FF',
   scrimCover: 'linear-gradient(112deg, rgba(20,14,8,.78) 0%, rgba(20,14,8,.42) 46%, rgba(20,14,8,.08) 78%)',
   scrimText: 'linear-gradient(112deg, rgba(18,13,8,.86) 0%, rgba(18,13,8,.55) 55%, rgba(18,13,8,.22) 100%)',
   scrimBottom: 'linear-gradient(180deg, rgba(16,11,6,0) 34%, rgba(16,11,6,.55) 58%, rgba(16,11,6,.92) 100%)',
@@ -67,8 +67,11 @@ function loadTokensRaw() {
 }
 const RAW = loadTokensRaw();
 const T = { ...TOKEN_DEFAULTS, ...(RAW.card || {}) };
-// 브랜드 키 컬러 — vittz.co.kr 로고 딥 인디고 (사이트 텍스트 포인트로 실사용)
+// 브랜드 키 컬러 — vittz.co.kr 로고 딥 인디고. 운영자 지시(2026-08-03):
+// 모든 콘텐츠의 키 컬러를 로고 색으로 통일(앰버 폐기). 어두운 사진 위 강조는
+// 가독성을 위해 로고색 라이트 틴트(KEY_LIGHT)를 쓴다 — 같은 로고 색 계열.
 const KEY = RAW.keyColor || '#110453';
+const KEY_LIGHT = RAW.keyColorLight || '#A9A2FF';
 // 주제별 폼 정의 — design-tokens.json themes 로 세부 오버라이드 가능
 const THEMES = {
   lifestyle: { layout: 'photo' },
@@ -236,7 +239,7 @@ function scenePanel(item, s, idx, pickCut) {
 function sceneTypo(item, s, idx, pickCut) {
   if (s.scene === 'cta' || s.scene === 'brand') return { noPhoto: true, inner: brandInner(s) };
   const photo = (s.bgKey || s.productKey) ? pickCut(s) : null;
-  const inset = photo ? `<div class="inset"><img src="${photo}" alt=""/></div>` : '';
+  const inset = photo ? `<div class="wideimg"><img src="${photo}" alt=""/></div>` : '';
   if (s.scene === 'cover' || idx === 0) {
     const title = s.title || item.headline || item.topic;
     return { flat: true, inner: `<div class="mid tcov">
@@ -287,7 +290,7 @@ function pageHTML(item, s, idx, faces, pickCut) {
   // 테마별 전경색 — photo: 화이트/앰버, panel: 키 컬러 잉크, typo: 화이트/앰버
   const ink = TH.ink || T.ink;
   const sub = TH.sub || T.muted;
-  const acc = TH.layout === 'panel' ? '#B26E0F' : T.accent;
+  const acc = TH.layout === 'panel' ? KEY : T.accent;
   const line = TH.line || 'rgba(255,255,255,.75)';
   const shadow = TH.layout === 'photo' ? 'text-shadow:0 4px 26px rgba(0,0,0,.42)' : '';
   return `<!doctype html><html><head><meta charset="utf-8"><style>
@@ -310,7 +313,7 @@ ${pos ? `.mid{justify-content:${pos} !important}` : ''}
 .pcov{justify-content:center;padding-bottom:0}
 .tcov{justify-content:center;padding-bottom:0}
 .headline{font-weight:800;line-height:1.24;letter-spacing:-.028em;text-wrap:balance;overflow-wrap:break-word;${shadow}}
-.headline em,.title em,.big em{font-style:normal;color:${TH.layout === 'panel' ? '#B26E0F' : T.accent}}
+.headline em,.title em,.big em{font-style:normal;color:${TH.layout === 'panel' ? KEY : T.accent}}
 .subline{display:flex;align-items:center;gap:26px;margin-top:44px}
 .rule{display:block;width:96px;height:2px;background:${line}}
 .en{font-weight:600;font-size:27px;letter-spacing:.34em;color:${sub}}
@@ -326,19 +329,19 @@ ${pos ? `.mid{justify-content:${pos} !important}` : ''}
 .pprice-s{font-weight:600;font-size:30px;color:${sub};margin-left:22px;letter-spacing:0;white-space:nowrap}
 .pbody{margin-top:26px}
 .buyline{margin-top:30px;font-size:28px;font-weight:600;color:${sub};letter-spacing:.02em}
-.panelimg{margin-top:44px;border-radius:${T.radius}px;overflow:hidden;background:#FFFFFF;box-shadow:0 26px 70px rgba(17,4,83,.14);max-height:600px}
-.panelimg img{width:100%;height:100%;max-height:600px;object-fit:cover;display:block}
-.inset{margin-top:52px;border-radius:${T.radius}px;overflow:hidden;border:6px solid rgba(255,255,255,.9);max-height:440px;align-self:flex-start;width:62%}
-.inset img{width:100%;height:100%;max-height:440px;object-fit:cover;display:block}
-.covpanel{max-height:520px}.covpanel img{max-height:520px}
-.brandbg{background:#FBF8F2}
+.panelimg{margin-top:44px;border-radius:${T.radius}px;overflow:hidden;background:#FFFFFF;box-shadow:0 26px 70px rgba(17,4,83,.14);max-height:640px;width:100%}
+.panelimg img{width:100%;height:640px;object-fit:cover;display:block}
+.wideimg{margin-top:56px;border-radius:${T.radius}px;overflow:hidden;width:100%;box-shadow:0 26px 70px rgba(0,0,0,.32)}
+.wideimg img{width:100%;height:520px;object-fit:cover;display:block}
+.covpanel{max-height:540px}.covpanel img{height:540px}
+.brandbg{background:#F8F7FC}
 .brand{align-items:center;text-align:center;justify-content:center !important;color:#2A241B}
 .brandlogo{font-weight:800;font-size:96px;letter-spacing:.42em;color:${KEY};text-indent:.42em}
-.brandline{width:120px;height:3px;background:#E8A13D;margin:44px 0 52px}
+.brandline{width:120px;height:3px;background:${KEY};margin:44px 0 52px}
 .brandtitle{font-weight:800;line-height:1.34;letter-spacing:-.02em;color:#2A241B;text-wrap:balance;overflow-wrap:break-word}
-.brandtitle em{font-style:normal;color:#B26E0F}
-.brandbody{font-weight:500;font-size:36px;line-height:1.66;color:#93826A;margin-top:34px;max-width:92%;overflow-wrap:break-word}
-.brandfoot{margin-top:64px;font-size:27px;font-weight:600;letter-spacing:.08em;color:#B9A88C}
+.brandtitle em{font-style:normal;color:${KEY}}
+.brandbody{font-weight:500;font-size:36px;line-height:1.66;color:#6E6A85;margin-top:34px;max-width:92%;overflow-wrap:break-word}
+.brandfoot{margin-top:64px;font-size:27px;font-weight:600;letter-spacing:.08em;color:#8B87A6}
 .ptag{margin-top:48px;display:flex;align-items:center;gap:24px;background:${TH.layout === 'photo' ? 'rgba(0,0,0,.34)' : 'rgba(17,4,83,.06)'};border:1.5px solid ${TH.layout === 'photo' ? T.chipBorder : 'rgba(17,4,83,.2)'};border-radius:22px;padding:20px 26px;backdrop-filter:blur(8px);align-self:flex-start;max-width:100%}
 .ptthumb{width:116px;height:116px;border-radius:16px;object-fit:cover;background:#FFF;flex:none}
 .ptname{font-weight:700;font-size:30px;line-height:1.35;overflow-wrap:break-word}

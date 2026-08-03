@@ -1,9 +1,9 @@
 {
- "_readme": "주제별 디자인 폼 토큰 — render-vittz-cards.mjs가 읽는다. keyColor=비츠 로고 딥 인디고(#110453, vittz.co.kr 실사용). themes: lifestyle(실사 풀블리드=현행 폼 고정)/product-pick(라이트 패널)/brand-story(키 컬러 타이포). plan items[].designTheme 으로 선택.",
+ "_readme": "주제별 디자인 폼 토큰 — render-vittz-cards.mjs가 읽는다. 키 컬러 통일(운영자 지시 2026-08-03): 모든 콘텐츠 강조=로고 색. keyColor=원색(밝은 배경용), keyColorLight=라이트 틴트(어두운 사진 위용). keyColor=비츠 로고 딥 인디고(#110453, vittz.co.kr 실사용). themes: lifestyle(실사 풀블리드=현행 폼 고정)/product-pick(라이트 패널)/brand-story(키 컬러 타이포). plan items[].designTheme 으로 선택.",
  "card": {
   "ink": "#FFFFFF",
   "muted": "rgba(255,255,255,.78)",
-  "accent": "#F2B75F",
+  "accent": "#A9A2FF",
   "scrimCover": "linear-gradient(112deg, rgba(20,14,8,.78) 0%, rgba(20,14,8,.42) 46%, rgba(20,14,8,.08) 78%)",
   "scrimText": "linear-gradient(112deg, rgba(18,13,8,.86) 0%, rgba(18,13,8,.55) 55%, rgba(18,13,8,.22) 100%)",
   "scrimBottom": "linear-gradient(180deg, rgba(16,11,6,0) 34%, rgba(16,11,6,.55) 58%, rgba(16,11,6,.92) 100%)",
@@ -37,5 +37,6 @@
    "layout": "typo",
    "_note": "브랜드이야기 — 키 컬러 풀 배경+타이포 중심 미니멀"
   }
- }
+ },
+ "keyColorLight": "#A9A2FF"
 }
