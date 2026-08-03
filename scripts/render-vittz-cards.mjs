@@ -52,7 +52,7 @@ const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').
 
 // ── 디자인 토큰 (단일 출처: design-tokens.json) ─────────────────────
 const TOKEN_DEFAULTS = {
-  ink: '#FFFFFF', muted: 'rgba(255,255,255,.78)', accent: '#A9A2FF',
+  ink: '#FFFFFF', muted: 'rgba(255,255,255,.78)', accent: '#110453',
   scrimCover: 'linear-gradient(112deg, rgba(20,14,8,.78) 0%, rgba(20,14,8,.42) 46%, rgba(20,14,8,.08) 78%)',
   scrimText: 'linear-gradient(112deg, rgba(18,13,8,.86) 0%, rgba(18,13,8,.55) 55%, rgba(18,13,8,.22) 100%)',
   scrimBottom: 'linear-gradient(180deg, rgba(16,11,6,0) 34%, rgba(16,11,6,.55) 58%, rgba(16,11,6,.92) 100%)',
@@ -71,7 +71,7 @@ const T = { ...TOKEN_DEFAULTS, ...(RAW.card || {}) };
 // 모든 콘텐츠의 키 컬러를 로고 색으로 통일(앰버 폐기). 어두운 사진 위 강조는
 // 가독성을 위해 로고색 라이트 틴트(KEY_LIGHT)를 쓴다 — 같은 로고 색 계열.
 const KEY = RAW.keyColor || '#110453';
-const KEY_LIGHT = RAW.keyColorLight || '#A9A2FF';
+// 어두운 사진 위 강조도 로고 원색을 쓴다 — 흰 하이라이트 박스 위 네이비 글자(가독+정확한 색)
 // 주제별 폼 정의 — design-tokens.json themes 로 세부 오버라이드 가능
 const THEMES = {
   lifestyle: { layout: 'photo' },
@@ -166,9 +166,11 @@ function scenePhoto(item, s, idx) {
     </div>` };
   }
   if (s.scene === 'product') {
+    // 절대 원칙(운영자): 제품 이미지는 조금이라도 잘리면 안 된다 — 원본 전체(contain)를
+    // 와이드하게 상단에 노출하고, 풀블리드감은 같은 컷의 블러 배경으로 유지.
     const p = PRODUCTS[s.productKey] || {};
     const name = p.name || s.title || '';
-    return { scrim: T.scrimBottom, inner: `<div class="mid pbot">
+    return { productNoCrop: true, scrim: T.scrimBottom, inner: `<div class="mid pbot">
       ${labelChip(s.label || '비츠 제품')}
       <div class="pname" style="font-size:${fit(name, 56, 17)}px">${esc(name)}${p.price ? `<span class="pprice-s">${won(p.price)}</span>` : ''}</div>
       ${s.body ? `<div class="body pbody">${br(s.body)}</div>` : ''}
@@ -264,9 +266,16 @@ function frame(TH, s, out, pickCut, pos) {
     bgLayer = `<div class="bg brandbg"></div>`;
   } else if (TH.layout === 'photo') {
     const photo = pickCut(s);
-    bgLayer = photo
-      ? `<img class="bg" src="${photo}" alt=""/><div class="scrim" style="background:${out.scrim}"></div>`
-      : `<div class="bg fb"></div>`;
+    if (photo && out.productNoCrop) {
+      // 제품 노-크롭: 블러 배경(무드) + 원본 전체 contain(와이드, 잘림 0)
+      bgLayer = `<img class="bg bgblur" src="${photo}" alt=""/>
+        <div class="fgwrap"><img src="${photo}" alt=""/></div>
+        <div class="scrim" style="background:${out.scrim}"></div>`;
+    } else {
+      bgLayer = photo
+        ? `<img class="bg" src="${photo}" alt=""/><div class="scrim" style="background:${out.scrim}"></div>`
+        : `<div class="bg fb"></div>`;
+    }
     if (!photo) logoCls = ' darklogo';
   } else {
     bgLayer = `<div class="bg" style="background:${TH.bg}"></div>`;
@@ -301,6 +310,9 @@ body{font-family:'Pretendard';color:${ink}}
 .card{width:1080px;height:1350px;position:relative;overflow:hidden}
 .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .bg.fb{background:${T.fallbackBg}}
+.bgblur{filter:blur(36px) brightness(.8);transform:scale(1.15)}
+.fgwrap{position:absolute;left:0;right:0;top:132px;height:660px;display:flex;align-items:center;justify-content:center;padding:0 34px}
+.fgwrap img{max-width:100%;max-height:100%;object-fit:contain;border-radius:22px;box-shadow:0 30px 80px rgba(0,0,0,.35)}
 .scrim{position:absolute;inset:0}
 .layer{position:absolute;inset:0;padding:84px 88px;display:flex;flex-direction:column}
 .top{display:flex;justify-content:space-between;align-items:baseline}
@@ -313,7 +325,10 @@ ${pos ? `.mid{justify-content:${pos} !important}` : ''}
 .pcov{justify-content:center;padding-bottom:0}
 .tcov{justify-content:center;padding-bottom:0}
 .headline{font-weight:800;line-height:1.24;letter-spacing:-.028em;text-wrap:balance;overflow-wrap:break-word;${shadow}}
-.headline em,.title em,.big em{font-style:normal;color:${TH.layout === 'panel' ? KEY : T.accent}}
+${TH.layout === 'panel'
+  ? `.headline em,.title em,.big em{font-style:normal;color:${KEY}}`
+  : `.headline em,.title em{font-style:normal;color:${KEY};background:rgba(255,255,255,.95);padding:2px 14px;border-radius:12px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.big em{font-style:normal;color:#FFFFFF}`}
 .subline{display:flex;align-items:center;gap:26px;margin-top:44px}
 .rule{display:block;width:96px;height:2px;background:${line}}
 .en{font-weight:600;font-size:27px;letter-spacing:.34em;color:${sub}}
@@ -323,17 +338,17 @@ ${pos ? `.mid{justify-content:${pos} !important}` : ''}
 .num{font-weight:800;font-size:120px;line-height:1;color:${KEY};opacity:.92;margin-bottom:28px}
 .title{font-weight:800;line-height:1.28;letter-spacing:-.024em;text-wrap:balance;overflow-wrap:break-word;${shadow}}
 .body{font-weight:500;font-size:${T.body}px;line-height:1.64;color:${sub};margin-top:36px;max-width:96%;overflow-wrap:break-word}
-.big{font-weight:800;font-size:150px;letter-spacing:-.03em;color:${TH.layout === 'panel' ? KEY : T.accent};line-height:1;margin-bottom:24px}
+.big{font-weight:800;font-size:150px;letter-spacing:-.03em;color:${TH.layout === 'photo' ? '#FFFFFF' : KEY};line-height:1;margin-bottom:24px}
 .pbot{justify-content:flex-end}
 .pname{font-weight:800;letter-spacing:-.02em;overflow-wrap:break-word;${shadow}}
 .pprice-s{font-weight:600;font-size:30px;color:${sub};margin-left:22px;letter-spacing:0;white-space:nowrap}
 .pbody{margin-top:26px}
 .buyline{margin-top:30px;font-size:28px;font-weight:600;color:${sub};letter-spacing:.02em}
 .panelimg{margin-top:44px;border-radius:${T.radius}px;overflow:hidden;background:#FFFFFF;box-shadow:0 26px 70px rgba(17,4,83,.14);max-height:640px;width:100%}
-.panelimg img{width:100%;height:640px;object-fit:cover;display:block}
+.panelimg img{width:100%;height:640px;object-fit:contain;display:block;background:#FFFFFF}
 .wideimg{margin-top:56px;border-radius:${T.radius}px;overflow:hidden;width:100%;box-shadow:0 26px 70px rgba(0,0,0,.32)}
-.wideimg img{width:100%;height:520px;object-fit:cover;display:block}
-.covpanel{max-height:540px}.covpanel img{height:540px}
+.wideimg img{width:100%;height:520px;object-fit:contain;display:block;background:#FFFFFF}
+.covpanel{max-height:540px}.covpanel img{height:540px;object-fit:contain}
 .brandbg{background:#F8F7FC}
 .brand{align-items:center;text-align:center;justify-content:center !important;color:#2A241B}
 .brandlogo{font-weight:800;font-size:96px;letter-spacing:.42em;color:${KEY};text-indent:.42em}
@@ -343,9 +358,9 @@ ${pos ? `.mid{justify-content:${pos} !important}` : ''}
 .brandbody{font-weight:500;font-size:36px;line-height:1.66;color:#6E6A85;margin-top:34px;max-width:92%;overflow-wrap:break-word}
 .brandfoot{margin-top:64px;font-size:27px;font-weight:600;letter-spacing:.08em;color:#8B87A6}
 .ptag{margin-top:48px;display:flex;align-items:center;gap:24px;background:${TH.layout === 'photo' ? 'rgba(0,0,0,.34)' : 'rgba(17,4,83,.06)'};border:1.5px solid ${TH.layout === 'photo' ? T.chipBorder : 'rgba(17,4,83,.2)'};border-radius:22px;padding:20px 26px;backdrop-filter:blur(8px);align-self:flex-start;max-width:100%}
-.ptthumb{width:116px;height:116px;border-radius:16px;object-fit:cover;background:#FFF;flex:none}
+.ptthumb{width:116px;height:116px;border-radius:16px;object-fit:contain;background:#FFF;flex:none}
 .ptname{font-weight:700;font-size:30px;line-height:1.35;overflow-wrap:break-word}
-.ptprice{font-weight:600;font-size:27px;color:${TH.layout === 'photo' ? T.accent : KEY};margin-top:6px}
+.ptprice{font-weight:600;font-size:27px;color:${TH.layout === 'photo' ? 'rgba(255,255,255,.85)' : KEY};margin-top:6px}
 .split{display:flex;gap:22px}
 .half{flex:1;border-radius:${T.radius}px;padding:50px 42px;min-height:400px;display:flex;flex-direction:column;gap:20px;background:rgba(10,8,5,.55);border:1.5px solid rgba(255,255,255,.18);backdrop-filter:blur(8px)}
 .half.after{background:rgba(58,40,16,.62);border-color:${T.chipBorder}}
