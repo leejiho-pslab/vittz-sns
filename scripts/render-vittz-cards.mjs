@@ -267,9 +267,11 @@ function frame(TH, s, out, pickCut, pos) {
   } else if (TH.layout === 'photo') {
     const photo = pickCut(s);
     if (photo && out.productNoCrop) {
-      // 제품 노-크롭: 블러 배경(무드) + 원본 전체 contain(와이드, 잘림 0)
-      bgLayer = `<img class="bg bgblur" src="${photo}" alt=""/>
-        <div class="fgwrap"><img src="${photo}" alt=""/></div>
+      // 레퍼런스(라이팅플러스) 문법: 공간 무드 컷을 풀블리드 배경으로 깔고,
+      // 그 위에 제품 컷을 흰 프레임 액자로 크게 — 제품 원본은 잘림 0(height auto)
+      const framePhoto = pickCut(s) || photo;
+      bgLayer = `<img class="bg" src="${photo}" alt=""/>
+        <div class="fgwrap"><div class="frame"><img src="${framePhoto}" alt=""/></div></div>
         <div class="scrim" style="background:${out.scrim}"></div>`;
     } else {
       bgLayer = photo
@@ -310,9 +312,9 @@ body{font-family:'Pretendard';color:${ink}}
 .card{width:1080px;height:1350px;position:relative;overflow:hidden}
 .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .bg.fb{background:${T.fallbackBg}}
-.bgblur{filter:blur(36px) brightness(.8);transform:scale(1.15)}
-.fgwrap{position:absolute;left:0;right:0;top:132px;height:660px;display:flex;align-items:center;justify-content:center;padding:0 34px}
-.fgwrap img{max-width:100%;max-height:100%;object-fit:contain;border-radius:22px;box-shadow:0 30px 80px rgba(0,0,0,.35)}
+.fgwrap{position:absolute;left:0;right:0;top:150px;display:flex;justify-content:center}
+.frame{background:#FFFFFF;padding:14px;border-radius:6px;box-shadow:0 34px 90px rgba(0,0,0,.42);width:72%;max-height:700px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.frame img{width:100%;height:auto;max-height:672px;object-fit:contain;display:block}
 .scrim{position:absolute;inset:0}
 .layer{position:absolute;inset:0;padding:84px 88px;display:flex;flex-direction:column}
 .top{display:flex;justify-content:space-between;align-items:baseline}
@@ -344,11 +346,11 @@ ${TH.layout === 'panel'
 .pprice-s{font-weight:600;font-size:30px;color:${sub};margin-left:22px;letter-spacing:0;white-space:nowrap}
 .pbody{margin-top:26px}
 .buyline{margin-top:30px;font-size:28px;font-weight:600;color:${sub};letter-spacing:.02em}
-.panelimg{margin-top:44px;border-radius:${T.radius}px;overflow:hidden;background:#FFFFFF;box-shadow:0 26px 70px rgba(17,4,83,.14);max-height:640px;width:100%}
-.panelimg img{width:100%;height:640px;object-fit:contain;display:block;background:#FFFFFF}
-.wideimg{margin-top:56px;border-radius:${T.radius}px;overflow:hidden;width:100%;box-shadow:0 26px 70px rgba(0,0,0,.32)}
-.wideimg img{width:100%;height:520px;object-fit:contain;display:block;background:#FFFFFF}
-.covpanel{max-height:540px}.covpanel img{height:540px;object-fit:contain}
+.panelimg{margin-top:44px;border-radius:${T.radius}px;overflow:hidden;background:#FFFFFF;box-shadow:0 26px 70px rgba(17,4,83,.14);max-height:700px;width:100%;display:flex;align-items:center;justify-content:center}
+.panelimg img{width:100%;height:auto;max-height:700px;object-fit:contain;display:block}
+.wideimg{margin-top:56px;border-radius:${T.radius}px;overflow:hidden;width:100%;box-shadow:0 26px 70px rgba(0,0,0,.32);background:#FFFFFF;display:flex;align-items:center;justify-content:center;max-height:560px}
+.wideimg img{width:100%;height:auto;max-height:560px;object-fit:contain;display:block}
+.covpanel{max-height:560px}.covpanel img{max-height:560px}
 .brandbg{background:#F8F7FC}
 .brand{align-items:center;text-align:center;justify-content:center !important;color:#2A241B}
 .brandlogo{font-weight:800;font-size:96px;letter-spacing:.42em;color:${KEY};text-indent:.42em}
