@@ -1,6 +1,4 @@
 {
- "note": "쇼츠/릴스 모션 배경 클립 — 세션에서 힉스필드로 생성해 URL 기록, CI(build-shorts-video.mjs)가 다운로드·합성한다.",
- "clips": {
-  "test-yt-3lights": "https://d8j0ntlcm91z4.cloudfront.net/user_3GObHnwJ1UMUu9vETRNq0YG4Q5L/hf_20260803_062852_5c788825-fb68-46c5-8d48-388e36587d70.mp4"
- }
+  "note": "쇼츠/릴스 모션 배경 클립 — 세션에서 힉스필드로 생성해 URL 기록, CI(build-shorts-video.mjs)가 다운로드·합성한다.",
+  "clips": {}
 }
