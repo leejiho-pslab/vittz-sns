@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T13:08:00.284Z",
+  "updatedAt": "2026-08-04T05:40:00.000Z",
   "items": [
     {
       "id": "test-ig-ceilingfan",
@@ -389,14 +389,14 @@
       "designTheme": "brand-story",
       "kicker": "비츠 이야기",
       "dayLabel": "브랜드이야기",
-      "headline": "조명 가게가 아니라<br>*빛을 다루는 팀*입니다",
+      "headline": "온라인 조명 1위,<br>*빛을 다루는 팀*입니다",
       "captionNote": "주제별 디자인 폼 데모 — 브랜드이야기(키 컬러 풀 배경·타이포 중심)",
       "captionBody": "비츠는 조명을 파는 곳이 아니라 빛을 다루는 팀입니다 💡\n\n상위 1%의 품질을 가장 합리적인 가격으로 — 삼성 정품 LED 모듈, 플리커프리, 국가 표준 KC 인증까지. 그리고 배달과 설치를 한 번에 해결하는 비츠 딜리버리로 '조명 바꾸기'의 문턱을 낮춥니다.\n\n우리 집 빛이 달라지면 하루가 달라진다고 믿어요.\n\n@vittz_official\n\n#비츠 #비츠조명 #브랜드스토리 #인테리어조명 #조명맛집",
       "slides": [
         {
           "scene": "cover",
           "en": "VITTZ STORY",
-          "title": "조명 가게가 아니라\n*빛을 다루는 팀*입니다",
+          "title": "온라인 조명 1위,\n*빛을 다루는 팀*입니다",
           "body": "비츠가 일하는 방식"
         },
         {
@@ -428,6 +428,62 @@
         "cards/vittz/test-ig-brandstory-4.png"
       ],
       "cardImage": "cards/vittz/test-ig-brandstory-1.png"
+    },
+    {
+      "id": "test-reels-3lights",
+      "topic": "조명 레이어링 릴스",
+      "format": "릴스",
+      "channels": [
+        "instagram"
+      ],
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "score": 90,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "VITTZ 조명 레시피",
+      "headline": "퇴근 후, 거실이 *카페*가 되는 3가지 빛",
+      "sub": "베이스 → 포인트 → 무드, 15초 조명 레이어링",
+      "dayLabel": "릴스",
+      "rationale": "릴스 레퍼런스 5편 정밀 분석 문법(실사 무드+①②③ 큐레이션+로고 클로징) + IKEA식 캔디드 인물·인-씬 가격 라벨. 운영자 검수 v3 승인 라인.",
+      "captionBody": "퇴근하고 돌아온 거실, 불 하나만 바꿔도 카페가 됩니다.\n\n빛은 세 겹이면 충분해요.\n① 베이스 — 델룬 LED 직부등, 공간 전체를 은은하게 (95,000원)\n② 포인트 — 젤로비 레일 스팟, 벽과 소품에 입체감을 (13,000원~)\n③ 무드 — 세라핌 유리 펜던트, 테이블 위 카페의 온도 (75,000원)\n\n오늘 저녁, 우리 집 거실의 온도를 바꿔보세요.\n설치가 걱정이라면 비츠 딜리버리(배달+설치 한 번에)로 해결하세요.\n제품은 프로필 링크에서 👉 @vittz_official\n\n#비츠 #비츠조명 #VITTZ #조명레이어링 #거실조명 #카페같은집\n#거실인테리어 #직부등 #레일조명 #펜던트조명 #홈카페 #신혼집조명",
+      "reelsScript": "[S1 훅 0-3s] 퇴근 후 현관 진입(수평 무빙) — 자막(하단): 퇴근 후, 거실이 카페가 되는 3가지 빛\n[S2 3-6s] 델룬 틸트업→제품 와이드 — ① 베이스, ₩95,000 인-씬 라벨\n[S3 6-9s] 젤로비 틸트업→제품 와이드 — ② 포인트, ₩13,000~ 라벨\n[S4 9-12.5s] 세라핌 틸트업→제품 와이드 — ③ 무드, ₩75,000 라벨\n[S5 12.5-15s] VITTZ 클린 로고 클로징 · FIND MORE",
+      "videoFile": "shorts/test-reels-3lights/test-reels-3lights.mp4",
+      "videoSeconds": 15,
+      "coverOffsetMs": 1500,
+      "cardImage": "shorts/test-reels-3lights/cover.png",
+      "captionNote": "검수 이력: v1 씬(무인) → v2 인물 생활감 → v3 IKEA 캔디드+가격 라벨 → 1차 영상본 → 2차본(오프닝 교체) 운영자 피드백 반영"
+    },
+    {
+      "id": "test-yt-reels-3lights",
+      "topic": "조명 레이어링 릴스(쇼츠 재사용)",
+      "format": "쇼츠",
+      "channels": [
+        "youtube"
+      ],
+      "scheduledFor": "2026-08-06T09:00:00.000Z",
+      "score": 90,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "VITTZ 조명 레시피",
+      "headline": "퇴근 후, 거실이 *카페*가 되는 3가지 빛",
+      "sub": "릴스와 동일 영상 — 유튜브 쇼츠 발행용",
+      "dayLabel": "쇼츠",
+      "videoFrom": "test-reels-3lights",
+      "videoFile": "shorts/test-reels-3lights/test-reels-3lights.mp4",
+      "videoSeconds": 15,
+      "coverOffsetMs": 1500,
+      "cardImage": "shorts/test-reels-3lights/cover.png",
+      "ytTitle": "퇴근 후, 거실이 카페가 되는 3가지 빛 ☕ #Shorts",
+      "ytDescription": "불 하나만 바꿔도 거실이 카페가 됩니다.\n\n① 베이스 — LED 델룬 거실등 180W (95,000원)\n② 포인트 — COB 젤로비 레일조명 (13,000원~)\n③ 무드 — 세라핌 유리 펜던트 (75,000원)\n\n제품 보러 가기 → https://vittz.co.kr\n배달+설치 한 번에, 비츠 딜리버리\n\n#거실조명 #조명레이어링 #카페같은집 #비츠조명",
+      "ytTags": [
+        "거실조명",
+        "조명레이어링",
+        "카페같은집",
+        "비츠조명",
+        "홈카페",
+        "인테리어조명"
+      ],
+      "captionBody": "퇴근하고 돌아온 거실, 불 하나만 바꿔도 카페가 됩니다.\n\n빛은 세 겹이면 충분해요.\n① 베이스 — 델룬 LED 직부등, 공간 전체를 은은하게 (95,000원)\n② 포인트 — 젤로비 레일 스팟, 벽과 소품에 입체감을 (13,000원~)\n③ 무드 — 세라핌 유리 펜던트, 테이블 위 카페의 온도 (75,000원)\n\n오늘 저녁, 우리 집 거실의 온도를 바꿔보세요.\n설치가 걱정이라면 비츠 딜리버리(배달+설치 한 번에)로 해결하세요.\n제품은 프로필 링크에서 👉 @vittz_official\n\n#비츠 #비츠조명 #VITTZ #조명레이어링 #거실조명 #카페같은집\n#거실인테리어 #직부등 #레일조명 #펜던트조명 #홈카페 #신혼집조명"
     }
   ]
 }
