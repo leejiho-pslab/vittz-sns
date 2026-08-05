@@ -264,7 +264,31 @@
       "channel": "naver-blog",
       "status": "pending",
       "addedAt": "2026-08-05T14:07:30.917Z"
+    },
+    {
+      "url": "https://www.threads.com/@speak_kr",
+      "channel": "threads",
+      "status": "pending",
+      "addedAt": "2026-08-05T14:08:08.779Z"
+    },
+    {
+      "url": "https://www.threads.com/@29cm.official",
+      "channel": "threads",
+      "status": "pending",
+      "addedAt": "2026-08-05T14:08:08.779Z"
+    },
+    {
+      "url": "https://www.threads.com/@wconceptkorea",
+      "channel": "threads",
+      "status": "pending",
+      "addedAt": "2026-08-05T14:08:08.779Z"
+    },
+    {
+      "url": "https://www.threads.com/@class101_official",
+      "channel": "threads",
+      "status": "pending",
+      "addedAt": "2026-08-05T14:08:08.779Z"
     }
   ],
-  "updatedAt": "2026-08-05T14:07:30.917Z"
+  "updatedAt": "2026-08-05T14:08:08.779Z"
 }
