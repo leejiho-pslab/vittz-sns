@@ -1,294 +1,310 @@
 {
-  "links": [
-    {
-      "url": "https://www.instagram.com/p/DbKBSOTk-Eo/",
-      "channel": "instagram",
-      "note": "시스템 검증 — 벤치마크(오늘의집) 캐러셀 자동 열람 테스트",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:34:02.972Z",
-      "learnedAt": "2026-08-01T05:34:02.972Z",
-      "summary": "오늘의집×이도 콜라보 캐러셀 5장 전장 열람 — 웜 그레이지 단색 배경+굵은 영문 디스플레이 타이포 커버(티저형), 중간 장 이벤트 상품 고지(캡슐 배지), 마지막 장 브랜드 로고 클로징. 커버 티저→상품→클로징 3막 구성을 비츠 캐러셀 표준과 대조 확인"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DGdR_hwJbxv",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "헤이솔홈 트렌드 릴스 — 커버에 '지금 핫한 공간에 꼭 있는 조명'+'저거뭐예요?' 말풍선 후킹. 궁금증 말풍선 커버 기법 (영상 본편은 임베드 미제공 — 커버 기준 학습)"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DLzYOWQhTfD",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
-      "learnedAt": "2026-08-03T06:30:00.000Z"
-    },
-    {
-      "url": "https://www.instagram.com/p/DaeJLmID_3A",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "라이팅플러스 실링팬 가이드 캐러셀 8장 — 저녁 전구빛 실사 배경(다크 웜브라운)+흰 산세리프 헤드라인+좌상단 로고 고정, 정보칩(천장 2.3m·간격 60cm) 캡슐 배지, 커버 주제선언→체크사항→공간별→설치가이드→계절 팁→추천 제품→주의→CTA 클로징. 비츠 dusk 무드와 동계열의 '정보성 가이드 캐러셀' 표준 구성"
-    },
-    {
-      "url": "https://www.instagram.com/p/DaUYNmwEar6",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "매지컬리빙 디자이너 조명 큐레이션 — 커버를 노트+제품 스티커 콜라주로 후킹, 이후 장은 제품 1개씩 실사+쇼핑태그 핀. 클로즈업·공간컷 교차, 채도 높은 오브제(오렌지) 1개로 포인트. '제품 큐레이션 캐러셀'의 커버 후킹 기법"
-    },
-    {
-      "url": "https://www.instagram.com/reel/C3pijeYhTcW",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "르우니홈 '조명 중독자의 조명 추천' 릴스 — 웜 그린·우드 배경에 버섯 램프·테이블 조명, 시리즈 타이틀형 커버 (커버 기준 학습)"
-    },
-    {
-      "url": "https://www.instagram.com/p/DR_YeDUEuCo",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "셋어컨셉 펜던트 룩북 — 전 장 상단 중앙 세리프 로고타입 고정, 텍스트 없이 풀블리드 실사만으로 무드 통일(웜 우드·베이지·오렌지 포인트). '비주얼 온리 룩북' 포맷 — 피드 톤 일관성의 교과서"
-    },
-    {
-      "url": "https://www.instagram.com/p/DUVLqkIAXZw",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "dgng '10만원 이하 플루어 조명' 17장 — 가격 후킹 커버(어두운 실사+흰 볼드), 2장째 블랙 배경 에세이 카피로 서사 도입, 제품별 [무드 실사↔백색 누끼] 교차 리듬, 블랙 로고 클로징. 긴 캐러셀에서 지루함을 끊는 교차 편집 기법"
-    },
-    {
-      "url": "https://www.instagram.com/p/DaKN8QtE37_",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "꾸민(ggumin) 색온도 지식카드 — 동일 공간 반복컷에 색온도만 바꿔 비교(전구색↔주백색↔주광색), 2700~6500K 그라데이션 척도 바, Tip 탭 배지, 마지막 팔로우 유도 계정카드 CTA. 비츠 수요일 지식카드에 직결되는 비교 연출 기법"
-    },
-    {
-      "url": "https://www.instagram.com/p/DbDG2lTD1nM",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "라이팅플러스 거실 조명 추천 — 다크 웜 실사+넘버링(01/02/03) 조합 카드, 선택 체크리스트, 연출 팁 3분할 하단 카드, 상황별 포인트 인셋 박스, CTA 아이콘 클로징. 시리즈 포맷의 일관성 표준"
-    },
-    {
-      "url": "https://www.instagram.com/p/DZrx6ztlCgD",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "디메이드 인테리어 스튜디오 무드 포트폴리오 — 저조도 웜 간접조명 공간 실사 연작(핸들 워터마크 고정), 블랙 로고 클로징. 간접조명 무드 연출·dusk 배경 톤 직접 참고"
-    },
-    {
-      "url": "https://www.instagram.com/p/DWaXxyOk6JT",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
-      "learnedAt": "2026-08-03T06:30:00.000Z"
-    },
-    {
-      "url": "https://www.instagram.com/p/DacaOWUktyQ",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "다리홈 실링팬 UGC 후기 캐러셀 12장 — Before/After, 구어체 자막(기사아저씨께서…체증이 싹), 체크리스트(가격·디자인·기능), 설치 과정 실사, 조명 OFF/웜톤 비교, 감성 클로징. 비츠 딜리버리 설치 후기 콘텐츠의 교본"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DB8UUGloSHM",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "검색창 UI 컨셉 릴스 — 흐린 쇼룸 배경 위 검색창 오버레이(인테리어 조명 타이핑)→검색결과형 제품 카드 그리드(가격 표기)→FIND MORE AT 계정 검색창 CTA. 검색 메타포로 인터랙션을 유도하는 후킹 — 첫 장표 인터랙션 지침⑤와 직결"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DIaoszYJe53",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "윌플랜 색온도 실험 릴스 — 벽에 휴대용 조명을 손으로 비추며 전구색 3000K→주백색 4000K→주광색 6000K 실시간 비교, 자막 최소. 한 컷 실험형(손+제품)으로 지식 전달 — 무음 15초 릴스 원칙에 최적"
-    },
-    {
-      "url": "https://www.instagram.com/p/DWC5D8egbFY",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "시공 사례 컷 모음 — 공간 실사 위 제품 클로즈업을 흰 테두리 인셋(폴라로이드형)으로 얹는 배치. 시공 후기 + 제품 식별을 동시에 잡는 레이아웃"
-    },
-    {
-      "url": "https://www.instagram.com/p/DVw3XLTEmDy",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "공간별 조명 팁 큐레이션 — 색온도 3분할 비교(2700K/4000K/5700K 라벨 배지), 공간 실사 중심, 텍스트 절제. 큐레이션 계정의 비교 라벨 기법"
-    },
-    {
-      "url": "https://www.instagram.com/p/DV2A562koIR",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "스위치·조광기 디테일 캐러셀 — 손가락+스위치 클로즈업 실사, 제품 인셋 프레임, 디머 노브 조작 컷. 하드웨어 디테일로 감도를 만드는 제품 개별 화법(지침② 디테일 큐레이션)"
-    },
-    {
-      "url": "https://www.instagram.com/p/Da6Z0h-k3t3",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "소린집 '이거 몰라서 인테리어' 디테일 팁 17장 — 시공 디테일 클로즈업 실사+짧은 팁 자막+화살표 포인팅(T5조명 연결·실리콘 색 맞추기 등). 정보 밀도 높은 UGC 팁 모음 — 저장 유도형 보관용 정보 구성의 실례"
-    },
-    {
-      "url": "https://www.instagram.com/p/DbW78krDx7r",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "라이팅플러스 우리 집 조명 가이드 — 공간별 추천 3분할 카드(거실등/방등/주방등), 반투명 인셋 패널, 색온도 3칩(2700K/4000K/6500K), 체크리스트, CTA 클로징. 시리즈 일관 포맷 3번째 확증 — 요일 시리즈 운영의 표본"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DCeAl3pp3sP",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "스튜디오 이누레 'Glow up' 릴스 — 커튼 앞 오렌지 아크 램프, 세리프 영문 카피 무드 클로즈업 (커버 기준 학습)"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DbF5YMCPhB3",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "스튜디오 이누레 옐로 UFO 펜던트 릴스 — 제품 초근접 클로즈업 커버, 텍스트 없는 오브제 무드 (커버 기준 학습)"
-    },
-    {
-      "url": "https://www.instagram.com/p/DbPKNybjJ5L",
-      "channel": "instagram",
-      "status": "learned",
-      "addedAt": "2026-08-01T05:48:42.060Z",
-      "learnedAt": "2026-08-01T06:09:12.317Z",
-      "summary": "스몰테이블 '벽걸이 vs 거치형 TV' 비교 캐러셀 — 블랙 배경+옐로 포인트 텍스트, 넘버링 소제목, 비용 수치 명시(10~25만원), '한눈에 비교 요약' 정리 장, 질문형 클로징(당신의 선택은?). VS 비교 포맷+댓글 유도 — 첫 장표 인터랙션 지침과 직결"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DGdR_hwJbxv",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] 궁금증 말풍선 커버(저거뭐예요?)+트렌드 큐레이션 — 커버 프레임 기준 학습(임베드 영상 미제공)"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DLzYOWQhTfD",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
-      "learnedAt": "2026-08-03T06:30:00.000Z"
-    },
-    {
-      "url": "https://www.instagram.com/reel/C3pijeYhTcW",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] 조명 중독자의 추천 시리즈 타이틀형 — 커버 기준 학습"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DB8UUGloSHM",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] 검색창 UI 메타포 — 검색어 타이핑→결과 카드 등장 구성은 쇼츠 도입 3초 후킹으로 그대로 이식 가능. 무음에서도 성립하는 시각 서사"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DIaoszYJe53",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] 손+제품 한 컷 색온도 실험(3000K→4000K→6000K 자막) — 컷 전환 없이 조명 변화만으로 15초를 채우는 구성. 비츠 쇼츠 1순위 포맷"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DCeAl3pp3sP",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] Glow up 세리프 영문 카피+오브제 무드 클로즈업 — 커버 기준 학습"
-    },
-    {
-      "url": "https://www.instagram.com/reel/DbF5YMCPhB3",
-      "channel": "youtube",
-      "status": "learned",
-      "addedAt": "2026-08-01T07:00:23.995Z",
-      "learnedAt": "2026-08-01T07:00:51.412Z",
-      "summary": "[쇼츠 관점] 제품 초근접 무드 클로즈업, 텍스트 없음 — 커버 기준 학습"
-    },
-    {
-      "url": "https://sujakso138.tistory.com/",
-      "channel": "naver-blog",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:07:30.917Z"
-    },
-    {
-      "url": "https://blog.naver.com/sively_s2/224155728096",
-      "channel": "naver-blog",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:07:30.917Z"
-    },
-    {
-      "url": "https://blog.naver.com/tidy-brand",
-      "channel": "naver-blog",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:07:30.917Z"
-    },
-    {
-      "url": "https://blog.naver.com/gichool100",
-      "channel": "naver-blog",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:07:30.917Z"
-    },
-    {
-      "url": "https://www.threads.com/@speak_kr",
-      "channel": "threads",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:08:08.779Z"
-    },
-    {
-      "url": "https://www.threads.com/@29cm.official",
-      "channel": "threads",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:08:08.779Z"
-    },
-    {
-      "url": "https://www.threads.com/@wconceptkorea",
-      "channel": "threads",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:08:08.779Z"
-    },
-    {
-      "url": "https://www.threads.com/@class101_official",
-      "channel": "threads",
-      "status": "pending",
-      "addedAt": "2026-08-05T14:08:08.779Z"
-    }
-  ],
-  "updatedAt": "2026-08-05T14:08:08.779Z"
+ "links": [
+  {
+   "url": "https://www.instagram.com/p/DbKBSOTk-Eo/",
+   "channel": "instagram",
+   "note": "시스템 검증 — 벤치마크(오늘의집) 캐러셀 자동 열람 테스트",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:34:02.972Z",
+   "learnedAt": "2026-08-01T05:34:02.972Z",
+   "summary": "오늘의집×이도 콜라보 캐러셀 5장 전장 열람 — 웜 그레이지 단색 배경+굵은 영문 디스플레이 타이포 커버(티저형), 중간 장 이벤트 상품 고지(캡슐 배지), 마지막 장 브랜드 로고 클로징. 커버 티저→상품→클로징 3막 구성을 비츠 캐러셀 표준과 대조 확인"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DGdR_hwJbxv",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "헤이솔홈 트렌드 릴스 — 커버에 '지금 핫한 공간에 꼭 있는 조명'+'저거뭐예요?' 말풍선 후킹. 궁금증 말풍선 커버 기법 (영상 본편은 임베드 미제공 — 커버 기준 학습)"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLzYOWQhTfD",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
+   "learnedAt": "2026-08-03T06:30:00.000Z"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaeJLmID_3A",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "라이팅플러스 실링팬 가이드 캐러셀 8장 — 저녁 전구빛 실사 배경(다크 웜브라운)+흰 산세리프 헤드라인+좌상단 로고 고정, 정보칩(천장 2.3m·간격 60cm) 캡슐 배지, 커버 주제선언→체크사항→공간별→설치가이드→계절 팁→추천 제품→주의→CTA 클로징. 비츠 dusk 무드와 동계열의 '정보성 가이드 캐러셀' 표준 구성"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaUYNmwEar6",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "매지컬리빙 디자이너 조명 큐레이션 — 커버를 노트+제품 스티커 콜라주로 후킹, 이후 장은 제품 1개씩 실사+쇼핑태그 핀. 클로즈업·공간컷 교차, 채도 높은 오브제(오렌지) 1개로 포인트. '제품 큐레이션 캐러셀'의 커버 후킹 기법"
+  },
+  {
+   "url": "https://www.instagram.com/reel/C3pijeYhTcW",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "르우니홈 '조명 중독자의 조명 추천' 릴스 — 웜 그린·우드 배경에 버섯 램프·테이블 조명, 시리즈 타이틀형 커버 (커버 기준 학습)"
+  },
+  {
+   "url": "https://www.instagram.com/p/DR_YeDUEuCo",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "셋어컨셉 펜던트 룩북 — 전 장 상단 중앙 세리프 로고타입 고정, 텍스트 없이 풀블리드 실사만으로 무드 통일(웜 우드·베이지·오렌지 포인트). '비주얼 온리 룩북' 포맷 — 피드 톤 일관성의 교과서"
+  },
+  {
+   "url": "https://www.instagram.com/p/DUVLqkIAXZw",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "dgng '10만원 이하 플루어 조명' 17장 — 가격 후킹 커버(어두운 실사+흰 볼드), 2장째 블랙 배경 에세이 카피로 서사 도입, 제품별 [무드 실사↔백색 누끼] 교차 리듬, 블랙 로고 클로징. 긴 캐러셀에서 지루함을 끊는 교차 편집 기법"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKN8QtE37_",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "꾸민(ggumin) 색온도 지식카드 — 동일 공간 반복컷에 색온도만 바꿔 비교(전구색↔주백색↔주광색), 2700~6500K 그라데이션 척도 바, Tip 탭 배지, 마지막 팔로우 유도 계정카드 CTA. 비츠 수요일 지식카드에 직결되는 비교 연출 기법"
+  },
+  {
+   "url": "https://www.instagram.com/p/DbDG2lTD1nM",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "라이팅플러스 거실 조명 추천 — 다크 웜 실사+넘버링(01/02/03) 조합 카드, 선택 체크리스트, 연출 팁 3분할 하단 카드, 상황별 포인트 인셋 박스, CTA 아이콘 클로징. 시리즈 포맷의 일관성 표준"
+  },
+  {
+   "url": "https://www.instagram.com/p/DZrx6ztlCgD",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "디메이드 인테리어 스튜디오 무드 포트폴리오 — 저조도 웜 간접조명 공간 실사 연작(핸들 워터마크 고정), 블랙 로고 클로징. 간접조명 무드 연출·dusk 배경 톤 직접 참고"
+  },
+  {
+   "url": "https://www.instagram.com/p/DWaXxyOk6JT",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
+   "learnedAt": "2026-08-03T06:30:00.000Z"
+  },
+  {
+   "url": "https://www.instagram.com/p/DacaOWUktyQ",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "다리홈 실링팬 UGC 후기 캐러셀 12장 — Before/After, 구어체 자막(기사아저씨께서…체증이 싹), 체크리스트(가격·디자인·기능), 설치 과정 실사, 조명 OFF/웜톤 비교, 감성 클로징. 비츠 딜리버리 설치 후기 콘텐츠의 교본"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DB8UUGloSHM",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "검색창 UI 컨셉 릴스 — 흐린 쇼룸 배경 위 검색창 오버레이(인테리어 조명 타이핑)→검색결과형 제품 카드 그리드(가격 표기)→FIND MORE AT 계정 검색창 CTA. 검색 메타포로 인터랙션을 유도하는 후킹 — 첫 장표 인터랙션 지침⑤와 직결"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DIaoszYJe53",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "윌플랜 색온도 실험 릴스 — 벽에 휴대용 조명을 손으로 비추며 전구색 3000K→주백색 4000K→주광색 6000K 실시간 비교, 자막 최소. 한 컷 실험형(손+제품)으로 지식 전달 — 무음 15초 릴스 원칙에 최적"
+  },
+  {
+   "url": "https://www.instagram.com/p/DWC5D8egbFY",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "시공 사례 컷 모음 — 공간 실사 위 제품 클로즈업을 흰 테두리 인셋(폴라로이드형)으로 얹는 배치. 시공 후기 + 제품 식별을 동시에 잡는 레이아웃"
+  },
+  {
+   "url": "https://www.instagram.com/p/DVw3XLTEmDy",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "공간별 조명 팁 큐레이션 — 색온도 3분할 비교(2700K/4000K/5700K 라벨 배지), 공간 실사 중심, 텍스트 절제. 큐레이션 계정의 비교 라벨 기법"
+  },
+  {
+   "url": "https://www.instagram.com/p/DV2A562koIR",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "스위치·조광기 디테일 캐러셀 — 손가락+스위치 클로즈업 실사, 제품 인셋 프레임, 디머 노브 조작 컷. 하드웨어 디테일로 감도를 만드는 제품 개별 화법(지침② 디테일 큐레이션)"
+  },
+  {
+   "url": "https://www.instagram.com/p/Da6Z0h-k3t3",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "소린집 '이거 몰라서 인테리어' 디테일 팁 17장 — 시공 디테일 클로즈업 실사+짧은 팁 자막+화살표 포인팅(T5조명 연결·실리콘 색 맞추기 등). 정보 밀도 높은 UGC 팁 모음 — 저장 유도형 보관용 정보 구성의 실례"
+  },
+  {
+   "url": "https://www.instagram.com/p/DbW78krDx7r",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "라이팅플러스 우리 집 조명 가이드 — 공간별 추천 3분할 카드(거실등/방등/주방등), 반투명 인셋 패널, 색온도 3칩(2700K/4000K/6500K), 체크리스트, CTA 클로징. 시리즈 일관 포맷 3번째 확증 — 요일 시리즈 운영의 표본"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DCeAl3pp3sP",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "스튜디오 이누레 'Glow up' 릴스 — 커튼 앞 오렌지 아크 램프, 세리프 영문 카피 무드 클로즈업 (커버 기준 학습)"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DbF5YMCPhB3",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "스튜디오 이누레 옐로 UFO 펜던트 릴스 — 제품 초근접 클로즈업 커버, 텍스트 없는 오브제 무드 (커버 기준 학습)"
+  },
+  {
+   "url": "https://www.instagram.com/p/DbPKNybjJ5L",
+   "channel": "instagram",
+   "status": "learned",
+   "addedAt": "2026-08-01T05:48:42.060Z",
+   "learnedAt": "2026-08-01T06:09:12.317Z",
+   "summary": "스몰테이블 '벽걸이 vs 거치형 TV' 비교 캐러셀 — 블랙 배경+옐로 포인트 텍스트, 넘버링 소제목, 비용 수치 명시(10~25만원), '한눈에 비교 요약' 정리 장, 질문형 클로징(당신의 선택은?). VS 비교 포맷+댓글 유도 — 첫 장표 인터랙션 지침과 직결"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DGdR_hwJbxv",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] 궁금증 말풍선 커버(저거뭐예요?)+트렌드 큐레이션 — 커버 프레임 기준 학습(임베드 영상 미제공)"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DLzYOWQhTfD",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "summary": "게시물이 삭제되어 열람 불가 — 다른 링크로 교체해 주세요 [2026-08-03 드라이브 업로드 영상(릴스 레퍼런스 폴더)으로 대체 열람·학습 완료]",
+   "learnedAt": "2026-08-03T06:30:00.000Z"
+  },
+  {
+   "url": "https://www.instagram.com/reel/C3pijeYhTcW",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] 조명 중독자의 추천 시리즈 타이틀형 — 커버 기준 학습"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DB8UUGloSHM",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] 검색창 UI 메타포 — 검색어 타이핑→결과 카드 등장 구성은 쇼츠 도입 3초 후킹으로 그대로 이식 가능. 무음에서도 성립하는 시각 서사"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DIaoszYJe53",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] 손+제품 한 컷 색온도 실험(3000K→4000K→6000K 자막) — 컷 전환 없이 조명 변화만으로 15초를 채우는 구성. 비츠 쇼츠 1순위 포맷"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DCeAl3pp3sP",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] Glow up 세리프 영문 카피+오브제 무드 클로즈업 — 커버 기준 학습"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DbF5YMCPhB3",
+   "channel": "youtube",
+   "status": "learned",
+   "addedAt": "2026-08-01T07:00:23.995Z",
+   "learnedAt": "2026-08-01T07:00:51.412Z",
+   "summary": "[쇼츠 관점] 제품 초근접 무드 클로즈업, 텍스트 없음 — 커버 기준 학습"
+  },
+  {
+   "url": "https://sujakso138.tistory.com/",
+   "channel": "naver-blog",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:07:30.917Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "수작소(수제 제본 공방) — '포트폴리오형 블로그' 문법: 매 글이 실제 제작 사례 스토리(104세 할머니 성경 필사본, 커스텀 포토북 등). 제목=[카테고리]+구체적 사연, 실물 사진 중심, 사례가 곧 콘텐츠. 비츠 적용: 설치 사례·고객 스토리형 포스트(델룬 설치 후기, 공간 비포애프터)를 정기 코너로."
+  },
+  {
+   "url": "https://blog.naver.com/sively_s2/224155728096",
+   "channel": "naver-blog",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:07:30.917Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "빨리맘 리뷰 포스트 — '개인 블로거 체험단 리뷰' 문법: 상단에 대가성 고지 명시, 이웃체 구어(안녕이에용), 기업 소개를 개인 시점 경험담으로 풀기, 제품 실사+정보 요약 반복. 비츠 적용: 체험단 운영 시 요구할 표준 구성(고지→개인 스토리→실사→스펙 요약→링크)과 협찬 리뷰 가이드 기준."
+  },
+  {
+   "url": "https://blog.naver.com/tidy-brand",
+   "channel": "naver-blog",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:07:30.917Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "요비(AI 브랜드 디자이너) 공식 블로그 — '브랜드 공식 블로그' 문법: 키컬러 풀블리드 홈 배너+서비스 키워드 뱃지(LOGO/BRANDING/IMAGE/STRATEGY), '창업 브랜딩 가이드' 105편 시리즈로 정보성 칼럼을 자산화, 카테고리로 프롤로그/소식/가이드 분리. 비츠 적용: 블로그 홈 브랜딩(로고색 배너) + '조명 가이드' 연재 시리즈 구조."
+  },
+  {
+   "url": "https://blog.naver.com/gichool100",
+   "channel": "naver-blog",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:07:30.917Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "인쇄는 처음이라 — '타깃 특화 입문 가이드' 문법: 헤더에서 타깃·약속 명시(학교·학원 인쇄, 막연했던 걸 하나씩), 위젯형 홈(홈페이지/정보/포트폴리오/공지/카톡 버튼), 발주 시기·순서 등 실무 기준 체크리스트형 글, 글마다 조회수 노출로 신뢰 축적. 비츠 적용: '조명이 처음이라' 컨셉의 입문 연재(와트 기준, 교체 시기, 설치 순서), 홈에 상담·딜리버리 버튼 위젯."
+  },
+  {
+   "url": "https://www.threads.com/@speak_kr",
+   "channel": "threads",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:08:08.779Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "스픽(10만) — 공식 계정의 '직원 자아' 문법: 바이오부터 '대표님 허락 안 받고 걍 시작한 계정', 반말·B급 수다, 밈+회사 일상 사진, 경쟁사 언급도 티키타카 소재. 브랜드 광고를 사담처럼 흘리는 게 핵심."
+  },
+  {
+   "url": "https://www.threads.com/@29cm.official",
+   "channel": "threads",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:08:08.779Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "29CM(4.6만) — 취향 셀렉트샵 수다 문법: 팝업·이벤트 정보도 '야구.. 좋아하세요?'식 말 걸기로 시작, 📅⏰📍 이모지 불릿으로 정보 정리, 생활감 사진 3장 첨부. 정보성 공지도 수다 톤으로 감싼다."
+  },
+  {
+   "url": "https://www.threads.com/@wconceptkorea",
+   "channel": "threads",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:08:08.779Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "WCONCEPT(4.9만) — 운영 페르소나 공개 문법: 바이오에 콘텐츠 혼용률(MD 취향 20%·마케터 사담 35%·사무실 비하인드 20%...)을 명시하는 메타 유머, 실용팁(픽서 사용법)을 친구체 수다로, '스친(스레드 친구)' 등 플랫폼 은어 활용."
+  },
+  {
+   "url": "https://www.threads.com/@class101_official",
+   "channel": "threads",
+   "status": "learned",
+   "addedAt": "2026-08-05T14:08:08.779Z",
+   "learnedAt": "2026-08-05T13:40:00.000Z",
+   "summary": "클래스101(2.4만) — 감성 에세이 문법: 불안·고민 공감 후크('지금 이대로 뒤처지는 걸까')로 시작해 브랜드 서비스로 연결, 해시태그 캠페인(#불안을불안해하지마), 감성 카드 이미지 첨부. 공감→해결 2단 구조."
+  }
+ ],
+ "updatedAt": "2026-08-05T14:08:08.779Z"
 }

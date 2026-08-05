@@ -131,7 +131,12 @@ const BLOG_TIERS = [
   '최적화 3',
 ];
 
-function buildBlog(client: ClientConfig, blogPublished: ChannelPublished[], kwStats?: import('./guidance.js').KeywordStats) {
+function buildBlog(
+  client: ClientConfig,
+  blogPublished: ChannelPublished[],
+  kwStats?: import('./guidance.js').KeywordStats,
+  catKw?: import('./guidance.js').CategoryKeywordVolumes,
+) {
   // 블덱스 스타일: 등급 + 포스팅별 전문성/연관성/품질 + 키워드 분석
   const postCount = blogPublished.length;
   const avgEng =
@@ -171,6 +176,10 @@ function buildBlog(client: ClientConfig, blogPublished: ChannelPublished[], kwSt
     posts,
     keywords,
     kwSource: kwStats ? { source: kwStats.source, fetchedAt: kwStats.fetchedAt } : null,
+    // 카테고리별 핵심 키워드 주간 실측 — 블로그 탭 상시 패널 (운영자 지시 2026-08-05)
+    catKw: catKw
+      ? { updatedAt: String(catKw.updatedAt).slice(0, 10), baselineDate: catKw.baselineDate ?? null, categories: catKw.categories }
+      : null,
   };
 }
 
@@ -247,7 +256,12 @@ function buildClientData(
     .sort((a, b) => (a.scheduledFor || '').localeCompare(b.scheduledFor || ''));
 
   const blogChannel = channels.find((c) => c.key === 'naver-blog')!;
-  const blog = buildBlog(client, blogChannel.published as ChannelPublished[], guidanceStore?.loadKeywordStats(client.id));
+  const blog = buildBlog(
+    client,
+    blogChannel.published as ChannelPublished[],
+    guidanceStore?.loadKeywordStats(client.id),
+    guidanceStore?.loadCategoryKeywords(client.id),
+  );
 
   return {
     id: client.id,
@@ -970,8 +984,8 @@ function channelDetail(client, c){
   const pubF=c.published.filter(p=>inPeriod(p.time));
   const planPubF=c.pending.filter(it=>it.status==='published'&&inPeriod(it.publishedAt||it.scheduledFor));
   const waiting=c.pending.filter(it=>it.status!=='published');
-  // 네이버 블로그 → blogdex 스타일
-  if(c.key==='naver-blog'){ h+=blogSection(client); }
+  // 블로그(네이버·구글) → blogdex 스타일 + 카테고리 키워드 상시 패널
+  if(c.key==='naver-blog'||c.key==='blogger'){ h+=blogSection(client); }
   // 발행 대기 (발행 전 콘텐츠만)
   const heldN=waiting.filter(it=>openHolds(it).length>0).length;
   h+='<div class="sect-h"><h2>🕓 발행 대기 콘텐츠 ('+waiting.length+(heldN?' · ⛔ 보류 '+heldN:'')+')</h2></div>';
@@ -1008,6 +1022,21 @@ function blogSection(client){
         (wait?'<td colspan="4"><span class="badge b-wait">실측 대기</span> <span class="muted" style="font-size:11px">키워드 도구 CSV 임포트 후 표시</span></td>'
              :'<td>'+n(k.pc)+'</td><td>'+n(k.mobile)+'</td><td><b>'+n(k.total)+'</b></td><td>'+(k.competition?esc(k.competition):'<span class="muted">—</span>')+'</td>')+'</tr>';
     }).join('')+'</table>';
+  // 카테고리별 핵심 키워드 — 주간 실측·전월 대비 상시 패널 (운영자 지시 2026-08-05)
+  const ck=b.catKw;
+  if(ck){
+    const cell=k=>{
+      if(k.total==null) return esc(k.keyword)+' <span class="muted">—</span>';
+      const mom=k.momPct==null?'<span class="muted" style="font-size:11px">축적 중</span>'
+        :(k.momPct>0?'<span style="color:#15803d;font-weight:700">▲'+k.momPct+'%</span>'
+          :k.momPct<0?'<span style="color:#b91c1c;font-weight:700">▼'+Math.abs(k.momPct)+'%</span>'
+          :'<span class="muted">0%</span>');
+      return esc(k.keyword)+' <b>'+Number(k.total).toLocaleString()+'</b> '+mom;
+    };
+    h+='<div class="sect-h" style="margin:16px 0 6px"><h3 style="margin:0;font-size:14px">🗂 카테고리별 핵심 키워드 (주간 갱신·전월 대비)</h3><span class="muted">매주 월요일 09:00 자동 · 기준 '+esc(ck.updatedAt)+(ck.baselineDate?' · 전월比 '+esc(ck.baselineDate)+' 기준':' · 전월比는 다음 달부터')+'</span></div>';
+    h+='<div style="overflow-x:auto"><table><tr><th>카테고리</th><th>키워드 ①</th><th>키워드 ②</th><th>키워드 ③</th></tr>'+
+      ck.categories.map(c=>'<tr><td><b>'+esc(c.name)+'</b></td>'+c.keywords.map(k=>'<td>'+cell(k)+'</td>').join('')+'</tr>').join('')+'</table></div>';
+  }
   h+='</div>';
   return h;
 }

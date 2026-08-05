@@ -89,6 +89,27 @@ export interface KeywordStats {
 }
 
 /**
+ * 제품 카테고리별 핵심 키워드 주간 실측 — keyword-category-volumes.json
+ * scripts/fetch-category-keywords.mjs가 매주 월요일 수집(스냅샷)하고 전월 대비 상승률을 계산한다.
+ * 블로그(네이버·구글) 탭의 상시 키워드 패널이 이 데이터를 그대로 표시한다.
+ */
+export interface CategoryKeywordVolume {
+  keyword: string;
+  pc: number | null;
+  mobile: number | null;
+  total: number | null;
+  comp?: string | null;
+  /** 전월 대비 상승률(%) — 이전 달 스냅샷이 없으면 null(축적 중) */
+  momPct: number | null;
+}
+export interface CategoryKeywordVolumes {
+  updatedAt: string;
+  source?: string;
+  baselineDate?: string | null;
+  categories: { name: string; keywords: CategoryKeywordVolume[] }[];
+}
+
+/**
  * 레퍼런스 링크 인박스 — reference-links.json
  * 운영자가 대시보드에서 채널별 벤치마크 링크를 등록(`[레퍼런스·<채널>]` 이슈)하면
  * pending으로 적재되고, Claude 세션이 기획·제작 게이트에서 직접 열람·학습한 뒤
@@ -198,6 +219,12 @@ export class GuidanceStore {
   loadKeywordStats(clientId: string): KeywordStats | undefined {
     const s = this.read<KeywordStats>(this.file(clientId, 'keyword-stats.json'));
     return s && Array.isArray(s.items) && s.items.length ? s : undefined;
+  }
+
+  /** keyword-category-volumes.json — 제품 카테고리별 핵심 키워드 주간 실측 (전월 대비 포함) */
+  loadCategoryKeywords(clientId: string): CategoryKeywordVolumes | undefined {
+    const s = this.read<CategoryKeywordVolumes>(this.file(clientId, 'keyword-category-volumes.json'));
+    return s && Array.isArray(s.categories) && s.categories.length ? s : undefined;
   }
 
   /** reference-links.json — 레퍼런스 링크 인박스 (대시보드 등록 → 세션 학습) */
