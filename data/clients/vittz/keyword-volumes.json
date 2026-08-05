@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T13:40:13.955Z",
+  "updatedAt": "2026-08-05T14:19:16.005Z",
   "source": "네이버 검색광고 API keywordstool (광고주센터 키워드 도구와 동일 데이터)",
   "requested": [
     {
@@ -73,6 +73,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "LED조명",
+      "pc": 3150,
+      "mobile": 9240,
+      "total": 12390,
+      "compIdx": "중간",
+      "avgPcClicks": 34.5,
+      "avgMobileClicks": 128.8,
+      "plAvgDepth": 8
+    },
+    {
       "keyword": "레일조명",
       "pc": 3450,
       "mobile": 8250,
@@ -143,6 +153,16 @@
       "plAvgDepth": 10
     },
     {
+      "keyword": "셀프인테리어",
+      "pc": 1970,
+      "mobile": 3490,
+      "total": 5460,
+      "compIdx": "높음",
+      "avgPcClicks": 13.3,
+      "avgMobileClicks": 52.2,
+      "plAvgDepth": 10
+    },
+    {
       "keyword": "간접조명",
       "pc": 1400,
       "mobile": 3900,
@@ -180,6 +200,16 @@
       "compIdx": "높음",
       "avgPcClicks": 24,
       "avgMobileClicks": 100.2,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "집꾸미기",
+      "pc": 1780,
+      "mobile": 2760,
+      "total": 4540,
+      "compIdx": "높음",
+      "avgPcClicks": 7.6,
+      "avgMobileClicks": 47,
       "plAvgDepth": 10
     },
     {
@@ -521,6 +551,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "집들이선물",
+      "pc": 11700,
+      "mobile": 36700,
+      "total": 48400,
+      "compIdx": "높음",
+      "avgPcClicks": 7.6,
+      "avgMobileClicks": 87.6,
+      "plAvgDepth": 10
+    },
+    {
       "keyword": "조명",
       "pc": 11400,
       "mobile": 31900,
@@ -528,6 +568,16 @@
       "compIdx": "높음",
       "avgPcClicks": 379,
       "avgMobileClicks": 1075,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "소품샵",
+      "pc": 2000,
+      "mobile": 40700,
+      "total": 42700,
+      "compIdx": "높음",
+      "avgPcClicks": 28.8,
+      "avgMobileClicks": 132.2,
       "plAvgDepth": 10
     },
     {
@@ -621,6 +671,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "주방수납장",
+      "pc": 4650,
+      "mobile": 22400,
+      "total": 27050,
+      "compIdx": "중간",
+      "avgPcClicks": 69.7,
+      "avgMobileClicks": 606.8,
+      "plAvgDepth": 8
+    },
+    {
       "keyword": "전신거울",
       "pc": 4570,
       "mobile": 19800,
@@ -681,6 +741,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "호텔수건",
+      "pc": 3310,
+      "mobile": 17600,
+      "total": 20910,
+      "compIdx": "중간",
+      "avgPcClicks": 28,
+      "avgMobileClicks": 460.9,
+      "plAvgDepth": 8
+    },
+    {
       "keyword": "거울",
       "pc": 6360,
       "mobile": 14100,
@@ -721,6 +791,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "템바보드",
+      "pc": 5960,
+      "mobile": 13000,
+      "total": 18960,
+      "compIdx": "중간",
+      "avgPcClicks": 179.1,
+      "avgMobileClicks": 532.7,
+      "plAvgDepth": 8
+    },
+    {
       "keyword": "전기",
       "pc": 3010,
       "mobile": 15600,
@@ -739,6 +819,16 @@
       "avgPcClicks": 14.7,
       "avgMobileClicks": 74.5,
       "plAvgDepth": 8
+    },
+    {
+      "keyword": "씽크대",
+      "pc": 2740,
+      "mobile": 15100,
+      "total": 17840,
+      "compIdx": "높음",
+      "avgPcClicks": 34.7,
+      "avgMobileClicks": 359.8,
+      "plAvgDepth": 10
     },
     {
       "keyword": "커텐",
@@ -949,6 +1039,16 @@
       "avgPcClicks": 13.1,
       "avgMobileClicks": 245.6,
       "plAvgDepth": 8
+    },
+    {
+      "keyword": "미니멀라이프",
+      "pc": 2530,
+      "mobile": 9380,
+      "total": 11910,
+      "compIdx": "높음",
+      "avgPcClicks": 6.4,
+      "avgMobileClicks": 43.5,
+      "plAvgDepth": 10
     },
     {
       "keyword": "국비지원",
@@ -1221,6 +1321,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "정리수납전문가",
+      "pc": 1460,
+      "mobile": 7630,
+      "total": 9090,
+      "compIdx": "높음",
+      "avgPcClicks": 24.7,
+      "avgMobileClicks": 396.2,
+      "plAvgDepth": 10
+    },
+    {
       "keyword": "롤스크린",
       "pc": 2630,
       "mobile": 6160,
@@ -1261,6 +1371,16 @@
       "plAvgDepth": 8
     },
     {
+      "keyword": "DIY",
+      "pc": 2190,
+      "mobile": 5660,
+      "total": 7850,
+      "compIdx": "중간",
+      "avgPcClicks": 3,
+      "avgMobileClicks": 15.7,
+      "plAvgDepth": 8
+    },
+    {
       "keyword": "분전함",
       "pc": 3190,
       "mobile": 4630,
@@ -1269,6 +1389,16 @@
       "avgPcClicks": 23.4,
       "avgMobileClicks": 48,
       "plAvgDepth": 10
+    },
+    {
+      "keyword": "핸드메이드페어",
+      "pc": 1090,
+      "mobile": 6610,
+      "total": 7700,
+      "compIdx": "중간",
+      "avgPcClicks": 15.3,
+      "avgMobileClicks": 163.7,
+      "plAvgDepth": 7
     },
     {
       "keyword": "에너지관리기능사",
@@ -1289,105 +1419,6 @@
       "avgPcClicks": 30.7,
       "avgMobileClicks": 129.8,
       "plAvgDepth": 10
-    },
-    {
-      "keyword": "카페의자",
-      "pc": 1780,
-      "mobile": 5760,
-      "total": 7540,
-      "compIdx": "높음",
-      "avgPcClicks": 49.1,
-      "avgMobileClicks": 199.6,
-      "plAvgDepth": 10
-    },
-    {
-      "keyword": "T5조명",
-      "pc": 2390,
-      "mobile": 5110,
-      "total": 7500,
-      "compIdx": "중간",
-      "avgPcClicks": 22.3,
-      "avgMobileClicks": 98.8,
-      "plAvgDepth": 8
-    },
-    {
-      "keyword": "전동커튼",
-      "pc": 1980,
-      "mobile": 5520,
-      "total": 7500,
-      "compIdx": "중간",
-      "avgPcClicks": 22.7,
-      "avgMobileClicks": 126.4,
-      "plAvgDepth": 8
-    },
-    {
-      "keyword": "욕실거울",
-      "pc": 2050,
-      "mobile": 5420,
-      "total": 7470,
-      "compIdx": "중간",
-      "avgPcClicks": 29.9,
-      "avgMobileClicks": 127.9,
-      "plAvgDepth": 8
-    },
-    {
-      "keyword": "팬",
-      "pc": 1420,
-      "mobile": 5800,
-      "total": 7220,
-      "compIdx": "높음",
-      "avgPcClicks": 4.2,
-      "avgMobileClicks": 12,
-      "plAvgDepth": 10
-    },
-    {
-      "keyword": "STAND",
-      "pc": 1040,
-      "mobile": 6100,
-      "total": 7140,
-      "compIdx": "높음",
-      "avgPcClicks": 1,
-      "plAvgDepth": 1
-    },
-    {
-      "keyword": "비츠온",
-      "pc": 4250,
-      "mobile": 2870,
-      "total": 7120,
-      "compIdx": "중간",
-      "avgPcClicks": 19.9,
-      "avgMobileClicks": 79.5,
-      "plAvgDepth": 7
-    },
-    {
-      "keyword": "화장대거울",
-      "pc": 1300,
-      "mobile": 5820,
-      "total": 7120,
-      "compIdx": "중간",
-      "avgPcClicks": 19.2,
-      "avgMobileClicks": 132.8,
-      "plAvgDepth": 8
-    },
-    {
-      "keyword": "거실조명",
-      "pc": 1400,
-      "mobile": 5460,
-      "total": 6860,
-      "compIdx": "높음",
-      "avgPcClicks": 26.6,
-      "avgMobileClicks": 153.2,
-      "plAvgDepth": 10
-    },
-    {
-      "keyword": "레일등",
-      "pc": 1970,
-      "mobile": 4880,
-      "total": 6850,
-      "compIdx": "높음",
-      "avgPcClicks": 30.8,
-      "avgMobileClicks": 144,
-      "plAvgDepth": 8
     }
   ]
 }

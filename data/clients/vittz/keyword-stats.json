@@ -313,6 +313,30 @@
       "adCount": 8
     },
     {
+      "kw": "셀프인테리어",
+      "pc": 1970,
+      "mobile": 3490,
+      "competition": "높음",
+      "clicks": 65.5,
+      "adCount": 10
+    },
+    {
+      "kw": "LED조명",
+      "pc": 3150,
+      "mobile": 9240,
+      "competition": "중간",
+      "clicks": 163.3,
+      "adCount": 8
+    },
+    {
+      "kw": "집꾸미기",
+      "pc": 1780,
+      "mobile": 2760,
+      "competition": "높음",
+      "clicks": 54.6,
+      "adCount": 10
+    },
+    {
       "kw": "조명",
       "pc": 11400,
       "mobile": 31900,
@@ -50954,6 +50978,5678 @@
       "competition": "중간",
       "clicks": 1,
       "adCount": 2
+    },
+    {
+      "kw": "반셀프인테리어",
+      "pc": 530,
+      "mobile": 1380,
+      "competition": "높음",
+      "clicks": 28.099999999999998,
+      "adCount": 10
+    },
+    {
+      "kw": "벽인테리어",
+      "pc": 460,
+      "mobile": 2690,
+      "competition": "중간",
+      "clicks": 42.9,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어소품파는곳",
+      "pc": 60,
+      "mobile": 380,
+      "competition": "높음",
+      "clicks": 25.1,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어용품",
+      "pc": 110,
+      "mobile": 280,
+      "competition": "중간",
+      "clicks": 5.6,
+      "adCount": 8
+    },
+    {
+      "kw": "방꾸미기",
+      "pc": 610,
+      "mobile": 1870,
+      "competition": "높음",
+      "clicks": 17,
+      "adCount": 10
+    },
+    {
+      "kw": "셀프싱크대",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "중간",
+      "clicks": 1.6,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어자재",
+      "pc": 310,
+      "mobile": 620,
+      "competition": "높음",
+      "clicks": 25.1,
+      "adCount": 8
+    },
+    {
+      "kw": "벽장식",
+      "pc": 180,
+      "mobile": 720,
+      "competition": "중간",
+      "clicks": 15.9,
+      "adCount": 8
+    },
+    {
+      "kw": "일러스트레이션페어",
+      "pc": 450,
+      "mobile": 1090,
+      "competition": "높음",
+      "clicks": 12.600000000000001,
+      "adCount": 7
+    },
+    {
+      "kw": "정리수납업체",
+      "pc": 170,
+      "mobile": 930,
+      "competition": "높음",
+      "clicks": 69.8,
+      "adCount": 10
+    },
+    {
+      "kw": "정리수납",
+      "pc": 330,
+      "mobile": 830,
+      "competition": "높음",
+      "clicks": 47,
+      "adCount": 8
+    },
+    {
+      "kw": "네온사인",
+      "pc": 1440,
+      "mobile": 3320,
+      "competition": "높음",
+      "clicks": 157.9,
+      "adCount": 10
+    },
+    {
+      "kw": "대리석",
+      "pc": 1510,
+      "mobile": 4450,
+      "competition": "높음",
+      "clicks": 80.9,
+      "adCount": 10
+    },
+    {
+      "kw": "핸드메이드페어",
+      "pc": 1090,
+      "mobile": 6610,
+      "competition": "중간",
+      "clicks": 179,
+      "adCount": 7
+    },
+    {
+      "kw": "디자인월",
+      "pc": 420,
+      "mobile": 730,
+      "competition": "높음",
+      "clicks": 29.1,
+      "adCount": 8
+    },
+    {
+      "kw": "LED네온사인제작",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 3.6,
+      "adCount": 8
+    },
+    {
+      "kw": "네온조명",
+      "pc": 130,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 17.2,
+      "adCount": 10
+    },
+    {
+      "kw": "LED네온사인",
+      "pc": 170,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 24,
+      "adCount": 8
+    },
+    {
+      "kw": "네온사인주문제작",
+      "pc": 450,
+      "mobile": 320,
+      "competition": "높음",
+      "clicks": 13.600000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "정리수납전문가",
+      "pc": 1460,
+      "mobile": 7630,
+      "competition": "높음",
+      "clicks": 420.9,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어보드",
+      "pc": 260,
+      "mobile": 440,
+      "competition": "높음",
+      "clicks": 10.6,
+      "adCount": 8
+    },
+    {
+      "kw": "정리정돈업체",
+      "pc": 70,
+      "mobile": 1230,
+      "competition": "높음",
+      "clicks": 14.4,
+      "adCount": 10
+    },
+    {
+      "kw": "DIY인테리어",
+      "pc": 30,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어도면",
+      "pc": 210,
+      "mobile": 250,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 10
+    },
+    {
+      "kw": "핸드메이드박람회",
+      "pc": 30,
+      "mobile": 160,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 3
+    },
+    {
+      "kw": "DIY",
+      "pc": 2190,
+      "mobile": 5660,
+      "competition": "중간",
+      "clicks": 18.7,
+      "adCount": 8
+    },
+    {
+      "kw": "경관조명",
+      "pc": 640,
+      "mobile": 460,
+      "competition": "높음",
+      "clicks": 25.5,
+      "adCount": 10
+    },
+    {
+      "kw": "동화디자인월",
+      "pc": 260,
+      "mobile": 350,
+      "competition": "높음",
+      "clicks": 27.3,
+      "adCount": 10
+    },
+    {
+      "kw": "방음공사비용",
+      "pc": 30,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 5.6,
+      "adCount": 10
+    },
+    {
+      "kw": "사운드디퓨저",
+      "pc": 50,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 4.6,
+      "adCount": 8
+    },
+    {
+      "kw": "도면",
+      "pc": 1600,
+      "mobile": 1650,
+      "competition": "높음",
+      "clicks": 6.8,
+      "adCount": 10
+    },
+    {
+      "kw": "스케치업알바",
+      "pc": 20,
+      "mobile": 60,
+      "competition": "중간",
+      "clicks": 1.5,
+      "adCount": 6
+    },
+    {
+      "kw": "N보드",
+      "pc": 150,
+      "mobile": 320,
+      "competition": "높음",
+      "clicks": 15.100000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "네온간판",
+      "pc": 300,
+      "mobile": 650,
+      "competition": "높음",
+      "clicks": 44.599999999999994,
+      "adCount": 10
+    },
+    {
+      "kw": "벽마감재",
+      "pc": 190,
+      "mobile": 410,
+      "competition": "높음",
+      "clicks": 8.9,
+      "adCount": 8
+    },
+    {
+      "kw": "소품샵",
+      "pc": 2000,
+      "mobile": 40700,
+      "competition": "높음",
+      "clicks": 161,
+      "adCount": 10
+    },
+    {
+      "kw": "서울디자인국제포럼",
+      "pc": 20,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "엔보드",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 14.899999999999999,
+      "adCount": 2
+    },
+    {
+      "kw": "네온사인제작",
+      "pc": 420,
+      "mobile": 900,
+      "competition": "높음",
+      "clicks": 95.9,
+      "adCount": 10
+    },
+    {
+      "kw": "LED보안등",
+      "pc": 110,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 3,
+      "adCount": 10
+    },
+    {
+      "kw": "공장등",
+      "pc": 440,
+      "mobile": 790,
+      "competition": "높음",
+      "clicks": 5.4,
+      "adCount": 9
+    },
+    {
+      "kw": "옷장정리",
+      "pc": 460,
+      "mobile": 1770,
+      "competition": "높음",
+      "clicks": 33.1,
+      "adCount": 8
+    },
+    {
+      "kw": "실내인테리어자재",
+      "pc": 30,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.3999999999999995,
+      "adCount": 10
+    },
+    {
+      "kw": "태양광가로등",
+      "pc": 950,
+      "mobile": 2620,
+      "competition": "중간",
+      "clicks": 110.30000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "네온사인주문",
+      "pc": 50,
+      "mobile": 30,
+      "competition": "높음",
+      "adCount": 8
+    },
+    {
+      "kw": "휴판넬",
+      "pc": 70,
+      "mobile": 160,
+      "competition": "높음",
+      "clicks": 8.6,
+      "adCount": 10
+    },
+    {
+      "kw": "DIY붙박이장",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.7000000000000002,
+      "adCount": 7
+    },
+    {
+      "kw": "스케치업외주",
+      "pc": 30,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.2,
+      "adCount": 9
+    },
+    {
+      "kw": "특수조명렌탈",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어소품샵",
+      "pc": 370,
+      "mobile": 1780,
+      "competition": "높음",
+      "clicks": 93.6,
+      "adCount": 7
+    },
+    {
+      "kw": "뱀부타올",
+      "pc": 650,
+      "mobile": 3950,
+      "competition": "중간",
+      "clicks": 93.8,
+      "adCount": 8
+    },
+    {
+      "kw": "목공사",
+      "pc": 100,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 10
+    },
+    {
+      "kw": "베이스트랩",
+      "pc": 500,
+      "mobile": 790,
+      "competition": "중간",
+      "clicks": 28.9,
+      "adCount": 7
+    },
+    {
+      "kw": "DIY싱크대",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "실내벽인테리어",
+      "pc": 30,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 10
+    },
+    {
+      "kw": "서디페",
+      "pc": 170,
+      "mobile": 650,
+      "competition": "중간",
+      "clicks": 1,
+      "adCount": 1
+    },
+    {
+      "kw": "LED가로등",
+      "pc": 580,
+      "mobile": 570,
+      "competition": "높음",
+      "clicks": 36.2,
+      "adCount": 10
+    },
+    {
+      "kw": "먼지없는수건",
+      "pc": 280,
+      "mobile": 1850,
+      "competition": "중간",
+      "clicks": 83.2,
+      "adCount": 8
+    },
+    {
+      "kw": "LED투광등",
+      "pc": 850,
+      "mobile": 1300,
+      "competition": "중간",
+      "clicks": 29.700000000000003,
+      "adCount": 8
+    },
+    {
+      "kw": "미니멀라이프",
+      "pc": 2530,
+      "mobile": 9380,
+      "competition": "높음",
+      "clicks": 49.9,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어제안서",
+      "pc": 160,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 10
+    },
+    {
+      "kw": "건축자재백화점",
+      "pc": 160,
+      "mobile": 980,
+      "competition": "높음",
+      "clicks": 33.9,
+      "adCount": 10
+    },
+    {
+      "kw": "디자인포럼",
+      "pc": 20,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "24평인테리어",
+      "pc": 420,
+      "mobile": 1500,
+      "competition": "높음",
+      "clicks": 52.099999999999994,
+      "adCount": 10
+    },
+    {
+      "kw": "붙이는타일",
+      "pc": 460,
+      "mobile": 2380,
+      "competition": "높음",
+      "clicks": 15.4,
+      "adCount": 10
+    },
+    {
+      "kw": "내장재",
+      "pc": 240,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 3,
+      "adCount": 10
+    },
+    {
+      "kw": "원룸꾸미기",
+      "pc": 930,
+      "mobile": 1950,
+      "competition": "높음",
+      "clicks": 24.7,
+      "adCount": 10
+    },
+    {
+      "kw": "카페도면",
+      "pc": 50,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "딥그린수건",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "낮음",
+      "clicks": 0.5
+    },
+    {
+      "kw": "LED네온",
+      "pc": 110,
+      "mobile": 100,
+      "competition": "중간",
+      "clicks": 9.8,
+      "adCount": 8
+    },
+    {
+      "kw": "방염보드",
+      "pc": 80,
+      "mobile": 110,
+      "competition": "중간",
+      "clicks": 5.7,
+      "adCount": 8
+    },
+    {
+      "kw": "LED스팟",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "LED투광기",
+      "pc": 530,
+      "mobile": 940,
+      "competition": "높음",
+      "clicks": 23.299999999999997,
+      "adCount": 9
+    },
+    {
+      "kw": "하우징페어",
+      "pc": 50,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 8.2,
+      "adCount": 10
+    },
+    {
+      "kw": "목수구인",
+      "pc": 210,
+      "mobile": 980,
+      "competition": "높음",
+      "clicks": 32.5,
+      "adCount": 10
+    },
+    {
+      "kw": "수건브랜드",
+      "pc": 340,
+      "mobile": 1020,
+      "competition": "높음",
+      "clicks": 11.1,
+      "adCount": 7
+    },
+    {
+      "kw": "네온",
+      "pc": 910,
+      "mobile": 2640,
+      "competition": "높음",
+      "clicks": 7.5,
+      "adCount": 10
+    },
+    {
+      "kw": "주방고리수건",
+      "pc": 40,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 7.3999999999999995,
+      "adCount": 8
+    },
+    {
+      "kw": "주방러그",
+      "pc": 140,
+      "mobile": 540,
+      "competition": "중간",
+      "clicks": 14.3,
+      "adCount": 8
+    },
+    {
+      "kw": "네온사인간판",
+      "pc": 250,
+      "mobile": 570,
+      "competition": "높음",
+      "clicks": 27.5,
+      "adCount": 10
+    },
+    {
+      "kw": "핸드타올자수",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 8
+    },
+    {
+      "kw": "캐드도면",
+      "pc": 840,
+      "mobile": 1250,
+      "competition": "높음",
+      "clicks": 9.1,
+      "adCount": 10
+    },
+    {
+      "kw": "32평인테리어",
+      "pc": 190,
+      "mobile": 850,
+      "competition": "높음",
+      "clicks": 41.3,
+      "adCount": 10
+    },
+    {
+      "kw": "홈스타일링",
+      "pc": 410,
+      "mobile": 790,
+      "competition": "높음",
+      "clicks": 61.099999999999994,
+      "adCount": 10
+    },
+    {
+      "kw": "LED경관조명",
+      "pc": 110,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 10.3,
+      "adCount": 10
+    },
+    {
+      "kw": "정리업체",
+      "pc": 200,
+      "mobile": 950,
+      "competition": "높음",
+      "clicks": 55.7,
+      "adCount": 10
+    },
+    {
+      "kw": "벽판넬",
+      "pc": 120,
+      "mobile": 250,
+      "competition": "높음",
+      "clicks": 7.4,
+      "adCount": 8
+    },
+    {
+      "kw": "템바보드",
+      "pc": 5960,
+      "mobile": 13000,
+      "competition": "중간",
+      "clicks": 711.8000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "아트네온",
+      "pc": 90,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 9.1,
+      "adCount": 10
+    },
+    {
+      "kw": "낮은식탁",
+      "pc": 700,
+      "mobile": 4480,
+      "competition": "중간",
+      "clicks": 171.2,
+      "adCount": 8
+    },
+    {
+      "kw": "옷정리",
+      "pc": 320,
+      "mobile": 1300,
+      "competition": "높음",
+      "clicks": 21.1,
+      "adCount": 8
+    },
+    {
+      "kw": "와플수건",
+      "pc": 30,
+      "mobile": 190,
+      "competition": "중간",
+      "clicks": 10.1,
+      "adCount": 8
+    },
+    {
+      "kw": "무대기계",
+      "pc": 30,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "무빙라이트",
+      "pc": 100,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 3.5999999999999996,
+      "adCount": 8
+    },
+    {
+      "kw": "집들이선물",
+      "pc": 11700,
+      "mobile": 36700,
+      "competition": "높음",
+      "clicks": 95.19999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "아파트도면",
+      "pc": 860,
+      "mobile": 810,
+      "competition": "높음",
+      "clicks": 6.4,
+      "adCount": 10
+    },
+    {
+      "kw": "네온플렉스",
+      "pc": 550,
+      "mobile": 260,
+      "competition": "높음",
+      "clicks": 7,
+      "adCount": 10
+    },
+    {
+      "kw": "씽크대",
+      "pc": 2740,
+      "mobile": 15100,
+      "competition": "높음",
+      "clicks": 394.5,
+      "adCount": 10
+    },
+    {
+      "kw": "파티라이트",
+      "pc": 1070,
+      "mobile": 1110,
+      "competition": "중간",
+      "clicks": 18.4,
+      "adCount": 8
+    },
+    {
+      "kw": "사무실벽인테리어",
+      "pc": 60,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어타일",
+      "pc": 90,
+      "mobile": 270,
+      "competition": "높음",
+      "clicks": 9.6,
+      "adCount": 8
+    },
+    {
+      "kw": "데코월",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 10
+    },
+    {
+      "kw": "허브화분",
+      "pc": 120,
+      "mobile": 420,
+      "competition": "높음",
+      "clicks": 7,
+      "adCount": 8
+    },
+    {
+      "kw": "벽체마감재",
+      "pc": 70,
+      "mobile": 150,
+      "competition": "높음",
+      "clicks": 4.5,
+      "adCount": 10
+    },
+    {
+      "kw": "셀프인테리어자재",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 8
+    },
+    {
+      "kw": "네온제작",
+      "pc": 40,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 11.399999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "정리컨설팅",
+      "pc": 30,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 8.899999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "벽장재",
+      "pc": 100,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 5.4,
+      "adCount": 10
+    },
+    {
+      "kw": "무대조명설치업체",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "예쁜화분",
+      "pc": 240,
+      "mobile": 1290,
+      "competition": "높음",
+      "clicks": 45,
+      "adCount": 9
+    },
+    {
+      "kw": "수중등",
+      "pc": 110,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 6,
+      "adCount": 10
+    },
+    {
+      "kw": "손수건제작",
+      "pc": 1130,
+      "mobile": 1810,
+      "competition": "높음",
+      "clicks": 157.1,
+      "adCount": 10
+    },
+    {
+      "kw": "자수손수건제작",
+      "pc": 30,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 7.4,
+      "adCount": 10
+    },
+    {
+      "kw": "잘마르는수건",
+      "pc": 50,
+      "mobile": 240,
+      "competition": "높음",
+      "clicks": 6.3,
+      "adCount": 8
+    },
+    {
+      "kw": "타올컴퍼니",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "엔틱소품",
+      "pc": 100,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 16.1,
+      "adCount": 7
+    },
+    {
+      "kw": "집정리업체",
+      "pc": 320,
+      "mobile": 1100,
+      "competition": "높음",
+      "clicks": 83.8,
+      "adCount": 10
+    },
+    {
+      "kw": "야외행사조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.7000000000000002,
+      "adCount": 7
+    },
+    {
+      "kw": "원목선반",
+      "pc": 870,
+      "mobile": 3790,
+      "competition": "중간",
+      "clicks": 65.4,
+      "adCount": 8
+    },
+    {
+      "kw": "주방정리",
+      "pc": 1130,
+      "mobile": 1790,
+      "competition": "중간",
+      "clicks": 28.5,
+      "adCount": 8
+    },
+    {
+      "kw": "동화마루디자인월",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어마감재",
+      "pc": 100,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 6.8999999999999995,
+      "adCount": 10
+    },
+    {
+      "kw": "베란다바닥",
+      "pc": 190,
+      "mobile": 850,
+      "competition": "높음",
+      "clicks": 14.600000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "집들이수건",
+      "pc": 140,
+      "mobile": 550,
+      "competition": "높음",
+      "clicks": 7.1,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어내장재",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2.9,
+      "adCount": 8
+    },
+    {
+      "kw": "DIY씽크대",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 1,
+      "adCount": 6
+    },
+    {
+      "kw": "셀프인테리어방법",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "3D도면작업",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "단독주택도면",
+      "pc": 40,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어디자인회사",
+      "pc": 60,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.7,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어투시도",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "팝업인테리어",
+      "pc": 40,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.1,
+      "adCount": 10
+    },
+    {
+      "kw": "주방가구",
+      "pc": 750,
+      "mobile": 1970,
+      "competition": "높음",
+      "clicks": 78.6,
+      "adCount": 10
+    },
+    {
+      "kw": "신혼수건",
+      "pc": 50,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 4.1,
+      "adCount": 8
+    },
+    {
+      "kw": "내장마감재",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 3.0999999999999996,
+      "adCount": 7
+    },
+    {
+      "kw": "디자인컨퍼런스",
+      "pc": 50,
+      "mobile": 30,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "벽면마감재",
+      "pc": 30,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 4.5,
+      "adCount": 7
+    },
+    {
+      "kw": "템파보드",
+      "pc": 890,
+      "mobile": 2940,
+      "competition": "중간",
+      "clicks": 168,
+      "adCount": 8
+    },
+    {
+      "kw": "꽃키우기",
+      "pc": 30,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 8
+    },
+    {
+      "kw": "디자인수건",
+      "pc": 60,
+      "mobile": 150,
+      "competition": "높음",
+      "clicks": 3.6999999999999997,
+      "adCount": 8
+    },
+    {
+      "kw": "정리수납비용",
+      "pc": 70,
+      "mobile": 380,
+      "competition": "높음",
+      "clicks": 22,
+      "adCount": 10
+    },
+    {
+      "kw": "무대조명렌탈",
+      "pc": 40,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.800000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어수건",
+      "pc": 20,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.4000000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "예쁜인테리어가구",
+      "pc": 480,
+      "mobile": 2800,
+      "competition": "높음",
+      "clicks": 195.4,
+      "adCount": 10
+    },
+    {
+      "kw": "카페벽면인테리어",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "오가닉타올",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 8
+    },
+    {
+      "kw": "삼성생체리듬",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "생체리듬조명",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "호텔핸드타올",
+      "pc": 10,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 3.4,
+      "adCount": 8
+    },
+    {
+      "kw": "무대조명시공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "가정용수건추천",
+      "pc": 210,
+      "mobile": 1330,
+      "competition": "높음",
+      "clicks": 53.2,
+      "adCount": 8
+    },
+    {
+      "kw": "수건로고",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 8
+    },
+    {
+      "kw": "거실식물인테리어",
+      "pc": 90,
+      "mobile": 480,
+      "competition": "중간",
+      "clicks": 12.4,
+      "adCount": 8
+    },
+    {
+      "kw": "실내화분",
+      "pc": 180,
+      "mobile": 830,
+      "competition": "높음",
+      "clicks": 19.4,
+      "adCount": 8
+    },
+    {
+      "kw": "호텔수건220G",
+      "pc": 5,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 8
+    },
+    {
+      "kw": "명품타올",
+      "pc": 5,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 5.3,
+      "adCount": 10
+    },
+    {
+      "kw": "세수수건",
+      "pc": 20,
+      "mobile": 260,
+      "competition": "높음",
+      "clicks": 8.6,
+      "adCount": 8
+    },
+    {
+      "kw": "수건200G",
+      "pc": 130,
+      "mobile": 760,
+      "competition": "중간",
+      "clicks": 8.1,
+      "adCount": 8
+    },
+    {
+      "kw": "그린수건",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "배쓰타올",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "유럽수건",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 3
+    },
+    {
+      "kw": "자수핸드타올",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 8
+    },
+    {
+      "kw": "체크무늬수건",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 2.4,
+      "adCount": 7
+    },
+    {
+      "kw": "코마사40수수건",
+      "pc": 40,
+      "mobile": 340,
+      "competition": "높음",
+      "clicks": 10.6,
+      "adCount": 8
+    },
+    {
+      "kw": "타올손수건",
+      "pc": 80,
+      "mobile": 440,
+      "competition": "높음",
+      "clicks": 3.4,
+      "adCount": 10
+    },
+    {
+      "kw": "핸드타올수건",
+      "pc": 20,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 2.1,
+      "adCount": 7
+    },
+    {
+      "kw": "빈티지소품",
+      "pc": 230,
+      "mobile": 690,
+      "competition": "높음",
+      "clicks": 29.4,
+      "adCount": 10
+    },
+    {
+      "kw": "집정리정돈",
+      "pc": 40,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 6.4,
+      "adCount": 10
+    },
+    {
+      "kw": "집들이선물수건",
+      "pc": 140,
+      "mobile": 440,
+      "competition": "높음",
+      "clicks": 11.8,
+      "adCount": 7
+    },
+    {
+      "kw": "축제조명",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.2,
+      "adCount": 7
+    },
+    {
+      "kw": "빈티지소품샵",
+      "pc": 100,
+      "mobile": 460,
+      "competition": "높음",
+      "clicks": 24.7,
+      "adCount": 10
+    },
+    {
+      "kw": "스톤판넬",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 8
+    },
+    {
+      "kw": "석재",
+      "pc": 1020,
+      "mobile": 1630,
+      "competition": "높음",
+      "clicks": 56.8,
+      "adCount": 7
+    },
+    {
+      "kw": "시멘트보드",
+      "pc": 670,
+      "mobile": 1150,
+      "competition": "높음",
+      "clicks": 46.5,
+      "adCount": 10
+    },
+    {
+      "kw": "천연대리석",
+      "pc": 280,
+      "mobile": 650,
+      "competition": "높음",
+      "clicks": 44.900000000000006,
+      "adCount": 10
+    },
+    {
+      "kw": "실리콘네온",
+      "pc": 40,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 4,
+      "adCount": 10
+    },
+    {
+      "kw": "내벽마감재",
+      "pc": 10,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 2.7,
+      "adCount": 10
+    },
+    {
+      "kw": "LED글씨",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 8
+    },
+    {
+      "kw": "열다",
+      "pc": 240,
+      "mobile": 780,
+      "competition": "낮음",
+      "clicks": 29.900000000000002,
+      "adCount": 2
+    },
+    {
+      "kw": "박물관인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "홈바인테리어",
+      "pc": 290,
+      "mobile": 1280,
+      "competition": "높음",
+      "clicks": 17.8,
+      "adCount": 10
+    },
+    {
+      "kw": "정리전문가",
+      "pc": 110,
+      "mobile": 400,
+      "competition": "높음",
+      "clicks": 15.899999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "식물인테리어",
+      "pc": 160,
+      "mobile": 520,
+      "competition": "높음",
+      "clicks": 14.8,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어장식",
+      "pc": 10,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어화병",
+      "pc": 50,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 6.6,
+      "adCount": 8
+    },
+    {
+      "kw": "소품",
+      "pc": 570,
+      "mobile": 1850,
+      "competition": "중간",
+      "clicks": 11.2,
+      "adCount": 8
+    },
+    {
+      "kw": "아크릴네온",
+      "pc": 30,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 10
+    },
+    {
+      "kw": "마감재",
+      "pc": 340,
+      "mobile": 420,
+      "competition": "높음",
+      "clicks": 4.6,
+      "adCount": 8
+    },
+    {
+      "kw": "공장LED등",
+      "pc": 80,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 2.3,
+      "adCount": 9
+    },
+    {
+      "kw": "조명대여",
+      "pc": 170,
+      "mobile": 260,
+      "competition": "높음",
+      "clicks": 14.100000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "미가데코월",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "중간",
+      "clicks": 1.3,
+      "adCount": 7
+    },
+    {
+      "kw": "버스킹조명",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어DIY",
+      "pc": 40,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 8
+    },
+    {
+      "kw": "교원웰스플로린",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음"
+    },
+    {
+      "kw": "내부마감재",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 10
+    },
+    {
+      "kw": "북유럽인테리어소품",
+      "pc": 70,
+      "mobile": 310,
+      "competition": "높음",
+      "clicks": 29.2,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어감리",
+      "pc": 100,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 9
+    },
+    {
+      "kw": "룸디바이더",
+      "pc": 200,
+      "mobile": 820,
+      "competition": "중간",
+      "clicks": 28.7,
+      "adCount": 5
+    },
+    {
+      "kw": "지중등",
+      "pc": 340,
+      "mobile": 150,
+      "competition": "높음",
+      "clicks": 13.5,
+      "adCount": 10
+    },
+    {
+      "kw": "정리수납컨설팅",
+      "pc": 30,
+      "mobile": 100,
+      "competition": "중간",
+      "clicks": 5.9,
+      "adCount": 8
+    },
+    {
+      "kw": "집정리정돈업체",
+      "pc": 430,
+      "mobile": 3130,
+      "competition": "높음",
+      "clicks": 272.5,
+      "adCount": 10
+    },
+    {
+      "kw": "스트라이프수건",
+      "pc": 140,
+      "mobile": 920,
+      "competition": "높음",
+      "clicks": 34.699999999999996,
+      "adCount": 8
+    },
+    {
+      "kw": "레이저조명",
+      "pc": 80,
+      "mobile": 200,
+      "competition": "중간",
+      "clicks": 8,
+      "adCount": 8
+    },
+    {
+      "kw": "아이디어상품",
+      "pc": 520,
+      "mobile": 550,
+      "competition": "높음",
+      "clicks": 13.1,
+      "adCount": 10
+    },
+    {
+      "kw": "네온싸인",
+      "pc": 50,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 10.299999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "예쁜수건",
+      "pc": 140,
+      "mobile": 820,
+      "competition": "높음",
+      "clicks": 38.800000000000004,
+      "adCount": 8
+    },
+    {
+      "kw": "실내건축자재",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "셀프인테리어벽지",
+      "pc": 30,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 1.2,
+      "adCount": 9
+    },
+    {
+      "kw": "옷방정리",
+      "pc": 70,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 3.6999999999999997,
+      "adCount": 10
+    },
+    {
+      "kw": "이쁜화분",
+      "pc": 80,
+      "mobile": 370,
+      "competition": "중간",
+      "clicks": 7.8,
+      "adCount": 8
+    },
+    {
+      "kw": "화분인테리어",
+      "pc": 60,
+      "mobile": 410,
+      "competition": "높음",
+      "clicks": 6.2,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어벽마감재",
+      "pc": 20,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 5.7,
+      "adCount": 10
+    },
+    {
+      "kw": "수납정리업체",
+      "pc": 20,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 7,
+      "adCount": 10
+    },
+    {
+      "kw": "네온사인만들기",
+      "pc": 50,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 3.6999999999999997,
+      "adCount": 8
+    },
+    {
+      "kw": "가구재배치",
+      "pc": 30,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 8.9,
+      "adCount": 10
+    },
+    {
+      "kw": "호텔수건",
+      "pc": 3310,
+      "mobile": 17600,
+      "competition": "중간",
+      "clicks": 488.9,
+      "adCount": 8
+    },
+    {
+      "kw": "네온조명제작",
+      "pc": 5,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 10
+    },
+    {
+      "kw": "LED공장등",
+      "pc": 270,
+      "mobile": 340,
+      "competition": "높음",
+      "clicks": 4.3,
+      "adCount": 9
+    },
+    {
+      "kw": "네온간판제작",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 5,
+      "adCount": 10
+    },
+    {
+      "kw": "정리의달인",
+      "pc": 40,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 7.4,
+      "adCount": 10
+    },
+    {
+      "kw": "세라믹사이딩",
+      "pc": 1190,
+      "mobile": 2010,
+      "competition": "높음",
+      "clicks": 120.5,
+      "adCount": 10
+    },
+    {
+      "kw": "정리",
+      "pc": 670,
+      "mobile": 2820,
+      "competition": "중간",
+      "clicks": 9.200000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "목조주택자재",
+      "pc": 50,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 10.2,
+      "adCount": 10
+    },
+    {
+      "kw": "수납정리",
+      "pc": 160,
+      "mobile": 480,
+      "competition": "중간",
+      "clicks": 22,
+      "adCount": 8
+    },
+    {
+      "kw": "사이딩판넬",
+      "pc": 210,
+      "mobile": 490,
+      "competition": "높음",
+      "clicks": 23.9,
+      "adCount": 10
+    },
+    {
+      "kw": "원룸가구배치",
+      "pc": 150,
+      "mobile": 500,
+      "competition": "높음",
+      "clicks": 4.1000000000000005,
+      "adCount": 10
+    },
+    {
+      "kw": "휴빛LED",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 3
+    },
+    {
+      "kw": "템바보드인테리어",
+      "pc": 130,
+      "mobile": 490,
+      "competition": "높음",
+      "clicks": 18.8,
+      "adCount": 10
+    },
+    {
+      "kw": "논네온",
+      "pc": 230,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 14.8,
+      "adCount": 8
+    },
+    {
+      "kw": "좁은방가구배치",
+      "pc": 140,
+      "mobile": 640,
+      "competition": "높음",
+      "clicks": 6.5,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어판넬",
+      "pc": 200,
+      "mobile": 690,
+      "competition": "중간",
+      "clicks": 24.8,
+      "adCount": 8
+    },
+    {
+      "kw": "방음재시공",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 2,
+      "adCount": 8
+    },
+    {
+      "kw": "친환경마감재",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "앤틱소품",
+      "pc": 30,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 9.8,
+      "adCount": 10
+    },
+    {
+      "kw": "네온사인조명",
+      "pc": 40,
+      "mobile": 100,
+      "competition": "중간",
+      "clicks": 4.5,
+      "adCount": 8
+    },
+    {
+      "kw": "실내인테리어소품",
+      "pc": 20,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 4.6,
+      "adCount": 8
+    },
+    {
+      "kw": "32평아파트인테리어",
+      "pc": 290,
+      "mobile": 450,
+      "competition": "높음",
+      "clicks": 33.4,
+      "adCount": 10
+    },
+    {
+      "kw": "테이블꽃장식",
+      "pc": 40,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 1.9000000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "노래방조명",
+      "pc": 130,
+      "mobile": 480,
+      "competition": "높음",
+      "clicks": 13.9,
+      "adCount": 9
+    },
+    {
+      "kw": "디자인페어",
+      "pc": 390,
+      "mobile": 550,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어업체",
+      "pc": 1320,
+      "mobile": 2630,
+      "competition": "높음",
+      "clicks": 101.6,
+      "adCount": 10
+    },
+    {
+      "kw": "네온글씨",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 10
+    },
+    {
+      "kw": "디자인패널",
+      "pc": 130,
+      "mobile": 310,
+      "competition": "높음",
+      "clicks": 1.2000000000000002,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어샵",
+      "pc": 50,
+      "mobile": 170,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어자재쇼핑몰",
+      "pc": 30,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 6.8,
+      "adCount": 10
+    },
+    {
+      "kw": "써모사이딩",
+      "pc": 200,
+      "mobile": 520,
+      "competition": "높음",
+      "clicks": 31.7,
+      "adCount": 7
+    },
+    {
+      "kw": "가구배치",
+      "pc": 230,
+      "mobile": 490,
+      "competition": "높음",
+      "clicks": 5.6000000000000005,
+      "adCount": 10
+    },
+    {
+      "kw": "대리석타일",
+      "pc": 530,
+      "mobile": 1880,
+      "competition": "높음",
+      "clicks": 51.5,
+      "adCount": 8
+    },
+    {
+      "kw": "결혼식조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "네온LED",
+      "pc": 30,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 3.5999999999999996,
+      "adCount": 8
+    },
+    {
+      "kw": "내장목수",
+      "pc": 120,
+      "mobile": 370,
+      "competition": "높음",
+      "clicks": 11.6,
+      "adCount": 10
+    },
+    {
+      "kw": "LED공장등150W",
+      "pc": 80,
+      "mobile": 120,
+      "competition": "중간",
+      "clicks": 7.1,
+      "adCount": 8
+    },
+    {
+      "kw": "태양열가로등",
+      "pc": 80,
+      "mobile": 330,
+      "competition": "높음",
+      "clicks": 8.9,
+      "adCount": 9
+    },
+    {
+      "kw": "BAMBOO",
+      "pc": 620,
+      "mobile": 2900,
+      "competition": "높음",
+      "clicks": 9.799999999999999,
+      "adCount": 10
+    },
+    {
+      "kw": "싸이키조명",
+      "pc": 150,
+      "mobile": 570,
+      "competition": "높음",
+      "clicks": 7.6,
+      "adCount": 8
+    },
+    {
+      "kw": "노래방허가",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "마사지샵허가",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "중간",
+      "adCount": 1
+    },
+    {
+      "kw": "미용실인허가",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "셀프시공",
+      "pc": 40,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어순서",
+      "pc": 210,
+      "mobile": 630,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 10
+    },
+    {
+      "kw": "키우기쉬운화분",
+      "pc": 50,
+      "mobile": 170,
+      "competition": "높음",
+      "clicks": 8.1,
+      "adCount": 8
+    },
+    {
+      "kw": "화분스탠드",
+      "pc": 200,
+      "mobile": 750,
+      "competition": "높음",
+      "clicks": 9.1,
+      "adCount": 8
+    },
+    {
+      "kw": "상가벽인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "실내벽면인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "호리존가격",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "LED자재",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어직영공사",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "직영인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "꽃가꾸기",
+      "pc": 10,
+      "mobile": 120,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "웰스플로린",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음",
+      "clicks": 1
+    },
+    {
+      "kw": "집에서꽃키우기",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 0.3,
+      "adCount": 2
+    },
+    {
+      "kw": "집안꾸미기",
+      "pc": 10,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.7,
+      "adCount": 10
+    },
+    {
+      "kw": "방음시공견적",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 7
+    },
+    {
+      "kw": "매립형싱크대",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "셀프인테리어싱크대",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED수중등",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 7
+    },
+    {
+      "kw": "용인가구공장",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "LED조명주문제작",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 8
+    },
+    {
+      "kw": "싱크대설치가격",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "싱크대제작공장",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.1,
+      "adCount": 7
+    },
+    {
+      "kw": "용인가구제작",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.8999999999999999,
+      "adCount": 7
+    },
+    {
+      "kw": "벽면인테리어",
+      "pc": 190,
+      "mobile": 750,
+      "competition": "높음",
+      "clicks": 20.599999999999998,
+      "adCount": 10
+    },
+    {
+      "kw": "싱크대PT상판",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 7
+    },
+    {
+      "kw": "경기도광주싱크대공장",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "제작싱크대",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 8
+    },
+    {
+      "kw": "셀프인테리어감리",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "외부조명설치",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 10
+    },
+    {
+      "kw": "플리마켓조명",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "LED공장등100W",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 8
+    },
+    {
+      "kw": "LED공장등200W",
+      "pc": 40,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 2.1,
+      "adCount": 8
+    },
+    {
+      "kw": "LED공장조명",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 7
+    },
+    {
+      "kw": "공장등150W",
+      "pc": 60,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 9
+    },
+    {
+      "kw": "공장용LED",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 8
+    },
+    {
+      "kw": "분수등",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "하남목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 2.6,
+      "adCount": 7
+    },
+    {
+      "kw": "LED볼조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "고양시목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "노원구목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "하남목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "우드스탠드",
+      "pc": 50,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 10
+    },
+    {
+      "kw": "이끼작품",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED간판조명",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 8
+    },
+    {
+      "kw": "태양광LED조명",
+      "pc": 30,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 8
+    },
+    {
+      "kw": "아파트꾸미기",
+      "pc": 30,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 5.1,
+      "adCount": 9
+    },
+    {
+      "kw": "홈인테리어쇼핑몰",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED투광기150W",
+      "pc": 40,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.3,
+      "adCount": 9
+    },
+    {
+      "kw": "LED투광기200W",
+      "pc": 40,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 10
+    },
+    {
+      "kw": "거실펜던트",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 8
+    },
+    {
+      "kw": "유리갓등",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "중간",
+      "clicks": 0.3,
+      "adCount": 6
+    },
+    {
+      "kw": "태양광LED",
+      "pc": 130,
+      "mobile": 240,
+      "competition": "중간",
+      "clicks": 6.8,
+      "adCount": 8
+    },
+    {
+      "kw": "LED레터링",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 5.7,
+      "adCount": 10
+    },
+    {
+      "kw": "유리전등갓",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "인테리어내장",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "트레버틴",
+      "pc": 240,
+      "mobile": 650,
+      "competition": "높음",
+      "clicks": 7.2,
+      "adCount": 7
+    },
+    {
+      "kw": "데코가구",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 2.5,
+      "adCount": 5
+    },
+    {
+      "kw": "LED사인",
+      "pc": 30,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.7000000000000002,
+      "adCount": 8
+    },
+    {
+      "kw": "방음벽공사",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "중간",
+      "clicks": 0.9,
+      "adCount": 8
+    },
+    {
+      "kw": "LED간판제작",
+      "pc": 110,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 11.1,
+      "adCount": 10
+    },
+    {
+      "kw": "LED감사패",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 8
+    },
+    {
+      "kw": "LED글씨조명",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.9000000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "LED글자조명",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 2.1,
+      "adCount": 7
+    },
+    {
+      "kw": "LED네온제작",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 10
+    },
+    {
+      "kw": "LED돌출간판",
+      "pc": 460,
+      "mobile": 530,
+      "competition": "중간",
+      "clicks": 15.5,
+      "adCount": 8
+    },
+    {
+      "kw": "LED라인센서등",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED로고",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 8
+    },
+    {
+      "kw": "LED만들기",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED무드등만들기",
+      "pc": 50,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 8
+    },
+    {
+      "kw": "LED스틱조명",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED장식",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 10
+    },
+    {
+      "kw": "LED컬러조명",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 7
+    },
+    {
+      "kw": "LED큐브간판",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "LED플렉스",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "간판LED",
+      "pc": 60,
+      "mobile": 160,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 8
+    },
+    {
+      "kw": "간판LED조명",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 8
+    },
+    {
+      "kw": "간판레터링",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 8
+    },
+    {
+      "kw": "글자LED",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 2.3,
+      "adCount": 7
+    },
+    {
+      "kw": "네온사인LED",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 7
+    },
+    {
+      "kw": "녹색LED",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "레터링LED",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 2.4,
+      "adCount": 8
+    },
+    {
+      "kw": "무선LED간판",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "미니LED간판",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 8
+    },
+    {
+      "kw": "미니LED전광판",
+      "pc": 60,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 4.8,
+      "adCount": 8
+    },
+    {
+      "kw": "소형LED간판",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "스마일LED",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "알파벳LED",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "외부LED간판",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "카페LED간판",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "컬러LED",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "원형펜던트조명",
+      "pc": 20,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "UFO등",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "UFO조명",
+      "pc": 10,
+      "mobile": 70,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "우주선조명",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "미니LED",
+      "pc": 220,
+      "mobile": 540,
+      "competition": "높음",
+      "clicks": 5.8,
+      "adCount": 8
+    },
+    {
+      "kw": "실외인테리어",
+      "pc": 20,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 8
+    },
+    {
+      "kw": "감성LED",
+      "pc": 20,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED네온간판",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 10
+    },
+    {
+      "kw": "인테리어LED조명",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 8
+    },
+    {
+      "kw": "돌출LED간판",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 1.9000000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "엘이디간판",
+      "pc": 50,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 8.100000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "성남목공",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "욕실벽판넬",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 3
+    },
+    {
+      "kw": "욕실벽패널",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "LED간판",
+      "pc": 2560,
+      "mobile": 3210,
+      "competition": "중간",
+      "clicks": 81.4,
+      "adCount": 8
+    },
+    {
+      "kw": "붙이는LED",
+      "pc": 60,
+      "mobile": 170,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 9
+    },
+    {
+      "kw": "성남목수",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "글씨LED",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음",
+      "clicks": 1
+    },
+    {
+      "kw": "LED후광간판",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "예쁜LED간판",
+      "pc": 30,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 5.199999999999999,
+      "adCount": 8
+    },
+    {
+      "kw": "LED명패",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.6,
+      "adCount": 7
+    },
+    {
+      "kw": "LED채널",
+      "pc": 100,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.9000000000000001,
+      "adCount": 7
+    },
+    {
+      "kw": "슬라이딩",
+      "pc": 360,
+      "mobile": 1170,
+      "competition": "높음",
+      "clicks": 3.4,
+      "adCount": 8
+    },
+    {
+      "kw": "LED네온사인간판",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2.4,
+      "adCount": 8
+    },
+    {
+      "kw": "LED아크릴",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 8
+    },
+    {
+      "kw": "창문LED",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 8
+    },
+    {
+      "kw": "벽마감",
+      "pc": 20,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "삿갓조명",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "작은간판",
+      "pc": 50,
+      "mobile": 170,
+      "competition": "중간",
+      "clicks": 4.7,
+      "adCount": 8
+    },
+    {
+      "kw": "유리갓조명",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 8
+    },
+    {
+      "kw": "LED실내간판",
+      "pc": 130,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 6.4,
+      "adCount": 8
+    },
+    {
+      "kw": "LED글자간판",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 3.1999999999999997,
+      "adCount": 8
+    },
+    {
+      "kw": "LED소형간판",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "남양주목수",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 7
+    },
+    {
+      "kw": "LED레터링조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "LED글자",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.5999999999999996,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어LED",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 8
+    },
+    {
+      "kw": "안양목수",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.9,
+      "adCount": 10
+    },
+    {
+      "kw": "김포목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 10
+    },
+    {
+      "kw": "호리존인테리어",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "adCount": 6
+    },
+    {
+      "kw": "간살도어",
+      "pc": 240,
+      "mobile": 450,
+      "competition": "높음",
+      "clicks": 17.8,
+      "adCount": 8
+    },
+    {
+      "kw": "간살슬라이딩도어",
+      "pc": 90,
+      "mobile": 230,
+      "competition": "중간",
+      "clicks": 6.699999999999999,
+      "adCount": 8
+    },
+    {
+      "kw": "간살중문",
+      "pc": 550,
+      "mobile": 1780,
+      "competition": "높음",
+      "clicks": 109.8,
+      "adCount": 8
+    },
+    {
+      "kw": "라탄옷장",
+      "pc": 10,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 6.7,
+      "adCount": 8
+    },
+    {
+      "kw": "세덱가구",
+      "pc": 40,
+      "mobile": 290,
+      "competition": "중간",
+      "clicks": 5.3999999999999995,
+      "adCount": 3
+    },
+    {
+      "kw": "LED투광등200W",
+      "pc": 80,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 3.5,
+      "adCount": 10
+    },
+    {
+      "kw": "내장목공",
+      "pc": 40,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 0.8,
+      "adCount": 6
+    },
+    {
+      "kw": "일산목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 5.8,
+      "adCount": 10
+    },
+    {
+      "kw": "LED투광등100W",
+      "pc": 120,
+      "mobile": 140,
+      "competition": "중간",
+      "clicks": 6.4,
+      "adCount": 8
+    },
+    {
+      "kw": "목공팀",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.6999999999999997,
+      "adCount": 7
+    },
+    {
+      "kw": "국산가구브랜드",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 3
+    },
+    {
+      "kw": "마당리모델링",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "방구조변경",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "목공방",
+      "pc": 480,
+      "mobile": 1130,
+      "competition": "높음",
+      "clicks": 17.3,
+      "adCount": 10
+    },
+    {
+      "kw": "양평목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "중간",
+      "clicks": 0.5,
+      "adCount": 6
+    },
+    {
+      "kw": "LED잔디등",
+      "pc": 90,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 14.7,
+      "adCount": 10
+    },
+    {
+      "kw": "LED지중등",
+      "pc": 20,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.2000000000000002,
+      "adCount": 8
+    },
+    {
+      "kw": "부천목수",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 10
+    },
+    {
+      "kw": "홈카페인테리어",
+      "pc": 200,
+      "mobile": 590,
+      "competition": "높음",
+      "clicks": 5.3999999999999995,
+      "adCount": 10
+    },
+    {
+      "kw": "인천목수",
+      "pc": 40,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 4.3,
+      "adCount": 10
+    },
+    {
+      "kw": "교량경관조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "파주목공소",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 3,
+      "adCount": 4
+    },
+    {
+      "kw": "예쁜씽크대",
+      "pc": 5,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 5.3,
+      "adCount": 10
+    },
+    {
+      "kw": "경관조명업체",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 7
+    },
+    {
+      "kw": "우드핏",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "중간",
+      "adCount": 2
+    },
+    {
+      "kw": "카페실내인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 10
+    },
+    {
+      "kw": "분당목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "목공기능사",
+      "pc": 90,
+      "mobile": 210,
+      "competition": "중간",
+      "clicks": 4.2,
+      "adCount": 8
+    },
+    {
+      "kw": "인테리어목공공사",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "의정부목공소",
+      "pc": 5,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 0.9,
+      "adCount": 4
+    },
+    {
+      "kw": "테라스리모델링",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 7
+    },
+    {
+      "kw": "광명목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "성수동목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음"
+    },
+    {
+      "kw": "목공시공",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 7
+    },
+    {
+      "kw": "목공일당",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 1.5,
+      "adCount": 6
+    },
+    {
+      "kw": "산업용LED등",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 8
+    },
+    {
+      "kw": "고보조명",
+      "pc": 1060,
+      "mobile": 590,
+      "competition": "높음",
+      "clicks": 29.4,
+      "adCount": 10
+    },
+    {
+      "kw": "바닥등",
+      "pc": 60,
+      "mobile": 100,
+      "competition": "중간",
+      "clicks": 2.2,
+      "adCount": 8
+    },
+    {
+      "kw": "스노우풀",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 9
+    },
+    {
+      "kw": "인테리어목공",
+      "pc": 110,
+      "mobile": 250,
+      "competition": "높음",
+      "clicks": 4.7,
+      "adCount": 10
+    },
+    {
+      "kw": "강서구목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 1.4,
+      "adCount": 6
+    },
+    {
+      "kw": "건물경관조명",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "경관디자인",
+      "pc": 30,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 7
+    },
+    {
+      "kw": "경관설계",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "낮음"
+    },
+    {
+      "kw": "경관조명공사",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "경관조명기구",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "경관조명등",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.8999999999999999,
+      "adCount": 8
+    },
+    {
+      "kw": "경관조명설계",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "낮음"
+    },
+    {
+      "kw": "경관조명설치",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "경관조명시공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "경관조명회사",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "공원경관조명",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "나무조명",
+      "pc": 50,
+      "mobile": 180,
+      "competition": "높음",
+      "clicks": 3.1999999999999997,
+      "adCount": 8
+    },
+    {
+      "kw": "마당조명",
+      "pc": 30,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 2.6999999999999997,
+      "adCount": 8
+    },
+    {
+      "kw": "실외LED조명",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "야간경관",
+      "pc": 80,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "야간경관조명",
+      "pc": 20,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 7
+    },
+    {
+      "kw": "야외경관조명",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 7
+    },
+    {
+      "kw": "야외조명",
+      "pc": 300,
+      "mobile": 690,
+      "competition": "높음",
+      "clicks": 23.2,
+      "adCount": 8
+    },
+    {
+      "kw": "야외조명등",
+      "pc": 60,
+      "mobile": 340,
+      "competition": "높음",
+      "clicks": 10.3,
+      "adCount": 10
+    },
+    {
+      "kw": "옥외조명",
+      "pc": 40,
+      "mobile": 20,
+      "competition": "중간",
+      "clicks": 1.4,
+      "adCount": 8
+    },
+    {
+      "kw": "외벽조명",
+      "pc": 60,
+      "mobile": 80,
+      "competition": "중간",
+      "clicks": 2.2,
+      "adCount": 8
+    },
+    {
+      "kw": "전시조명",
+      "pc": 100,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 4,
+      "adCount": 8
+    },
+    {
+      "kw": "음악연습실창업",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 10
+    },
+    {
+      "kw": "MDF박스제작",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "목공공사",
+      "pc": 30,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 9
+    },
+    {
+      "kw": "군산목수",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "닷지테이블",
+      "pc": 90,
+      "mobile": 210,
+      "competition": "중간",
+      "clicks": 0.6,
+      "adCount": 2
+    },
+    {
+      "kw": "라운드벽체",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 0.4,
+      "adCount": 2
+    },
+    {
+      "kw": "마사지샵도면",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음"
+    },
+    {
+      "kw": "목포목수",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "낮음",
+      "clicks": 3.6999999999999997,
+      "adCount": 2
+    },
+    {
+      "kw": "삼척목수",
+      "pc": 5,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 0.9,
+      "adCount": 2
+    },
+    {
+      "kw": "숨은도어",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "스크린골프도면",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "아이방가벽",
+      "pc": 20,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 3
+    },
+    {
+      "kw": "아파트천장몰딩",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "이보드작업",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 3
+    },
+    {
+      "kw": "제주도목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "히든책장",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 3
+    },
+    {
+      "kw": "목수구직",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 10
+    },
+    {
+      "kw": "인터넷목공소",
+      "pc": 40,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 3.9000000000000004,
+      "adCount": 10
+    },
+    {
+      "kw": "고양시목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.8999999999999999,
+      "adCount": 7
+    },
+    {
+      "kw": "의정부목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 3.5999999999999996,
+      "adCount": 10
+    },
+    {
+      "kw": "목공카페",
+      "pc": 20,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 3
+    },
+    {
+      "kw": "건축자재판매",
+      "pc": 150,
+      "mobile": 880,
+      "competition": "높음",
+      "clicks": 17.1,
+      "adCount": 10
+    },
+    {
+      "kw": "목공업체",
+      "pc": 50,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 4.9,
+      "adCount": 10
+    },
+    {
+      "kw": "목재아트월",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 7
+    },
+    {
+      "kw": "동탄목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 4.8,
+      "adCount": 10
+    },
+    {
+      "kw": "강남목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "강동구목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "고양시목공소",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 0.8,
+      "adCount": 1
+    },
+    {
+      "kw": "목수구함",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 7
+    },
+    {
+      "kw": "붙박이의자",
+      "pc": 370,
+      "mobile": 720,
+      "competition": "높음",
+      "clicks": 39.5,
+      "adCount": 10
+    },
+    {
+      "kw": "화성목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "은평구목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "중간",
+      "clicks": 0.5,
+      "adCount": 5
+    },
+    {
+      "kw": "아치게이트",
+      "pc": 70,
+      "mobile": 290,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "부천목공",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2.1,
+      "adCount": 10
+    },
+    {
+      "kw": "양산목수",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.2,
+      "adCount": 7
+    },
+    {
+      "kw": "동아디자인월",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "사이드보드",
+      "pc": 130,
+      "mobile": 440,
+      "competition": "높음",
+      "clicks": 8.3,
+      "adCount": 8
+    },
+    {
+      "kw": "서울목공",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "안양목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.5,
+      "adCount": 10
+    },
+    {
+      "kw": "미드센추리식탁",
+      "pc": 10,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 3.8,
+      "adCount": 8
+    },
+    {
+      "kw": "건축자재전시장",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.9,
+      "adCount": 7
+    },
+    {
+      "kw": "원목사이드보드",
+      "pc": 20,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.9,
+      "adCount": 8
+    },
+    {
+      "kw": "자취생가구",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.9,
+      "adCount": 10
+    },
+    {
+      "kw": "서울목공소",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 10
+    },
+    {
+      "kw": "남양주목공",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "화성시목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "양주목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "전통한옥건축",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 7
+    },
+    {
+      "kw": "서울목수",
+      "pc": 40,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 2.7,
+      "adCount": 10
+    },
+    {
+      "kw": "안산목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.8,
+      "adCount": 10
+    },
+    {
+      "kw": "자취선반",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "수목등",
+      "pc": 300,
+      "mobile": 320,
+      "competition": "높음",
+      "clicks": 19.799999999999997,
+      "adCount": 10
+    },
+    {
+      "kw": "이천목수",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 2.9,
+      "adCount": 7
+    },
+    {
+      "kw": "목공작업",
+      "pc": 90,
+      "mobile": 180,
+      "competition": "높음",
+      "clicks": 2.6,
+      "adCount": 10
+    },
+    {
+      "kw": "안성목수",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "낮음",
+      "clicks": 1.3
+    },
+    {
+      "kw": "의정부목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.9,
+      "adCount": 7
+    },
+    {
+      "kw": "우드스케일",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "중간",
+      "clicks": 10.3,
+      "adCount": 2
+    },
+    {
+      "kw": "시흥목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "셀프인테리어목수",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "이천목공",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 0.3,
+      "adCount": 4
+    },
+    {
+      "kw": "강남목수",
+      "pc": 20,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "나무계단수리",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 1.3,
+      "adCount": 7
+    },
+    {
+      "kw": "목공견적",
+      "pc": 20,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 10
+    },
+    {
+      "kw": "용인목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2.8,
+      "adCount": 10
+    },
+    {
+      "kw": "부천가구제작",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "영등포목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.2,
+      "adCount": 3
+    },
+    {
+      "kw": "목작업",
+      "pc": 40,
+      "mobile": 80,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "수목투사등",
+      "pc": 230,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 11.5,
+      "adCount": 10
+    },
+    {
+      "kw": "목공구인",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.2,
+      "adCount": 10
+    },
+    {
+      "kw": "김포목수",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 3.0999999999999996,
+      "adCount": 10
+    },
+    {
+      "kw": "안산목수",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 10
+    },
+    {
+      "kw": "시흥목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "제주도목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2,
+      "adCount": 7
+    },
+    {
+      "kw": "목수카페",
+      "pc": 60,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 4.7,
+      "adCount": 7
+    },
+    {
+      "kw": "목공디자인",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "반셀프",
+      "pc": 50,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 1.7,
+      "adCount": 3
+    },
+    {
+      "kw": "인테리어목공작업",
+      "pc": 40,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 9
+    },
+    {
+      "kw": "천연원목가구",
+      "pc": 50,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 25.7,
+      "adCount": 10
+    },
+    {
+      "kw": "카페테이블",
+      "pc": 1430,
+      "mobile": 4160,
+      "competition": "높음",
+      "clicks": 193.9,
+      "adCount": 10
+    },
+    {
+      "kw": "목수박기홍",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "낮음"
+    },
+    {
+      "kw": "동탄가구제작",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "목수인력",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "분당목공",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 7
+    },
+    {
+      "kw": "주방수납장",
+      "pc": 4650,
+      "mobile": 22400,
+      "competition": "중간",
+      "clicks": 676.5,
+      "adCount": 8
+    },
+    {
+      "kw": "친환경내장재",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "템바보드시공",
+      "pc": 100,
+      "mobile": 180,
+      "competition": "높음",
+      "clicks": 19.200000000000003,
+      "adCount": 8
+    },
+    {
+      "kw": "골프존설치",
+      "pc": 10,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 4,
+      "adCount": 10
+    },
+    {
+      "kw": "원주목수",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 4.1,
+      "adCount": 7
+    },
+    {
+      "kw": "24평강마루비용",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "KCC마루",
+      "pc": 80,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 10
+    },
+    {
+      "kw": "LG강화마루",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 7
+    },
+    {
+      "kw": "LVT",
+      "pc": 520,
+      "mobile": 490,
+      "competition": "높음",
+      "clicks": 2.7,
+      "adCount": 10
+    },
+    {
+      "kw": "LX지아마루",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 1,
+      "adCount": 6
+    },
+    {
+      "kw": "강마루설치",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 7
+    },
+    {
+      "kw": "남양주강마루",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "돌마루시공",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 3.5,
+      "adCount": 10
+    },
+    {
+      "kw": "동화데코타일",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "동화아트월",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 9
+    },
+    {
+      "kw": "마루시공단가",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "마루타일",
+      "pc": 90,
+      "mobile": 250,
+      "competition": "중간",
+      "clicks": 5.1,
+      "adCount": 8
+    },
+    {
+      "kw": "베란다바닥시공",
+      "pc": 20,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 2.5999999999999996,
+      "adCount": 8
+    },
+    {
+      "kw": "사무실마루",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "수원마루시공",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 7
+    },
+    {
+      "kw": "에디톤마루",
+      "pc": 540,
+      "mobile": 2130,
+      "competition": "높음",
+      "clicks": 33.9,
+      "adCount": 7
+    },
+    {
+      "kw": "온돌마루가격",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 4.8999999999999995,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어석재",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어아트월",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 8
+    },
+    {
+      "kw": "중보행용마루",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "중간",
+      "clicks": 0.5,
+      "adCount": 6
+    },
+    {
+      "kw": "지아마루스타일",
+      "pc": 30,
+      "mobile": 110,
+      "competition": "중간",
+      "clicks": 4.5,
+      "adCount": 7
+    },
+    {
+      "kw": "하남마루",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 3
+    },
+    {
+      "kw": "평택목공소",
+      "pc": 10,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 3,
+      "adCount": 7
+    },
+    {
+      "kw": "파주목수",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 10
+    },
+    {
+      "kw": "미용실셀프인테리어",
+      "pc": 10,
+      "mobile": 120,
+      "competition": "중간",
+      "clicks": 2.4,
+      "adCount": 6
+    },
+    {
+      "kw": "투광등",
+      "pc": 1250,
+      "mobile": 1360,
+      "competition": "높음",
+      "clicks": 14.6,
+      "adCount": 8
+    },
+    {
+      "kw": "자취방가구",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 8
+    },
+    {
+      "kw": "휴게실공사",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "아파트목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "목수인건비",
+      "pc": 50,
+      "mobile": 210,
+      "competition": "높음",
+      "clicks": 3.3,
+      "adCount": 9
+    },
+    {
+      "kw": "강마루본드",
+      "pc": 120,
+      "mobile": 330,
+      "competition": "높음",
+      "clicks": 11.600000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "카페목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "목공기술자",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 7
+    },
+    {
+      "kw": "수원목공",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 5.1000000000000005,
+      "adCount": 10
+    },
+    {
+      "kw": "청림목공",
+      "pc": 40,
+      "mobile": 60,
+      "competition": "중간",
+      "clicks": 2.1,
+      "adCount": 3
+    },
+    {
+      "kw": "합판가구",
+      "pc": 70,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 3.3,
+      "adCount": 8
+    },
+    {
+      "kw": "목가구제작",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "내장목수구인",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 5.1,
+      "adCount": 10
+    },
+    {
+      "kw": "목공의뢰",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 2.2,
+      "adCount": 7
+    },
+    {
+      "kw": "목수일당",
+      "pc": 120,
+      "mobile": 600,
+      "competition": "높음",
+      "clicks": 16.2,
+      "adCount": 10
+    },
+    {
+      "kw": "웨인스코팅",
+      "pc": 760,
+      "mobile": 2070,
+      "competition": "높음",
+      "clicks": 59.6,
+      "adCount": 8
+    },
+    {
+      "kw": "지아마루",
+      "pc": 30,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 4.8999999999999995,
+      "adCount": 8
+    },
+    {
+      "kw": "시멘트몰탈",
+      "pc": 690,
+      "mobile": 1910,
+      "competition": "높음",
+      "clicks": 35.5,
+      "adCount": 8
+    },
+    {
+      "kw": "국내제작가구",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 7
+    },
+    {
+      "kw": "일산목공",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 7
+    },
+    {
+      "kw": "파주목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.4,
+      "adCount": 9
+    },
+    {
+      "kw": "에디톤",
+      "pc": 740,
+      "mobile": 1310,
+      "competition": "높음",
+      "clicks": 38.599999999999994,
+      "adCount": 10
+    },
+    {
+      "kw": "덴마크가구",
+      "pc": 60,
+      "mobile": 290,
+      "competition": "높음",
+      "clicks": 23.400000000000002,
+      "adCount": 8
+    },
+    {
+      "kw": "목공맞춤",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어목수구인",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 10
+    },
+    {
+      "kw": "동탄목공",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.4000000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "올고다로카프리미엄",
+      "pc": 110,
+      "mobile": 330,
+      "competition": "높음",
+      "clicks": 12.3,
+      "adCount": 7
+    },
+    {
+      "kw": "대리석아트월",
+      "pc": 20,
+      "mobile": 90,
+      "competition": "높음",
+      "clicks": 1.3,
+      "adCount": 8
+    },
+    {
+      "kw": "원목선반장",
+      "pc": 120,
+      "mobile": 490,
+      "competition": "중간",
+      "clicks": 6.2,
+      "adCount": 8
+    },
+    {
+      "kw": "목공제작",
+      "pc": 80,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 4.2,
+      "adCount": 10
+    },
+    {
+      "kw": "가게셀프인테리어",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.7999999999999999,
+      "adCount": 7
+    },
+    {
+      "kw": "부천목공소",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 10
+    },
+    {
+      "kw": "형틀목공",
+      "pc": 180,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 9
+    },
+    {
+      "kw": "광주목수",
+      "pc": 20,
+      "mobile": 80,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 9
+    },
+    {
+      "kw": "목수구인구직",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 2.7,
+      "adCount": 10
+    },
+    {
+      "kw": "화성목수",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "일당목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "LX데코타일",
+      "pc": 290,
+      "mobile": 410,
+      "competition": "높음",
+      "clicks": 27.3,
+      "adCount": 8
+    },
+    {
+      "kw": "사무실아트월",
+      "pc": 30,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "강마루교체비용",
+      "pc": 30,
+      "mobile": 220,
+      "competition": "높음",
+      "clicks": 3.1,
+      "adCount": 9
+    },
+    {
+      "kw": "간이벽설치",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "목수견적",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 3.5999999999999996,
+      "adCount": 10
+    },
+    {
+      "kw": "아파트현관가벽",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "제천목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 7
+    },
+    {
+      "kw": "춘천목공",
+      "pc": 30,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "편백나무시공",
+      "pc": 5,
+      "mobile": 60,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 10
+    },
+    {
+      "kw": "합판마루",
+      "pc": 130,
+      "mobile": 280,
+      "competition": "높음",
+      "clicks": 5,
+      "adCount": 10
+    },
+    {
+      "kw": "호리존설치",
+      "pc": 20,
+      "mobile": 40,
+      "competition": "중간",
+      "clicks": 2,
+      "adCount": 6
+    },
+    {
+      "kw": "가구목수",
+      "pc": 20,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 10
+    },
+    {
+      "kw": "로카프리미엄",
+      "pc": 70,
+      "mobile": 140,
+      "competition": "중간",
+      "clicks": 7.7,
+      "adCount": 6
+    },
+    {
+      "kw": "백시멘트",
+      "pc": 1370,
+      "mobile": 4280,
+      "competition": "중간",
+      "clicks": 15.7,
+      "adCount": 8
+    },
+    {
+      "kw": "카페목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "라인투광등",
+      "pc": 30,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 7
+    },
+    {
+      "kw": "셀프목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 10
+    },
+    {
+      "kw": "제주목공",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.6,
+      "adCount": 3
+    },
+    {
+      "kw": "용인목공",
+      "pc": 10,
+      "mobile": 40,
+      "competition": "높음",
+      "clicks": 2.2,
+      "adCount": 7
+    },
+    {
+      "kw": "가벽만들기",
+      "pc": 110,
+      "mobile": 340,
+      "competition": "높음",
+      "clicks": 3.1,
+      "adCount": 8
+    },
+    {
+      "kw": "석고보드천장",
+      "pc": 70,
+      "mobile": 100,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "인테리어목수일당",
+      "pc": 10,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 1.8,
+      "adCount": 7
+    },
+    {
+      "kw": "MDF판넬",
+      "pc": 30,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 7
+    },
+    {
+      "kw": "PB판재",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "가벽목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "아치제작",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 0.7,
+      "adCount": 6
+    },
+    {
+      "kw": "아파트천장방음",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.1,
+      "adCount": 10
+    },
+    {
+      "kw": "웨인스코팅셀프",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "중간",
+      "clicks": 0.5,
+      "adCount": 7
+    },
+    {
+      "kw": "전기일당",
+      "pc": 50,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 5.9,
+      "adCount": 9
+    },
+    {
+      "kw": "파티션문",
+      "pc": 40,
+      "mobile": 110,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 8
+    },
+    {
+      "kw": "홍대목공소",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "중간",
+      "adCount": 2
+    },
+    {
+      "kw": "셀프가벽",
+      "pc": 370,
+      "mobile": 1420,
+      "competition": "중간",
+      "clicks": 35.5,
+      "adCount": 8
+    },
+    {
+      "kw": "시그니월",
+      "pc": 360,
+      "mobile": 990,
+      "competition": "중간",
+      "clicks": 30.099999999999998,
+      "adCount": 5
+    },
+    {
+      "kw": "목수일자리",
+      "pc": 5,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1.5,
+      "adCount": 10
+    },
+    {
+      "kw": "내부마감재료",
+      "pc": 40,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 3
+    },
+    {
+      "kw": "내장마감",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 3
+    },
+    {
+      "kw": "야외파티션",
+      "pc": 80,
+      "mobile": 260,
+      "competition": "중간",
+      "clicks": 2.4,
+      "adCount": 8
+    },
+    {
+      "kw": "인천강화마루",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 7
+    },
+    {
+      "kw": "아파트거실바닥시공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 7
+    },
+    {
+      "kw": "화이트오크테이블",
+      "pc": 40,
+      "mobile": 120,
+      "competition": "중간",
+      "clicks": 1.8,
+      "adCount": 8
+    },
+    {
+      "kw": "화이트강마루",
+      "pc": 30,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 8.3,
+      "adCount": 8
+    },
+    {
+      "kw": "한솔SB마루",
+      "pc": 80,
+      "mobile": 170,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 10
+    },
+    {
+      "kw": "한솔강마루",
+      "pc": 210,
+      "mobile": 440,
+      "competition": "높음",
+      "clicks": 7.199999999999999,
+      "adCount": 8
+    },
+    {
+      "kw": "강마루두께",
+      "pc": 160,
+      "mobile": 300,
+      "competition": "높음",
+      "clicks": 6.6,
+      "adCount": 9
+    },
+    {
+      "kw": "카운터만들기",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "중간",
+      "clicks": 1.4,
+      "adCount": 2
+    },
+    {
+      "kw": "빅슬랩",
+      "pc": 100,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 6.1,
+      "adCount": 10
+    },
+    {
+      "kw": "구정마루시공",
+      "pc": 30,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 2.1,
+      "adCount": 9
+    },
+    {
+      "kw": "아파트마루교체",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "동화강화마루",
+      "pc": 60,
+      "mobile": 120,
+      "competition": "높음",
+      "clicks": 6.4,
+      "adCount": 10
+    },
+    {
+      "kw": "오산목수",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 9
+    },
+    {
+      "kw": "인천목공소",
+      "pc": 10,
+      "mobile": 70,
+      "competition": "중간",
+      "clicks": 5.7,
+      "adCount": 8
+    },
+    {
+      "kw": "가구목공",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 7
+    },
+    {
+      "kw": "미라클목공학원",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "낮음",
+      "clicks": 1,
+      "adCount": 1
+    },
+    {
+      "kw": "미라클목수학원",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음",
+      "clicks": 3,
+      "adCount": 1
+    },
+    {
+      "kw": "속초목수",
+      "pc": 5,
+      "mobile": 50,
+      "competition": "낮음",
+      "clicks": 2.6,
+      "adCount": 1
+    },
+    {
+      "kw": "원목바닥",
+      "pc": 40,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 3,
+      "adCount": 8
+    },
+    {
+      "kw": "마루판",
+      "pc": 40,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 1.2000000000000002,
+      "adCount": 10
+    },
+    {
+      "kw": "목공가벽",
+      "pc": 30,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 7
+    },
+    {
+      "kw": "투광기",
+      "pc": 1140,
+      "mobile": 1330,
+      "competition": "중간",
+      "clicks": 9.4,
+      "adCount": 8
+    },
+    {
+      "kw": "베란다바닥재",
+      "pc": 40,
+      "mobile": 180,
+      "competition": "중간",
+      "clicks": 4.2,
+      "adCount": 8
+    },
+    {
+      "kw": "인천목공",
+      "pc": 20,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 10
+    },
+    {
+      "kw": "바테이블제작",
+      "pc": 80,
+      "mobile": 170,
+      "competition": "높음",
+      "clicks": 12.8,
+      "adCount": 10
+    },
+    {
+      "kw": "호리존제작",
+      "pc": 10,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 2.5,
+      "adCount": 10
+    },
+    {
+      "kw": "LX에디톤",
+      "pc": 440,
+      "mobile": 980,
+      "competition": "높음",
+      "clicks": 24.200000000000003,
+      "adCount": 8
+    },
+    {
+      "kw": "강화마루비용",
+      "pc": 10,
+      "mobile": 170,
+      "competition": "중간",
+      "clicks": 5.199999999999999,
+      "adCount": 8
+    },
+    {
+      "kw": "디엔메종",
+      "pc": 210,
+      "mobile": 320,
+      "competition": "중간",
+      "clicks": 8.7,
+      "adCount": 5
+    },
+    {
+      "kw": "평택목공",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 4.2,
+      "adCount": 7
+    },
+    {
+      "kw": "이끼매트",
+      "pc": 40,
+      "mobile": 210,
+      "competition": "높음",
+      "clicks": 6.5,
+      "adCount": 8
+    },
+    {
+      "kw": "장판부분교체",
+      "pc": 60,
+      "mobile": 350,
+      "competition": "높음",
+      "clicks": 2.4,
+      "adCount": 10
+    },
+    {
+      "kw": "구정강마루",
+      "pc": 130,
+      "mobile": 190,
+      "competition": "높음",
+      "clicks": 3.6,
+      "adCount": 10
+    },
+    {
+      "kw": "강화마루시공가격",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 0.4,
+      "adCount": 8
+    },
+    {
+      "kw": "가벽제작",
+      "pc": 100,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 15.100000000000001,
+      "adCount": 8
+    },
+    {
+      "kw": "카페셀프인테리어",
+      "pc": 20,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 10
+    },
+    {
+      "kw": "바닥마루시공",
+      "pc": 20,
+      "mobile": 180,
+      "competition": "높음",
+      "clicks": 6.2,
+      "adCount": 9
+    },
+    {
+      "kw": "원룸가벽",
+      "pc": 70,
+      "mobile": 180,
+      "competition": "높음",
+      "clicks": 2.9,
+      "adCount": 9
+    },
+    {
+      "kw": "실내마감재",
+      "pc": 40,
+      "mobile": 60,
+      "competition": "중간",
+      "clicks": 1.4,
+      "adCount": 8
+    },
+    {
+      "kw": "여수목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.5,
+      "adCount": 3
+    },
+    {
+      "kw": "강릉목수",
+      "pc": 30,
+      "mobile": 250,
+      "competition": "중간",
+      "clicks": 6.300000000000001,
+      "adCount": 4
+    },
+    {
+      "kw": "합판디자인",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "건축목공",
+      "pc": 80,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 4.3,
+      "adCount": 9
+    },
+    {
+      "kw": "목공사이트",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "평택목수",
+      "pc": 10,
+      "mobile": 70,
+      "competition": "높음",
+      "clicks": 7.300000000000001,
+      "adCount": 10
+    },
+    {
+      "kw": "강마루색상",
+      "pc": 60,
+      "mobile": 210,
+      "competition": "높음",
+      "clicks": 7.6,
+      "adCount": 10
+    },
+    {
+      "kw": "KCC강마루",
+      "pc": 90,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 1.7000000000000002,
+      "adCount": 10
+    },
+    {
+      "kw": "호리존목공",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "춘천목수",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "중간",
+      "clicks": 3.5,
+      "adCount": 5
+    },
+    {
+      "kw": "사하라라이트",
+      "pc": 310,
+      "mobile": 700,
+      "competition": "높음",
+      "clicks": 2.6,
+      "adCount": 10
+    },
+    {
+      "kw": "셀프가벽만들기",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 8
+    },
+    {
+      "kw": "강마루평당가격",
+      "pc": 10,
+      "mobile": 90,
+      "competition": "중간",
+      "clicks": 3.9,
+      "adCount": 7
+    },
+    {
+      "kw": "마루판매",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "강마루판매",
+      "pc": 10,
+      "mobile": 5,
+      "competition": "높음",
+      "clicks": 0.6,
+      "adCount": 7
+    },
+    {
+      "kw": "데스크제작",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 1.1,
+      "adCount": 7
+    },
+    {
+      "kw": "베란다마루",
+      "pc": 20,
+      "mobile": 150,
+      "competition": "높음",
+      "clicks": 3,
+      "adCount": 8
+    },
+    {
+      "kw": "H2디자인",
+      "pc": 10,
+      "mobile": 50,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 3
+    },
+    {
+      "kw": "충주목수",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 2.1,
+      "adCount": 4
+    },
+    {
+      "kw": "창살문",
+      "pc": 20,
+      "mobile": 80,
+      "competition": "중간",
+      "clicks": 3.5,
+      "adCount": 7
+    },
+    {
+      "kw": "우드바닥재",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 1.4,
+      "adCount": 8
+    },
+    {
+      "kw": "서산목수",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 3.1999999999999997,
+      "adCount": 7
+    },
+    {
+      "kw": "파티션가벽",
+      "pc": 110,
+      "mobile": 420,
+      "competition": "높음",
+      "clicks": 11.9,
+      "adCount": 9
+    },
+    {
+      "kw": "동화마루시공",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.4,
+      "adCount": 7
+    },
+    {
+      "kw": "가벽셀프시공",
+      "pc": 40,
+      "mobile": 100,
+      "competition": "중간",
+      "clicks": 1.4,
+      "adCount": 6
+    },
+    {
+      "kw": "셀프인테리어순서",
+      "pc": 120,
+      "mobile": 370,
+      "competition": "중간",
+      "clicks": 3.8,
+      "adCount": 8
+    },
+    {
+      "kw": "강아지마루",
+      "pc": 20,
+      "mobile": 130,
+      "competition": "높음",
+      "clicks": 0.8,
+      "adCount": 10
+    },
+    {
+      "kw": "아치목공",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "원목파티션",
+      "pc": 660,
+      "mobile": 2470,
+      "competition": "높음",
+      "clicks": 67.1,
+      "adCount": 10
+    },
+    {
+      "kw": "온라인집들이",
+      "pc": 90,
+      "mobile": 180,
+      "competition": "중간",
+      "clicks": 1.3,
+      "adCount": 8
+    },
+    {
+      "kw": "이동식가벽제작",
+      "pc": 10,
+      "mobile": 10,
+      "competition": "높음",
+      "clicks": 0.8999999999999999,
+      "adCount": 7
+    },
+    {
+      "kw": "호리존공사",
+      "pc": 20,
+      "mobile": 20,
+      "competition": "중간",
+      "clicks": 0.8,
+      "adCount": 6
+    },
+    {
+      "kw": "동아마루",
+      "pc": 80,
+      "mobile": 200,
+      "competition": "높음",
+      "clicks": 7.8,
+      "adCount": 10
+    },
+    {
+      "kw": "10평방꾸미기",
+      "pc": 5,
+      "mobile": 10,
+      "competition": "중간",
+      "clicks": 0.8,
+      "adCount": 4
+    },
+    {
+      "kw": "가구브랜드사이트",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 7
+    },
+    {
+      "kw": "가구회사순위",
+      "pc": 60,
+      "mobile": 140,
+      "competition": "높음",
+      "clicks": 0.7,
+      "adCount": 3
+    },
+    {
+      "kw": "공간퍼니쳐",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "높음",
+      "adCount": 3
+    },
+    {
+      "kw": "러스틱퍼니쳐",
+      "pc": 5,
+      "mobile": 5,
+      "competition": "낮음"
+    },
+    {
+      "kw": "마루가구",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "clicks": 0.3,
+      "adCount": 3
+    },
+    {
+      "kw": "복층가구",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "중간",
+      "clicks": 0.8,
+      "adCount": 6
+    },
+    {
+      "kw": "예쁜쇼핑몰",
+      "pc": 10,
+      "mobile": 30,
+      "competition": "높음",
+      "clicks": 1,
+      "adCount": 10
+    },
+    {
+      "kw": "원룸필수템",
+      "pc": 80,
+      "mobile": 180,
+      "competition": "중간",
+      "clicks": 1.6,
+      "adCount": 6
+    },
+    {
+      "kw": "이쁜쇼핑몰",
+      "pc": 5,
+      "mobile": 20,
+      "competition": "높음",
+      "adCount": 7
     }
   ]
 }
