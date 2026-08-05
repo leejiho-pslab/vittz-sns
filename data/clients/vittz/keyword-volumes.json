@@ -1,0 +1,1393 @@
+{
+  "updatedAt": "2026-08-05T13:40:13.955Z",
+  "source": "네이버 검색광고 API keywordstool (광고주센터 키워드 도구와 동일 데이터)",
+  "requested": [
+    {
+      "keyword": "실링팬",
+      "pc": 19200,
+      "mobile": 62100,
+      "total": 81300,
+      "compIdx": "중간",
+      "avgPcClicks": 237.9,
+      "avgMobileClicks": 1267.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "암막커튼",
+      "pc": 11000,
+      "mobile": 47200,
+      "total": 58200,
+      "compIdx": "중간",
+      "avgPcClicks": 142.4,
+      "avgMobileClicks": 854.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "비츠조명",
+      "pc": 10000,
+      "mobile": 19700,
+      "total": 29700,
+      "compIdx": "중간",
+      "avgPcClicks": 80.4,
+      "avgMobileClicks": 467.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "무드등",
+      "pc": 4740,
+      "mobile": 16500,
+      "total": 21240,
+      "compIdx": "중간",
+      "avgPcClicks": 17.4,
+      "avgMobileClicks": 145.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "식탁등",
+      "pc": 3120,
+      "mobile": 14700,
+      "total": 17820,
+      "compIdx": "높음",
+      "avgPcClicks": 66.2,
+      "avgMobileClicks": 649.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "현관센서등",
+      "pc": 2800,
+      "mobile": 12300,
+      "total": 15100,
+      "compIdx": "중간",
+      "avgPcClicks": 51.8,
+      "avgMobileClicks": 407.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거실등",
+      "pc": 3000,
+      "mobile": 10400,
+      "total": 13400,
+      "compIdx": "중간",
+      "avgPcClicks": 69.3,
+      "avgMobileClicks": 442.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "레일조명",
+      "pc": 3450,
+      "mobile": 8250,
+      "total": 11700,
+      "compIdx": "중간",
+      "avgPcClicks": 72.8,
+      "avgMobileClicks": 295.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "욕실리모델링",
+      "pc": 1860,
+      "mobile": 9440,
+      "total": 11300,
+      "compIdx": "높음",
+      "avgPcClicks": 40.4,
+      "avgMobileClicks": 311.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "천장선풍기",
+      "pc": 1240,
+      "mobile": 7960,
+      "total": 9200,
+      "compIdx": "중간",
+      "avgPcClicks": 7.3,
+      "avgMobileClicks": 172.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "벽등",
+      "pc": 2740,
+      "mobile": 5670,
+      "total": 8410,
+      "compIdx": "높음",
+      "avgPcClicks": 62.6,
+      "avgMobileClicks": 172.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "주방등",
+      "pc": 1830,
+      "mobile": 6360,
+      "total": 8190,
+      "compIdx": "높음",
+      "avgPcClicks": 25,
+      "avgMobileClicks": 210,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED방등",
+      "pc": 1760,
+      "mobile": 4270,
+      "total": 6030,
+      "compIdx": "중간",
+      "avgPcClicks": 16.7,
+      "avgMobileClicks": 108.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "펜던트조명",
+      "pc": 1650,
+      "mobile": 4070,
+      "total": 5720,
+      "compIdx": "높음",
+      "avgPcClicks": 35.2,
+      "avgMobileClicks": 110,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "간접조명",
+      "pc": 1400,
+      "mobile": 3900,
+      "total": 5300,
+      "compIdx": "중간",
+      "avgPcClicks": 15.4,
+      "avgMobileClicks": 57.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "방등",
+      "pc": 1680,
+      "mobile": 3340,
+      "total": 5020,
+      "compIdx": "중간",
+      "avgPcClicks": 26.4,
+      "avgMobileClicks": 106.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "책상스탠드",
+      "pc": 1330,
+      "mobile": 3560,
+      "total": 4890,
+      "compIdx": "중간",
+      "avgPcClicks": 7.8,
+      "avgMobileClicks": 45.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "인테리어조명",
+      "pc": 1150,
+      "mobile": 3620,
+      "total": 4770,
+      "compIdx": "높음",
+      "avgPcClicks": 24,
+      "avgMobileClicks": 100.2,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "욕실등",
+      "pc": 1030,
+      "mobile": 2940,
+      "total": 3970,
+      "compIdx": "중간",
+      "avgPcClicks": 11.1,
+      "avgMobileClicks": 54.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "조명쇼핑몰",
+      "pc": 690,
+      "mobile": 2380,
+      "total": 3070,
+      "compIdx": "높음",
+      "avgPcClicks": 55.8,
+      "avgMobileClicks": 221.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "LED평판등",
+      "pc": 970,
+      "mobile": 1690,
+      "total": 2660,
+      "compIdx": "높음",
+      "avgPcClicks": 2.3,
+      "avgMobileClicks": 11.7,
+      "plAvgDepth": 9
+    },
+    {
+      "keyword": "호텔침구",
+      "pc": 550,
+      "mobile": 1990,
+      "total": 2540,
+      "compIdx": "중간",
+      "avgPcClicks": 15.7,
+      "avgMobileClicks": 73.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전등교체",
+      "pc": 320,
+      "mobile": 1850,
+      "total": 2170,
+      "compIdx": "높음",
+      "avgPcClicks": 3.2,
+      "avgMobileClicks": 43.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "타일시공",
+      "pc": 420,
+      "mobile": 1540,
+      "total": 1960,
+      "compIdx": "높음",
+      "avgPcClicks": 7.1,
+      "avgMobileClicks": 40,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "LED실링팬",
+      "pc": 270,
+      "mobile": 1180,
+      "total": 1450,
+      "compIdx": "중간",
+      "avgPcClicks": 2.1,
+      "avgMobileClicks": 40.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거실등교체",
+      "pc": 200,
+      "mobile": 1140,
+      "total": 1340,
+      "compIdx": "높음",
+      "avgPcClicks": 4.9,
+      "avgMobileClicks": 47,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "우드실링팬",
+      "pc": 210,
+      "mobile": 810,
+      "total": 1020,
+      "compIdx": "중간",
+      "avgPcClicks": 3.2,
+      "avgMobileClicks": 24.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "플리커프리조명",
+      "pc": 220,
+      "mobile": 730,
+      "total": 950,
+      "compIdx": "중간",
+      "avgPcClicks": 2.1,
+      "avgMobileClicks": 7.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "아이방조명",
+      "pc": 130,
+      "mobile": 740,
+      "total": 870,
+      "compIdx": "높음",
+      "avgPcClicks": 6.3,
+      "avgMobileClicks": 39.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED매입등",
+      "pc": 240,
+      "mobile": 580,
+      "total": 820,
+      "compIdx": "중간",
+      "avgPcClicks": 2.6,
+      "avgMobileClicks": 8.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "조명설치",
+      "pc": 180,
+      "mobile": 560,
+      "total": 740,
+      "compIdx": "높음",
+      "avgPcClicks": 6.1,
+      "avgMobileClicks": 32.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "조명교체",
+      "pc": 120,
+      "mobile": 340,
+      "total": 460,
+      "compIdx": "높음",
+      "avgPcClicks": 1.1,
+      "avgMobileClicks": 9.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "학습용스탠드",
+      "pc": 60,
+      "mobile": 220,
+      "total": 280,
+      "compIdx": "중간",
+      "avgPcClicks": 0.1,
+      "avgMobileClicks": 4.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "실링팬방등",
+      "pc": 80,
+      "mobile": 180,
+      "total": 260,
+      "compIdx": "높음",
+      "avgPcClicks": 0.6,
+      "avgMobileClicks": 3.3,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "미드센추리조명",
+      "pc": 20,
+      "mobile": 140,
+      "total": 160,
+      "compIdx": "높음",
+      "avgPcClicks": 0.4,
+      "avgMobileClicks": 1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED방등교체",
+      "pc": 50,
+      "mobile": 90,
+      "total": 140,
+      "compIdx": "높음",
+      "avgPcClicks": 0.8,
+      "avgMobileClicks": 3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "신혼집조명",
+      "pc": 10,
+      "mobile": 20,
+      "total": 30,
+      "compIdx": "높음",
+      "plAvgDepth": 3
+    },
+    {
+      "keyword": "조명전문점",
+      "pc": 5,
+      "mobile": 20,
+      "total": 25,
+      "compIdx": "높음",
+      "avgPcClicks": 0.1,
+      "avgMobileClicks": 0.3,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "삼색변환LED",
+      "pc": 5,
+      "mobile": 5,
+      "total": 10,
+      "compIdx": "높음",
+      "plAvgDepth": 3
+    }
+  ],
+  "related": [
+    {
+      "keyword": "선풍기",
+      "pc": 66800,
+      "mobile": 273400,
+      "total": 340200,
+      "compIdx": "중간",
+      "avgPcClicks": 267.4,
+      "avgMobileClicks": 3912.3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "내일배움카드",
+      "pc": 52900,
+      "mobile": 98700,
+      "total": 151600,
+      "compIdx": "높음",
+      "avgPcClicks": 52.1,
+      "avgMobileClicks": 421.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "보조배터리",
+      "pc": 29900,
+      "mobile": 86800,
+      "total": 116700,
+      "compIdx": "중간",
+      "avgPcClicks": 34,
+      "avgMobileClicks": 117.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "휴대용선풍기",
+      "pc": 19500,
+      "mobile": 66800,
+      "total": 86300,
+      "compIdx": "높음",
+      "avgPcClicks": 21.1,
+      "avgMobileClicks": 160.9,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "손선풍기",
+      "pc": 14900,
+      "mobile": 70000,
+      "total": 84900,
+      "compIdx": "중간",
+      "avgPcClicks": 70.4,
+      "avgMobileClicks": 962.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "백팩",
+      "pc": 13700,
+      "mobile": 66400,
+      "total": 80100,
+      "compIdx": "높음",
+      "avgPcClicks": 93.1,
+      "avgMobileClicks": 627.4,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "써큘레이터",
+      "pc": 13900,
+      "mobile": 65100,
+      "total": 79000,
+      "compIdx": "중간",
+      "avgPcClicks": 51.5,
+      "avgMobileClicks": 884.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "무선선풍기",
+      "pc": 11900,
+      "mobile": 55900,
+      "total": 67800,
+      "compIdx": "중간",
+      "avgPcClicks": 80.9,
+      "avgMobileClicks": 1328.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "의자",
+      "pc": 19200,
+      "mobile": 44200,
+      "total": 63400,
+      "compIdx": "중간",
+      "avgPcClicks": 102.2,
+      "avgMobileClicks": 373.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "여름이불",
+      "pc": 11700,
+      "mobile": 51100,
+      "total": 62800,
+      "compIdx": "중간",
+      "avgPcClicks": 224,
+      "avgMobileClicks": 1884.3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "식탁의자",
+      "pc": 8070,
+      "mobile": 48200,
+      "total": 56270,
+      "compIdx": "중간",
+      "avgPcClicks": 174.9,
+      "avgMobileClicks": 1721.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "내일배움카드신청",
+      "pc": 15300,
+      "mobile": 38500,
+      "total": 53800,
+      "compIdx": "높음",
+      "avgPcClicks": 7.9,
+      "avgMobileClicks": 101.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "탁상용선풍기",
+      "pc": 13500,
+      "mobile": 37600,
+      "total": 51100,
+      "compIdx": "중간",
+      "avgPcClicks": 33,
+      "avgMobileClicks": 527.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "조명",
+      "pc": 11400,
+      "mobile": 31900,
+      "total": 43300,
+      "compIdx": "높음",
+      "avgPcClicks": 379,
+      "avgMobileClicks": 1075,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "이불",
+      "pc": 9930,
+      "mobile": 28700,
+      "total": 38630,
+      "compIdx": "중간",
+      "avgPcClicks": 104.2,
+      "avgMobileClicks": 655.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "붙박이장",
+      "pc": 7600,
+      "mobile": 27400,
+      "total": 35000,
+      "compIdx": "중간",
+      "avgPcClicks": 199.6,
+      "avgMobileClicks": 1092.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "필립스",
+      "pc": 7720,
+      "mobile": 26600,
+      "total": 34320,
+      "compIdx": "중간",
+      "avgPcClicks": 8.6,
+      "avgMobileClicks": 73.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "에어컨냉매충전",
+      "pc": 3080,
+      "mobile": 30900,
+      "total": 33980,
+      "compIdx": "높음",
+      "avgPcClicks": 37.6,
+      "avgMobileClicks": 862.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "LED전등",
+      "pc": 7320,
+      "mobile": 26400,
+      "total": 33720,
+      "compIdx": "중간",
+      "avgPcClicks": 89.9,
+      "avgMobileClicks": 399.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "환풍기",
+      "pc": 9020,
+      "mobile": 24200,
+      "total": 33220,
+      "compIdx": "중간",
+      "avgPcClicks": 24,
+      "avgMobileClicks": 149.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "미니선풍기",
+      "pc": 5720,
+      "mobile": 27400,
+      "total": 33120,
+      "compIdx": "중간",
+      "avgPcClicks": 23,
+      "avgMobileClicks": 334.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "화장실",
+      "pc": 2000,
+      "mobile": 30100,
+      "total": 32100,
+      "compIdx": "높음",
+      "avgPcClicks": 7.2,
+      "avgMobileClicks": 60.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "세면대",
+      "pc": 6970,
+      "mobile": 24300,
+      "total": 31270,
+      "compIdx": "중간",
+      "avgPcClicks": 17,
+      "avgMobileClicks": 212.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전신거울",
+      "pc": 4570,
+      "mobile": 19800,
+      "total": 24370,
+      "compIdx": "중간",
+      "avgPcClicks": 53.7,
+      "avgMobileClicks": 461.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "햇빛가리개",
+      "pc": 3910,
+      "mobile": 20200,
+      "total": 24110,
+      "compIdx": "중간",
+      "avgPcClicks": 28.4,
+      "avgMobileClicks": 440.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "대형선풍기",
+      "pc": 7280,
+      "mobile": 15900,
+      "total": 23180,
+      "compIdx": "높음",
+      "avgPcClicks": 42.2,
+      "avgMobileClicks": 139.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "차량용선풍기",
+      "pc": 3100,
+      "mobile": 18500,
+      "total": 21600,
+      "compIdx": "중간",
+      "avgPcClicks": 9.1,
+      "avgMobileClicks": 209,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED전등교체",
+      "pc": 2880,
+      "mobile": 18500,
+      "total": 21380,
+      "compIdx": "중간",
+      "avgPcClicks": 37.2,
+      "avgMobileClicks": 336.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "차량용냉장고",
+      "pc": 3530,
+      "mobile": 17400,
+      "total": 20930,
+      "compIdx": "중간",
+      "avgPcClicks": 42.2,
+      "avgMobileClicks": 636.3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거울",
+      "pc": 6360,
+      "mobile": 14100,
+      "total": 20460,
+      "compIdx": "중간",
+      "avgPcClicks": 19.7,
+      "avgMobileClicks": 190.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "화장실리모델링",
+      "pc": 2810,
+      "mobile": 17300,
+      "total": 20110,
+      "compIdx": "높음",
+      "avgPcClicks": 65.7,
+      "avgMobileClicks": 661.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "국비지원교육",
+      "pc": 5520,
+      "mobile": 14100,
+      "total": 19620,
+      "compIdx": "높음",
+      "avgPcClicks": 29,
+      "avgMobileClicks": 186.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "공업용선풍기",
+      "pc": 5080,
+      "mobile": 14100,
+      "total": 19180,
+      "compIdx": "중간",
+      "avgPcClicks": 54.1,
+      "avgMobileClicks": 354.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전기",
+      "pc": 3010,
+      "mobile": 15600,
+      "total": 18610,
+      "compIdx": "높음",
+      "avgPcClicks": 1.4,
+      "avgMobileClicks": 40.2,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "스마트스위치",
+      "pc": 8030,
+      "mobile": 10300,
+      "total": 18330,
+      "compIdx": "중간",
+      "avgPcClicks": 14.7,
+      "avgMobileClicks": 74.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "커텐",
+      "pc": 3190,
+      "mobile": 13900,
+      "total": 17090,
+      "compIdx": "높음",
+      "avgPcClicks": 64.3,
+      "avgMobileClicks": 272,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "캠핑선풍기",
+      "pc": 2720,
+      "mobile": 13600,
+      "total": 16320,
+      "compIdx": "중간",
+      "avgPcClicks": 15.5,
+      "avgMobileClicks": 169.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거실인테리어",
+      "pc": 1760,
+      "mobile": 14500,
+      "total": 16260,
+      "compIdx": "높음",
+      "avgPcClicks": 13.6,
+      "avgMobileClicks": 197.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "욕실수납장",
+      "pc": 2710,
+      "mobile": 13400,
+      "total": 16110,
+      "compIdx": "중간",
+      "avgPcClicks": 40.9,
+      "avgMobileClicks": 423.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "센서등",
+      "pc": 4060,
+      "mobile": 11300,
+      "total": 15360,
+      "compIdx": "중간",
+      "avgPcClicks": 34.2,
+      "avgMobileClicks": 216,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "누전차단기",
+      "pc": 4120,
+      "mobile": 11000,
+      "total": 15120,
+      "compIdx": "중간",
+      "avgPcClicks": 11,
+      "avgMobileClicks": 94.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "스케치업",
+      "pc": 10800,
+      "mobile": 4120,
+      "total": 14920,
+      "compIdx": "높음",
+      "avgPcClicks": 7.7,
+      "avgMobileClicks": 17.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "양변기",
+      "pc": 4200,
+      "mobile": 10600,
+      "total": 14800,
+      "compIdx": "중간",
+      "avgPcClicks": 17.9,
+      "avgMobileClicks": 126,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "루씨에어실링팬",
+      "pc": 2670,
+      "mobile": 12100,
+      "total": 14770,
+      "compIdx": "중간",
+      "avgPcClicks": 18,
+      "avgMobileClicks": 408.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "변압기",
+      "pc": 3920,
+      "mobile": 10800,
+      "total": 14720,
+      "compIdx": "중간",
+      "avgPcClicks": 23.9,
+      "avgMobileClicks": 41,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전구",
+      "pc": 4890,
+      "mobile": 9810,
+      "total": 14700,
+      "compIdx": "중간",
+      "avgPcClicks": 15.9,
+      "avgMobileClicks": 204.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "에어컨선풍기",
+      "pc": 2010,
+      "mobile": 12600,
+      "total": 14610,
+      "compIdx": "높음",
+      "avgPcClicks": 10.5,
+      "avgMobileClicks": 222.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "거실LED등",
+      "pc": 2110,
+      "mobile": 12400,
+      "total": 14510,
+      "compIdx": "중간",
+      "avgPcClicks": 68,
+      "avgMobileClicks": 475.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "변기교체",
+      "pc": 1570,
+      "mobile": 12700,
+      "total": 14270,
+      "compIdx": "높음",
+      "avgPcClicks": 28.4,
+      "avgMobileClicks": 500.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거실커튼",
+      "pc": 2190,
+      "mobile": 11500,
+      "total": 13690,
+      "compIdx": "높음",
+      "avgPcClicks": 50,
+      "avgMobileClicks": 496.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "캠핑용선풍기",
+      "pc": 2420,
+      "mobile": 11000,
+      "total": 13420,
+      "compIdx": "중간",
+      "avgPcClicks": 13.1,
+      "avgMobileClicks": 150.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "원형식탁",
+      "pc": 1970,
+      "mobile": 11200,
+      "total": 13170,
+      "compIdx": "중간",
+      "avgPcClicks": 18.3,
+      "avgMobileClicks": 210.3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "이케아조명",
+      "pc": 1920,
+      "mobile": 11000,
+      "total": 12920,
+      "compIdx": "중간",
+      "avgPcClicks": 5.8,
+      "avgMobileClicks": 112.9,
+      "plAvgDepth": 6
+    },
+    {
+      "keyword": "산업용선풍기",
+      "pc": 4090,
+      "mobile": 8750,
+      "total": 12840,
+      "compIdx": "중간",
+      "avgPcClicks": 42.4,
+      "avgMobileClicks": 158.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "업소용선풍기",
+      "pc": 2460,
+      "mobile": 10200,
+      "total": 12660,
+      "compIdx": "중간",
+      "avgPcClicks": 22.2,
+      "avgMobileClicks": 233.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "신일BLDC선풍기",
+      "pc": 1520,
+      "mobile": 10400,
+      "total": 11920,
+      "compIdx": "중간",
+      "avgPcClicks": 13.1,
+      "avgMobileClicks": 245.6,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "국비지원",
+      "pc": 4230,
+      "mobile": 7360,
+      "total": 11590,
+      "compIdx": "높음",
+      "avgPcClicks": 15.5,
+      "avgMobileClicks": 58.4,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "가림막커튼",
+      "pc": 2310,
+      "mobile": 9200,
+      "total": 11510,
+      "compIdx": "중간",
+      "avgPcClicks": 17.9,
+      "avgMobileClicks": 165.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "수납침대",
+      "pc": 2200,
+      "mobile": 8950,
+      "total": 11150,
+      "compIdx": "높음",
+      "avgPcClicks": 10.6,
+      "avgMobileClicks": 53,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "OPEN",
+      "pc": 2160,
+      "mobile": 8910,
+      "total": 11070,
+      "compIdx": "높음",
+      "avgPcClicks": 0.9,
+      "avgMobileClicks": 21.3,
+      "plAvgDepth": 9
+    },
+    {
+      "keyword": "LED전구",
+      "pc": 2470,
+      "mobile": 8390,
+      "total": 10860,
+      "compIdx": "중간",
+      "avgPcClicks": 11.1,
+      "avgMobileClicks": 99.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "실링팬조명",
+      "pc": 1740,
+      "mobile": 9060,
+      "total": 10800,
+      "compIdx": "중간",
+      "avgPcClicks": 22.5,
+      "avgMobileClicks": 224,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "싱크대수전교체",
+      "pc": 1390,
+      "mobile": 9400,
+      "total": 10790,
+      "compIdx": "높음",
+      "avgPcClicks": 15,
+      "avgMobileClicks": 252.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED",
+      "pc": 3910,
+      "mobile": 6800,
+      "total": 10710,
+      "compIdx": "높음",
+      "avgPcClicks": 5,
+      "avgMobileClicks": 14.3,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "커튼레일",
+      "pc": 2530,
+      "mobile": 8180,
+      "total": 10710,
+      "compIdx": "중간",
+      "avgPcClicks": 32.4,
+      "avgMobileClicks": 208,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "원형테이블",
+      "pc": 2670,
+      "mobile": 8010,
+      "total": 10680,
+      "compIdx": "중간",
+      "avgPcClicks": 16.2,
+      "avgMobileClicks": 78.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "세면대수전교체",
+      "pc": 1460,
+      "mobile": 9050,
+      "total": 10510,
+      "compIdx": "중간",
+      "avgPcClicks": 14.7,
+      "avgMobileClicks": 216,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "루이스폴센",
+      "pc": 2050,
+      "mobile": 8310,
+      "total": 10360,
+      "compIdx": "높음",
+      "avgPcClicks": 18.2,
+      "avgMobileClicks": 164.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "전등",
+      "pc": 2300,
+      "mobile": 8000,
+      "total": 10300,
+      "compIdx": "높음",
+      "avgPcClicks": 25.9,
+      "avgMobileClicks": 135.4,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "스탠드조명",
+      "pc": 2490,
+      "mobile": 7720,
+      "total": 10210,
+      "compIdx": "중간",
+      "avgPcClicks": 23.6,
+      "avgMobileClicks": 170.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "식물등",
+      "pc": 2300,
+      "mobile": 7910,
+      "total": 10210,
+      "compIdx": "중간",
+      "avgPcClicks": 32.3,
+      "avgMobileClicks": 135,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "욕실장",
+      "pc": 2840,
+      "mobile": 7330,
+      "total": 10170,
+      "compIdx": "높음",
+      "avgPcClicks": 47.9,
+      "avgMobileClicks": 216.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED등",
+      "pc": 3090,
+      "mobile": 7010,
+      "total": 10100,
+      "compIdx": "높음",
+      "avgPcClicks": 16.7,
+      "avgMobileClicks": 58.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전기자재",
+      "pc": 1220,
+      "mobile": 8830,
+      "total": 10050,
+      "compIdx": "높음",
+      "avgPcClicks": 21.2,
+      "avgMobileClicks": 21,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "다운라이트",
+      "pc": 3410,
+      "mobile": 6600,
+      "total": 10010,
+      "compIdx": "중간",
+      "avgPcClicks": 27.6,
+      "avgMobileClicks": 99.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "버티컬",
+      "pc": 2590,
+      "mobile": 7410,
+      "total": 10000,
+      "compIdx": "높음",
+      "avgPcClicks": 25.3,
+      "avgMobileClicks": 184.5,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED거실등",
+      "pc": 1900,
+      "mobile": 7960,
+      "total": 9860,
+      "compIdx": "중간",
+      "avgPcClicks": 32.3,
+      "avgMobileClicks": 296.2,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "ATP",
+      "pc": 2690,
+      "mobile": 7160,
+      "total": 9850,
+      "compIdx": "중간",
+      "avgPcClicks": 1.6,
+      "avgMobileClicks": 0.4,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "욕실수전",
+      "pc": 2090,
+      "mobile": 7740,
+      "total": 9830,
+      "compIdx": "중간",
+      "avgPcClicks": 10.7,
+      "avgMobileClicks": 92.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "비데구입",
+      "pc": 1170,
+      "mobile": 8610,
+      "total": 9780,
+      "compIdx": "높음",
+      "avgPcClicks": 25,
+      "avgMobileClicks": 426,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "식탁조명",
+      "pc": 1870,
+      "mobile": 7870,
+      "total": 9740,
+      "compIdx": "높음",
+      "avgPcClicks": 41.5,
+      "avgMobileClicks": 384,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "무선써큘레이터",
+      "pc": 1350,
+      "mobile": 7830,
+      "total": 9180,
+      "compIdx": "중간",
+      "avgPcClicks": 14.3,
+      "avgMobileClicks": 238.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "LED주방등",
+      "pc": 1550,
+      "mobile": 7570,
+      "total": 9120,
+      "compIdx": "중간",
+      "avgPcClicks": 22.8,
+      "avgMobileClicks": 216.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "롤스크린",
+      "pc": 2630,
+      "mobile": 6160,
+      "total": 8790,
+      "compIdx": "중간",
+      "avgPcClicks": 47.6,
+      "avgMobileClicks": 137.7,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "쉬폰커튼",
+      "pc": 2020,
+      "mobile": 6750,
+      "total": 8770,
+      "compIdx": "중간",
+      "avgPcClicks": 25.9,
+      "avgMobileClicks": 160,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "화장실인테리어",
+      "pc": 1960,
+      "mobile": 6550,
+      "total": 8510,
+      "compIdx": "높음",
+      "avgPcClicks": 31.1,
+      "avgMobileClicks": 165.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "업소용대형선풍기",
+      "pc": 1670,
+      "mobile": 6250,
+      "total": 7920,
+      "compIdx": "높음",
+      "avgPcClicks": 12.7,
+      "avgMobileClicks": 144.1,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "분전함",
+      "pc": 3190,
+      "mobile": 4630,
+      "total": 7820,
+      "compIdx": "높음",
+      "avgPcClicks": 23.4,
+      "avgMobileClicks": 48,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "에너지관리기능사",
+      "pc": 2320,
+      "mobile": 5320,
+      "total": 7640,
+      "compIdx": "높음",
+      "avgPcClicks": 15.2,
+      "avgMobileClicks": 67,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "건축도장기능사",
+      "pc": 2670,
+      "mobile": 4880,
+      "total": 7550,
+      "compIdx": "높음",
+      "avgPcClicks": 30.7,
+      "avgMobileClicks": 129.8,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "카페의자",
+      "pc": 1780,
+      "mobile": 5760,
+      "total": 7540,
+      "compIdx": "높음",
+      "avgPcClicks": 49.1,
+      "avgMobileClicks": 199.6,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "T5조명",
+      "pc": 2390,
+      "mobile": 5110,
+      "total": 7500,
+      "compIdx": "중간",
+      "avgPcClicks": 22.3,
+      "avgMobileClicks": 98.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "전동커튼",
+      "pc": 1980,
+      "mobile": 5520,
+      "total": 7500,
+      "compIdx": "중간",
+      "avgPcClicks": 22.7,
+      "avgMobileClicks": 126.4,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "욕실거울",
+      "pc": 2050,
+      "mobile": 5420,
+      "total": 7470,
+      "compIdx": "중간",
+      "avgPcClicks": 29.9,
+      "avgMobileClicks": 127.9,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "팬",
+      "pc": 1420,
+      "mobile": 5800,
+      "total": 7220,
+      "compIdx": "높음",
+      "avgPcClicks": 4.2,
+      "avgMobileClicks": 12,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "STAND",
+      "pc": 1040,
+      "mobile": 6100,
+      "total": 7140,
+      "compIdx": "높음",
+      "avgPcClicks": 1,
+      "plAvgDepth": 1
+    },
+    {
+      "keyword": "비츠온",
+      "pc": 4250,
+      "mobile": 2870,
+      "total": 7120,
+      "compIdx": "중간",
+      "avgPcClicks": 19.9,
+      "avgMobileClicks": 79.5,
+      "plAvgDepth": 7
+    },
+    {
+      "keyword": "화장대거울",
+      "pc": 1300,
+      "mobile": 5820,
+      "total": 7120,
+      "compIdx": "중간",
+      "avgPcClicks": 19.2,
+      "avgMobileClicks": 132.8,
+      "plAvgDepth": 8
+    },
+    {
+      "keyword": "거실조명",
+      "pc": 1400,
+      "mobile": 5460,
+      "total": 6860,
+      "compIdx": "높음",
+      "avgPcClicks": 26.6,
+      "avgMobileClicks": 153.2,
+      "plAvgDepth": 10
+    },
+    {
+      "keyword": "레일등",
+      "pc": 1970,
+      "mobile": 4880,
+      "total": 6850,
+      "compIdx": "높음",
+      "avgPcClicks": 30.8,
+      "avgMobileClicks": 144,
+      "plAvgDepth": 8
+    }
+  ]
+}

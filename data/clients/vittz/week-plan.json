@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-08-05T13:40:29.670Z",
+  "weekStart": "2026-08-10",
+  "weekEnd": "2026-08-16",
+  "note": "키워드 검색량 기반 차주 기획안 · 제작은 감도/가짜글자 검수 후 진행",
+  "items": [
+    {
+      "date": "2026-08-10",
+      "scheduledFor": "2026-08-10T09:00:00.000Z",
+      "channel": "naver-blog",
+      "channelLabel": "네이버 블로그",
+      "keyword": "LED조명",
+      "sheet": "핵심",
+      "volume": 12390,
+      "title": "LED조명 교체 비용, 얼마면 될까? (2026 기준 총정리)",
+      "status": "proposed"
+    },
+    {
+      "date": "2026-08-11",
+      "scheduledFor": "2026-08-11T09:00:00.000Z",
+      "channel": "instagram",
+      "channelLabel": "인스타그램",
+      "keyword": "레일조명",
+      "sheet": "핵심",
+      "volume": 11700,
+      "title": "레일조명의 한 끗 차이, 빛에서 갈립니다",
+      "status": "proposed"
+    },
+    {
+      "date": "2026-08-12",
+      "scheduledFor": "2026-08-12T09:00:00.000Z",
+      "channel": "blogger",
+      "channelLabel": "구글 블로그",
+      "keyword": "실링팬",
+      "sheet": "시의성",
+      "volume": 81300,
+      "title": "실링팬, 초보도 실패 안 하는 선택 기준",
+      "status": "proposed"
+    },
+    {
+      "date": "2026-08-13",
+      "scheduledFor": "2026-08-13T09:00:00.000Z",
+      "channel": "instagram",
+      "channelLabel": "인스타그램",
+      "keyword": "벽등",
+      "sheet": "핵심",
+      "volume": 8410,
+      "title": "벽등, 이것만 알면 우리 집이 달라집니다 ✨",
+      "status": "proposed"
+    },
+    {
+      "date": "2026-08-14",
+      "scheduledFor": "2026-08-14T09:00:00.000Z",
+      "channel": "naver-blog",
+      "channelLabel": "네이버 블로그",
+      "keyword": "주방등",
+      "sheet": "핵심",
+      "volume": 8190,
+      "title": "주방등 교체 비용, 얼마면 될까? (2026 기준 총정리)",
+      "status": "proposed"
+    },
+    {
+      "date": "2026-08-15",
+      "scheduledFor": "2026-08-15T09:00:00.000Z",
+      "channel": "instagram",
+      "channelLabel": "인스타그램",
+      "keyword": "LED방등",
+      "sheet": "핵심",
+      "volume": 6030,
+      "title": "LED방등의 한 끗 차이, 빛에서 갈립니다",
+      "status": "proposed"
+    }
+  ]
+}

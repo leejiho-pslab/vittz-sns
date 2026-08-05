@@ -1,0 +1,669 @@
+{
+  "snapshots": {
+    "2026-08-05": {
+      "식탁등": {
+        "pc": 3120,
+        "mobile": 14700,
+        "total": 17820,
+        "comp": "높음"
+      },
+      "거실등": {
+        "pc": 3000,
+        "mobile": 10400,
+        "total": 13400,
+        "comp": "중간"
+      },
+      "식탁조명": {
+        "pc": 1870,
+        "mobile": 7870,
+        "total": 9740,
+        "comp": "높음"
+      },
+      "거실조명": {
+        "pc": 1400,
+        "mobile": 5460,
+        "total": 6860,
+        "comp": "높음"
+      },
+      "포인트조명": {
+        "pc": 280,
+        "mobile": 760,
+        "total": 1040,
+        "comp": "높음"
+      },
+      "벽등": {
+        "pc": 2740,
+        "mobile": 5670,
+        "total": 8410,
+        "comp": "높음"
+      },
+      "레일조명": {
+        "pc": 3450,
+        "mobile": 8250,
+        "total": 11700,
+        "comp": "중간"
+      },
+      "방등": {
+        "pc": 1680,
+        "mobile": 3340,
+        "total": 5020,
+        "comp": "중간"
+      },
+      "거실LED등": {
+        "pc": 2110,
+        "mobile": 12400,
+        "total": 14510,
+        "comp": "중간"
+      },
+      "LED방등": {
+        "pc": 1760,
+        "mobile": 4270,
+        "total": 6030,
+        "comp": "중간"
+      },
+      "전기스위치": {
+        "pc": 720,
+        "mobile": 2420,
+        "total": 3140,
+        "comp": "중간"
+      },
+      "무드등": {
+        "pc": 4740,
+        "mobile": 16500,
+        "total": 21240,
+        "comp": "중간"
+      },
+      "아이방조명": {
+        "pc": 130,
+        "mobile": 740,
+        "total": 870,
+        "comp": "높음"
+      },
+      "벽부등": {
+        "pc": 1160,
+        "mobile": 1230,
+        "total": 2390,
+        "comp": "높음"
+      },
+      "주방조명": {
+        "pc": 1050,
+        "mobile": 4390,
+        "total": 5440,
+        "comp": "높음"
+      },
+      "방등LED": {
+        "pc": 430,
+        "mobile": 2140,
+        "total": 2570,
+        "comp": "중간"
+      },
+      "실링팬": {
+        "pc": 19200,
+        "mobile": 62100,
+        "total": 81300,
+        "comp": "중간"
+      },
+      "실링팬조명": {
+        "pc": 1740,
+        "mobile": 9060,
+        "total": 10800,
+        "comp": "중간"
+      },
+      "천장선풍기": {
+        "pc": 1240,
+        "mobile": 7960,
+        "total": 9200,
+        "comp": "중간"
+      },
+      "인테리어벽등": {
+        "pc": 140,
+        "mobile": 320,
+        "total": 460,
+        "comp": "높음"
+      },
+      "실외조명": {
+        "pc": 60,
+        "mobile": 110,
+        "total": 170,
+        "comp": "높음"
+      },
+      "에디슨전구": {
+        "pc": 390,
+        "mobile": 1440,
+        "total": 1830,
+        "comp": "중간"
+      },
+      "매입등": {
+        "pc": 720,
+        "mobile": 1030,
+        "total": 1750,
+        "comp": "높음"
+      },
+      "다운라이트": {
+        "pc": 3410,
+        "mobile": 6600,
+        "total": 10010,
+        "comp": "중간"
+      },
+      "LED다운라이트": {
+        "pc": 470,
+        "mobile": 1520,
+        "total": 1990,
+        "comp": "중간"
+      },
+      "레일등": {
+        "pc": 1970,
+        "mobile": 4880,
+        "total": 6850,
+        "comp": "높음"
+      },
+      "레일스팟조명": {
+        "pc": 50,
+        "mobile": 70,
+        "total": 120,
+        "comp": "높음"
+      },
+      "야외조명": {
+        "pc": 300,
+        "mobile": 690,
+        "total": 990,
+        "comp": "높음"
+      },
+      "정원등": {
+        "pc": 710,
+        "mobile": 1080,
+        "total": 1790,
+        "comp": "높음"
+      },
+      "주방등": {
+        "pc": 1830,
+        "mobile": 6360,
+        "total": 8190,
+        "comp": "높음"
+      },
+      "스탠드조명": {
+        "pc": 2490,
+        "mobile": 7720,
+        "total": 10210,
+        "comp": "중간"
+      },
+      "센서등": {
+        "pc": 4060,
+        "mobile": 11300,
+        "total": 15360,
+        "comp": "중간"
+      },
+      "현관등": {
+        "pc": 450,
+        "mobile": 1450,
+        "total": 1900,
+        "comp": "높음"
+      },
+      "욕실등": {
+        "pc": 1030,
+        "mobile": 2940,
+        "total": 3970,
+        "comp": "중간"
+      },
+      "LED센서등": {
+        "pc": 690,
+        "mobile": 1520,
+        "total": 2210,
+        "comp": "중간"
+      },
+      "LED전구": {
+        "pc": 2470,
+        "mobile": 8390,
+        "total": 10860,
+        "comp": "중간"
+      },
+      "전구": {
+        "pc": 4890,
+        "mobile": 9810,
+        "total": 14700,
+        "comp": "중간"
+      },
+      "장스탠드": {
+        "pc": 980,
+        "mobile": 4270,
+        "total": 5250,
+        "comp": "중간"
+      },
+      "키즈조명": {
+        "pc": 40,
+        "mobile": 130,
+        "total": 170,
+        "comp": "높음"
+      },
+      "콘센트커버": {
+        "pc": 2930,
+        "mobile": 12000,
+        "total": 14930,
+        "comp": "중간"
+      },
+      "조명스위치": {
+        "pc": 360,
+        "mobile": 930,
+        "total": 1290,
+        "comp": "중간"
+      },
+      "아이방무드등": {
+        "pc": 20,
+        "mobile": 200,
+        "total": 220,
+        "comp": "높음"
+      }
+    }
+  },
+  "updatedAt": "2026-08-05T13:40:20.820Z",
+  "source": "네이버 광고주센터 키워드 도구 (검색광고 API keywordstool)",
+  "baselineDate": null,
+  "categories": [
+    {
+      "name": "식탁등/포인트조명",
+      "keywords": [
+        {
+          "keyword": "식탁등",
+          "pc": 3120,
+          "mobile": 14700,
+          "total": 17820,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "식탁조명",
+          "pc": 1870,
+          "mobile": 7870,
+          "total": 9740,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "포인트조명",
+          "pc": 280,
+          "mobile": 760,
+          "total": 1040,
+          "comp": "높음",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "거실등",
+      "keywords": [
+        {
+          "keyword": "거실등",
+          "pc": 3000,
+          "mobile": 10400,
+          "total": 13400,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "거실조명",
+          "pc": 1400,
+          "mobile": 5460,
+          "total": 6860,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "거실LED등",
+          "pc": 2110,
+          "mobile": 12400,
+          "total": 14510,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "방등",
+      "keywords": [
+        {
+          "keyword": "방등",
+          "pc": 1680,
+          "mobile": 3340,
+          "total": 5020,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "LED방등",
+          "pc": 1760,
+          "mobile": 4270,
+          "total": 6030,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "방등LED",
+          "pc": 430,
+          "mobile": 2140,
+          "total": 2570,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "실링팬",
+      "keywords": [
+        {
+          "keyword": "실링팬",
+          "pc": 19200,
+          "mobile": 62100,
+          "total": 81300,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "실링팬조명",
+          "pc": 1740,
+          "mobile": 9060,
+          "total": 10800,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "천장선풍기",
+          "pc": 1240,
+          "mobile": 7960,
+          "total": 9200,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "벽등",
+      "keywords": [
+        {
+          "keyword": "벽등",
+          "pc": 2740,
+          "mobile": 5670,
+          "total": 8410,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "벽부등",
+          "pc": 1160,
+          "mobile": 1230,
+          "total": 2390,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "인테리어벽등",
+          "pc": 140,
+          "mobile": 320,
+          "total": 460,
+          "comp": "높음",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "매입/매립/다운라이트",
+      "keywords": [
+        {
+          "keyword": "다운라이트",
+          "pc": 3410,
+          "mobile": 6600,
+          "total": 10010,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "매입등",
+          "pc": 720,
+          "mobile": 1030,
+          "total": 1750,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "LED다운라이트",
+          "pc": 470,
+          "mobile": 1520,
+          "total": 1990,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "레일조명",
+      "keywords": [
+        {
+          "keyword": "레일조명",
+          "pc": 3450,
+          "mobile": 8250,
+          "total": 11700,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "레일등",
+          "pc": 1970,
+          "mobile": 4880,
+          "total": 6850,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "레일스팟조명",
+          "pc": 50,
+          "mobile": 70,
+          "total": 120,
+          "comp": "높음",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "실외조명",
+      "keywords": [
+        {
+          "keyword": "실외조명",
+          "pc": 60,
+          "mobile": 110,
+          "total": 170,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "야외조명",
+          "pc": 300,
+          "mobile": 690,
+          "total": 990,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "정원등",
+          "pc": 710,
+          "mobile": 1080,
+          "total": 1790,
+          "comp": "높음",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "주방/욕실등",
+      "keywords": [
+        {
+          "keyword": "주방등",
+          "pc": 1830,
+          "mobile": 6360,
+          "total": 8190,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "주방조명",
+          "pc": 1050,
+          "mobile": 4390,
+          "total": 5440,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "욕실등",
+          "pc": 1030,
+          "mobile": 2940,
+          "total": 3970,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "현관/센서등",
+      "keywords": [
+        {
+          "keyword": "센서등",
+          "pc": 4060,
+          "mobile": 11300,
+          "total": 15360,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "현관등",
+          "pc": 450,
+          "mobile": 1450,
+          "total": 1900,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "LED센서등",
+          "pc": 690,
+          "mobile": 1520,
+          "total": 2210,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "스탠드/무드등",
+      "keywords": [
+        {
+          "keyword": "무드등",
+          "pc": 4740,
+          "mobile": 16500,
+          "total": 21240,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "장스탠드",
+          "pc": 980,
+          "mobile": 4270,
+          "total": 5250,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "스탠드조명",
+          "pc": 2490,
+          "mobile": 7720,
+          "total": 10210,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "전구",
+      "keywords": [
+        {
+          "keyword": "LED전구",
+          "pc": 2470,
+          "mobile": 8390,
+          "total": 10860,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "전구",
+          "pc": 4890,
+          "mobile": 9810,
+          "total": 14700,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "에디슨전구",
+          "pc": 390,
+          "mobile": 1440,
+          "total": 1830,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "스위치/콘센트",
+      "keywords": [
+        {
+          "keyword": "조명스위치",
+          "pc": 360,
+          "mobile": 930,
+          "total": 1290,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "전기스위치",
+          "pc": 720,
+          "mobile": 2420,
+          "total": 3140,
+          "comp": "중간",
+          "momPct": null
+        },
+        {
+          "keyword": "콘센트커버",
+          "pc": 2930,
+          "mobile": 12000,
+          "total": 14930,
+          "comp": "중간",
+          "momPct": null
+        }
+      ]
+    },
+    {
+      "name": "아이방조명",
+      "keywords": [
+        {
+          "keyword": "아이방조명",
+          "pc": 130,
+          "mobile": 740,
+          "total": 870,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "키즈조명",
+          "pc": 40,
+          "mobile": 130,
+          "total": 170,
+          "comp": "높음",
+          "momPct": null
+        },
+        {
+          "keyword": "아이방무드등",
+          "pc": 20,
+          "mobile": 200,
+          "total": 220,
+          "comp": "높음",
+          "momPct": null
+        }
+      ]
+    }
+  ]
+}
