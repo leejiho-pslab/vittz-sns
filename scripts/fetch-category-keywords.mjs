@@ -18,6 +18,7 @@
 import { createHmac } from 'node:crypto';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { loadNaverAdCreds } from './naver-ad-creds.mjs';
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a, i, arr) => (a.startsWith('--') ? [a.slice(2), arr[i + 1] ?? ''] : [])).filter((x) => x.length),
@@ -28,11 +29,9 @@ const seedPath = join(dataDir, 'keyword-categories.json');
 const outPath = join(dataDir, 'keyword-category-volumes.json');
 const briefPath = join(dataDir, 'research-brief.json');
 
-const API_KEY = process.env.NAVER_AD_API_KEY || process.env.NAVER_SEARCHAD_API_KEY;
-const API_SECRET = process.env.NAVER_AD_SECRET || process.env.NAVER_SEARCHAD_API_SECRET;
-const CUSTOMER_ID = process.env.NAVER_AD_CUSTOMER_ID || process.env.NAVER_SEARCHAD_CUSTOMER_ID;
+const { key: API_KEY, secret: API_SECRET, customerId: CUSTOMER_ID } = loadNaverAdCreds();
 if (!API_KEY || !API_SECRET || !CUSTOMER_ID) {
-  console.error('NAVER_AD_API_KEY / NAVER_AD_SECRET / NAVER_AD_CUSTOMER_ID 가 필요합니다.');
+  console.error('네이버 광고 API 자격 증명이 없습니다 — 환경변수(NAVER_AD_*) 또는 data/naver-ad-credentials.json(고정값)이 필요합니다.');
   process.exit(1);
 }
 if (!existsSync(seedPath)) {

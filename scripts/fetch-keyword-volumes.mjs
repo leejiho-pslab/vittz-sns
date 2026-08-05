@@ -20,6 +20,7 @@
 import { createHmac } from 'node:crypto';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { loadNaverAdCreds } from './naver-ad-creds.mjs';
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a, i, arr) => (a.startsWith('--') ? [a.slice(2), arr[i + 1] ?? ''] : [])).filter((x) => x.length),
@@ -29,12 +30,9 @@ const dataDir = join('data', 'clients', clientId);
 const batchesPath = join(dataDir, 'keyword-batches.json');
 const outPath = join(dataDir, 'keyword-volumes.json');
 
-const API_KEY = process.env.NAVER_AD_API_KEY || process.env.NAVER_SEARCHAD_API_KEY;
-const API_SECRET = process.env.NAVER_AD_SECRET || process.env.NAVER_SEARCHAD_API_SECRET;
-const CUSTOMER_ID = process.env.NAVER_AD_CUSTOMER_ID || process.env.NAVER_SEARCHAD_CUSTOMER_ID;
+const { key: API_KEY, secret: API_SECRET, customerId: CUSTOMER_ID } = loadNaverAdCreds();
 if (!API_KEY || !API_SECRET || !CUSTOMER_ID) {
-  console.error('NAVER_AD_API_KEY / NAVER_AD_SECRET / NAVER_AD_CUSTOMER_ID 가 필요합니다 (스킬 표준 시크릿명).');
-  console.error('광고주센터 → 도구 → API 사용 관리에서 발급 후 GitHub Secrets에 등록하세요.');
+  console.error('네이버 광고 API 자격 증명이 없습니다 — 환경변수(NAVER_AD_*) 또는 data/naver-ad-credentials.json(고정값)이 필요합니다.');
   process.exit(1);
 }
 if (!existsSync(batchesPath)) {

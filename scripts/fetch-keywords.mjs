@@ -16,16 +16,15 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { createHmac } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { loadNaverAdCreds } from './naver-ad-creds.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = (k, d) => { const i = process.argv.indexOf(`--${k}`); return i >= 0 ? process.argv[i + 1] : d; };
 const clientId = arg('client', 'pslab');
 
-const API_KEY = process.env.NAVER_AD_API_KEY;
-const SECRET = process.env.NAVER_AD_SECRET;
-const CUSTOMER = process.env.NAVER_AD_CUSTOMER_ID;
+const { key: API_KEY, secret: SECRET, customerId: CUSTOMER } = loadNaverAdCreds();
 if (!API_KEY || !SECRET || !CUSTOMER) {
-  console.log('네이버 검색광고 API 시크릿 없음 — 키워드 수집 건너뜀');
+  console.log('네이버 검색광고 API 자격 증명 없음(환경변수/고정값 파일 모두) — 키워드 수집 건너뜀');
   process.exit(0);
 }
 
