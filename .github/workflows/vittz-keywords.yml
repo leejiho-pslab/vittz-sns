@@ -9,6 +9,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 1 1 * *' # 매월 1일 10:00 KST — 월간검색수 갱신
+    - cron: '0 0 * * 1' # 매주 월요일 09:00 KST — 카테고리 키워드 주간 스냅샷·전월 대비 상승률
 
 permissions:
   contents: write
@@ -39,6 +40,9 @@ jobs:
       - name: 키워드 실측 수집 (배치표 40개 + 연관 발굴)
         run: node scripts/fetch-keyword-volumes.mjs --client vittz
 
+      - name: 카테고리별 핵심 키워드 3종 수집 (주간 스냅샷·전월 대비, 리서치 탭 반영)
+        run: node scripts/fetch-category-keywords.mjs --client vittz
+
       - name: 키워드 3시트 수집 (핵심·연관·시의성 — 기획 지능용)
         continue-on-error: true
         run: node scripts/fetch-keywords.mjs --client vittz
@@ -56,7 +60,9 @@ jobs:
         run: |
           git config user.name "pslab-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -f data/clients/vittz/keyword-volumes.json data/clients/vittz/keyword-stats.json data/clients/vittz/keyword-trends.json data/clients/vittz/week-plan.json docs/
+          for p in data/clients/vittz/keyword-volumes.json data/clients/vittz/keyword-stats.json data/clients/vittz/keyword-trends.json data/clients/vittz/week-plan.json data/clients/vittz/keyword-category-volumes.json data/clients/vittz/research-brief.json docs/; do
+            if [ -e "$p" ]; then git add -f "$p"; fi
+          done
           git commit -m "chore(vittz): 키워드 도구 실측 월간검색수 갱신" || { echo "변경 없음"; exit 0; }
           for i in 1 2 3 4 5; do
             git pull --rebase && git push && { echo "push 성공"; exit 0; }
