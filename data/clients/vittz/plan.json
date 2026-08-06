@@ -1104,29 +1104,6 @@
       "cardImage": "cards/vittz/w2-ig-delivery-1.png"
     },
     {
-      "id": "w2-reel-summernight",
-      "topic": "여름밤 실링팬 루틴",
-      "format": "릴스",
-      "channels": [
-        "instagram"
-      ],
-      "scheduledFor": "2026-08-10T09:00:00.000Z",
-      "score": 86,
-      "status": "planned",
-      "designTheme": "lifestyle",
-      "kicker": "VITTZ 조명 레시피",
-      "headline": "열대야를 끄는 *천장*",
-      "sub": "실링팬 15초 루틴",
-      "dayLabel": "릴스",
-      "reelsScript": "[S1 0-5s] 실링팬 침실 밤 씬 켄번즈 — 자막: 새벽 2시, 리모컨 대신 천장\n[S2 5-10s] 소파 커플 저녁 — 자막: 공기를 저어주면 28도도 시원해요\n[S3 10-13s] 제품 와이드 — 라벨: LED 블레이드 실링팬\n[S4 13-15s] VITTZ 클로징",
-      "captionBody": "열대야를 끄는 건 리모컨이 아니라 천장이었어요. #비츠조명 #실링팬 #열대야 #여름밤 #비츠",
-      "videoFrom": "w2-reel-summernight",
-      "videoFile": "shorts/w2-reel-summernight/w2-reel-summernight.mp4",
-      "videoSeconds": 15,
-      "coverOffsetMs": 1500,
-      "cardImage": "shorts/w2-reel-summernight/cover.png"
-    },
-    {
       "id": "w2-reel-goodnight",
       "topic": "불 끄고 자기까지 3단계",
       "format": "릴스",
@@ -1173,38 +1150,6 @@
       "cardImage": "shorts/w2-reel-houseparty/cover.png"
     },
     {
-      "id": "w2-yt-3checks",
-      "topic": "조명 사기 전 체크 3",
-      "format": "쇼츠",
-      "channels": [
-        "youtube"
-      ],
-      "scheduledFor": "2026-08-11T09:00:00.000Z",
-      "score": 86,
-      "status": "planned",
-      "designTheme": "lifestyle",
-      "kicker": "VITTZ 조명 레시피",
-      "headline": "조명 바꾸기 전 *3가지*만 체크하세요",
-      "sub": "플리커·색온도·설치",
-      "dayLabel": "쇼츠",
-      "reelsScript": "[S1] 체크1 플리커프리\n[S2] 체크2 색온도 변환\n[S3] 체크3 설치 서비스\n[S4] VITTZ 클로징",
-      "captionBody": "조명 바꾸기 전 체크 3가지 — 플리커프리, 색온도 변환, 설치 서비스. #조명 #인테리어 #비츠조명",
-      "videoFrom": "w2-yt-3checks",
-      "videoFile": "shorts/w2-yt-3checks/w2-yt-3checks.mp4",
-      "videoSeconds": 15,
-      "coverOffsetMs": 1500,
-      "cardImage": "shorts/w2-yt-3checks/cover.png",
-      "ytTitle": "조명 바꾸기 전 이 3가지만 체크하세요 💡 #Shorts",
-      "ytDescription": "① 플리커프리 — 눈이 편한 빛인지\n② 색온도 변환 — 낮과 밤을 오가는지\n③ 설치 — 배달+설치 한 번에 되는지\n\n제품 보러 가기 → https://vittz.co.kr\n#조명 #인테리어조명 #비츠조명",
-      "ytTags": [
-        "조명",
-        "인테리어조명",
-        "비츠조명",
-        "거실등",
-        "조명고르기"
-      ]
-    },
-    {
       "id": "w2-yt-lightorder",
       "topic": "불 켜는 순서",
       "format": "쇼츠",
@@ -1217,14 +1162,14 @@
       "designTheme": "lifestyle",
       "kicker": "VITTZ 조명 레시피",
       "headline": "카페 같은 집, *불 켜는 순서*가 있습니다",
-      "sub": "저녁 조명 3단계",
+      "sub": "저녁 조명 3단계 — 신규 씬·새 편집 문법(v2)",
       "dayLabel": "쇼츠",
       "reelsScript": "[S1] 저녁엔 천장등부터 끄기\n[S2] 벽과 테이블에 빛 남기기\n[S3] 마지막은 무드 한 점\n[S4] VITTZ 클로징",
       "captionBody": "카페 같은 집엔 불 켜는 순서가 있어요. #조명 #홈카페 #비츠조명",
       "videoFrom": "w2-yt-lightorder",
       "videoFile": "shorts/w2-yt-lightorder/w2-yt-lightorder.mp4",
-      "videoSeconds": 15,
-      "coverOffsetMs": 1500,
+      "videoSeconds": 14,
+      "coverOffsetMs": 1200,
       "cardImage": "shorts/w2-yt-lightorder/cover.png",
       "ytTitle": "카페 같은 집은 불 켜는 순서가 다릅니다 ☕ #Shorts",
       "ytDescription": "저녁 8시, 천장등을 끄는 것부터 시작하세요.\n벽과 테이블에만 빛을 남기면 우리 집이 카페가 됩니다.\n\n제품 보러 가기 → https://vittz.co.kr\n#홈카페 #조명인테리어 #비츠조명",
@@ -1234,39 +1179,9 @@
         "비츠조명",
         "무드등",
         "식탁등"
-      ]
-    },
-    {
-      "id": "w2-yt-summerbill",
-      "topic": "여름 전기요금과 천장",
-      "format": "쇼츠",
-      "channels": [
-        "youtube"
       ],
-      "scheduledFor": "2026-08-15T09:00:00.000Z",
-      "score": 86,
-      "status": "planned",
-      "designTheme": "lifestyle",
-      "kicker": "VITTZ 조명 레시피",
-      "headline": "에어컨보다 먼저 *천장*을 보세요",
-      "sub": "실링팬 15초 상식",
-      "dayLabel": "쇼츠",
-      "reelsScript": "[S1] 찬 공기는 바닥에 가라앉는다\n[S2] 천장에서 저어주면 28도도 시원\n[S3] 방등 자리에 그대로 설치\n[S4] VITTZ 클로징",
-      "captionBody": "여름 전기요금, 답은 천장에 있었어요. #실링팬 #전기요금 #비츠조명",
-      "videoFrom": "w2-yt-summerbill",
-      "videoFile": "shorts/w2-yt-summerbill/w2-yt-summerbill.mp4",
-      "videoSeconds": 15,
-      "coverOffsetMs": 1500,
-      "cardImage": "shorts/w2-yt-summerbill/cover.png",
-      "ytTitle": "에어컨 설정온도 3도 아끼는 천장의 비밀 🌀 #Shorts",
-      "ytDescription": "찬 공기는 바닥에 가라앉습니다. 천장에서 공기를 저어주면 설정온도 2~3도를 아낄 수 있어요.\nLED 블레이드 실링팬 조명 — 방등 자리에 그대로 설치.\n\n제품 보러 가기 → https://vittz.co.kr\n#실링팬 #냉방비절약 #비츠조명",
-      "ytTags": [
-        "실링팬",
-        "냉방비",
-        "전기요금절약",
-        "비츠조명",
-        "여름철전기요금"
-      ]
+      "captionNote": "[v2 재제작 2026-08-06 — 운영자 지시] 멘션·스토리 유지, 이미지·제품 전면 교체(신규 AI 씬 3종: 스위치 로우앵글/아로스 펜던트 사선/플로어램프 무드 — 아이폰 실촬영 톤), 제품 델룬·세라핌 → 아로스·스탠드로 변경(한달 내 재사용 금지 규칙). 편집 문법 변경: 틸트업·크로스페이드 → 씬당 와이드→1.35x 펀치인 점프컷 + 하드컷 + 화이트 플래시 전환, 자막 좌하단 STEP 네이비 바 타이포(일상용어+비츠 키컬러), 클로징 네이비 카드. 다양성 7원칙 적용 1호.",
+      "rationale": "콘텐츠 다양성 7원칙 적용 — 무빙·편집·타이포·이미지·제품 모두 기존과 다르게."
     }
   ]
 }
