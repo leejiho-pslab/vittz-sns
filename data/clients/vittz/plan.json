@@ -1182,6 +1182,126 @@
       ],
       "captionNote": "[v2 재제작 2026-08-06 — 운영자 지시] 멘션·스토리 유지, 이미지·제품 전면 교체(신규 AI 씬 3종: 스위치 로우앵글/아로스 펜던트 사선/플로어램프 무드 — 아이폰 실촬영 톤), 제품 델룬·세라핌 → 아로스·스탠드로 변경(한달 내 재사용 금지 규칙). 편집 문법 변경: 틸트업·크로스페이드 → 씬당 와이드→1.35x 펀치인 점프컷 + 하드컷 + 화이트 플래시 전환, 자막 좌하단 STEP 네이비 바 타이포(일상용어+비츠 키컬러), 클로징 네이비 카드. 다양성 7원칙 적용 1호.",
       "rationale": "콘텐츠 다양성 7원칙 적용 — 무빙·편집·타이포·이미지·제품 모두 기존과 다르게."
+    },
+    {
+      "id": "w2-reel-mercury",
+      "topic": "머큐리 펜던트 세리프 무드필름 릴스",
+      "format": "릴스",
+      "channels": [
+        "instagram"
+      ],
+      "scheduledFor": "2026-08-08T09:00:00.000Z",
+      "score": 90,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "VITTZ MOOD FILM",
+      "headline": "해가 지고 나면, *이 조명* 하나로 충분해요",
+      "sub": "거울처럼 빛을 담는 머큐리 펜던트",
+      "dayLabel": "릴스",
+      "rationale": "Seedance 2.5 첫 적용(멀티샷 i2v 일관성). 레퍼런스 재점검 — reuni 문법(세리프 중앙 2줄 캡션 + 무드 공간 슬로우 컷). 다양성 7원칙: 이번 달 미사용 신규 제품(머큐리), 신규 생성 씬, 세리프 타이포(신규), 슬로우 시네마틱 무빙(푸시인→오빗→하이앵글).",
+      "captionBody": "해가 지고 나면, 이 조명 하나로 충분해요.\n\n거울처럼 빛을 담는 크롬 셰이드 —\n켜기 전엔 오브제, 켜면 식탁 위의 온도가 됩니다.\n\n머큐리 펜던트 OV-PL006 · 170,000원\n제품은 프로필 링크에서 👉 @vittz_official\n\n#비츠 #비츠조명 #VITTZ #머큐리펜던트 #식탁등 #펜던트조명\n#미드센추리인테리어 #다이닝인테리어 #무드조명 #신혼집조명",
+      "reelsScript": "[S1 0-5s] 블루아워 다이닝 와이드 슬로우 푸시인 — 세리프 자막(중앙): 해가 지고 나면, 이 조명 하나로 충분해요 · 하단 V I T T Z\n[S2 5-10s] 크롬 셰이드 클로즈 오빗(반사광 슬라이드) — 거울처럼 빛을 담는 머큐리 펜던트 / OV-PL006 · 170,000원\n[S3 10-15s] 테이블 하이앵글 디테일(책·컵·스팀) — 오늘 밤, 식탁 위의 온도 / 비츠조명 · vittz.co.kr",
+      "videoFile": "shorts/w2-reel-mercury/w2-reel-mercury.mp4",
+      "videoFrom": "w2-reel-mercury",
+      "videoSeconds": 15,
+      "coverOffsetMs": 6500,
+      "cardImage": "shorts/w2-reel-mercury/cover.png",
+      "captionNote": "Seedance 2.5 제작 1호(멀티샷 15s 단일 생성) — nano_banana 씬 고정 → seedance omni_reference. 편집: 컷 없이 모델 멀티샷 + 세리프 오버레이만(신규 문법)."
+    },
+    {
+      "id": "w2-reel-gloren",
+      "topic": "글로렌 유리 펜던트 글래스 UI 릴스",
+      "format": "릴스",
+      "channels": [
+        "instagram"
+      ],
+      "scheduledFor": "2026-08-09T09:00:00.000Z",
+      "score": 89,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "VITTZ SEARCH",
+      "headline": "검색창에 *유리 펜던트*를 쳐보세요",
+      "sub": "꽃송이 유리갓 글로렌, 50,000원",
+      "dayLabel": "릴스",
+      "rationale": "레퍼런스 재점검 — hej 문법(글래스모피즘 검색 UI + 제품 카드 + FIND MORE 클로징). Seedance 2.5 연속 드리프트 원테이크를 배경으로 UI 모션 전개. 다양성 7원칙: 신규 제품(글로렌), UI 타이핑 편집(신규 — 세리프/점프컷/STEP과 전부 다름).",
+      "captionBody": "'유리 펜던트 조명' 검색하셨나요?\n\n곡선으로 이루어진 꽃송이 유리갓,\n황동 소켓의 온도까지 —\n글로렌 1등 펜던트, 50,000원.\n\nFIND MORE AT vittz.co.kr 👉 @vittz_official\n\n#비츠 #비츠조명 #VITTZ #글로렌 #유리펜던트 #펜던트조명\n#빈티지조명 #카페조명 #주방조명 #홈카페인테리어",
+      "reelsScript": "[S1 0-4s] 크림톤 인테리어 연속 드리프트 위 글래스 검색바 타이핑: 유리 → 유리 펜던트 → 유리 펜던트 조명\n[S2 4-9.5s] 글래스모피즘 제품 카드 팝업 — 글로렌 1등 펜던트 조명 · 50,000원 · 꽃송이 유리갓·황동 칩\n[S3 9.5-12s] FIND MORE AT · vittz.co.kr · @vittz_official · VITTZ 클로징",
+      "videoFile": "shorts/w2-reel-gloren/w2-reel-gloren.mp4",
+      "videoFrom": "w2-reel-gloren",
+      "videoSeconds": 12,
+      "coverOffsetMs": 5500,
+      "cardImage": "shorts/w2-reel-gloren/cover.png",
+      "captionNote": "Seedance 2.5 원테이크 드리프트 + hej식 글래스 UI 오버레이(타이핑 4단계 하드스왑). 편집 문법 신규."
+    },
+    {
+      "id": "w2-yt-edith",
+      "topic": "에디스 앰버 유리 아카이브 숏츠",
+      "format": "쇼츠",
+      "channels": [
+        "youtube"
+      ],
+      "scheduledFor": "2026-08-08T10:00:00.000Z",
+      "score": 90,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "VITTZ ARCHIVE",
+      "headline": "부엌에 하나쯤, *레트로 유리* 펜던트",
+      "sub": "에디스 1등 · 49,000원",
+      "dayLabel": "쇼츠",
+      "rationale": "레퍼런스 재점검 — haysol 문법(브랜드 아카이브 스토리텔링: 화이트 라벨 박스 + 중앙 자막 + 뮤지엄 카탈로그 페이싱). Seedance 2.5 멀티샷(와이드 돌리→앰버 매크로 오빗→로우앵글 틸트업). 다양성 7원칙: 신규 제품(에디스), 아카이브 라벨 타이포(신규), 씬별 다른 궤도 무빙.",
+      "captionBody": "두꺼운 유리를 통과한 빛은 더 부드러워집니다.\n앰버 유리의 에디스, 부엌의 온도를 바꾸는 가장 쉬운 방법.\n\n에디스 1등 인테리어조명 · 49,000원\nvittz.co.kr\n\n#비츠 #비츠조명 #VITTZ #에디스 #레트로조명 #주방조명 #식탁등",
+      "reelsScript": "[S1 0-5s] 화이트 키친 아일랜드 와이드 돌리(앰버·크림 3등 스태거) — VITTZ ARCHIVE 라벨 + 부엌에 하나쯤, 레트로 유리 펜던트\n[S2 5-10s] 앰버 셰이드 매크로 슬로우 오빗 — 두꺼운 유리를 통과한 빛은 더 부드러워집니다 · 에디스 1등 · 49,000원(네이비 텍스트)\n[S3 10-15s] 로우앵글 틸트업, 노을빛 — 저녁이 오면, 빛은 호박색이 됩니다 · vittz.co.kr",
+      "videoFile": "shorts/w2-yt-edith/w2-yt-edith.mp4",
+      "videoFrom": "w2-yt-edith",
+      "videoSeconds": 15,
+      "coverOffsetMs": 7000,
+      "cardImage": "shorts/w2-yt-edith/cover.png",
+      "ytTitle": "부엌에 하나쯤, 레트로 유리 펜던트 🍊 #Shorts",
+      "ytDescription": "두꺼운 유리를 통과한 빛은 더 부드러워집니다.\n앰버 유리 펜던트 에디스, 49,000원.\n\n제품 보러 가기 → https://vittz.co.kr\n#비츠조명 #레트로조명 #주방조명",
+      "ytTags": [
+        "비츠조명",
+        "레트로조명",
+        "주방조명",
+        "식탁등",
+        "펜던트조명",
+        "에디스"
+      ],
+      "captionNote": "Seedance 2.5 멀티샷 15s — haysol 아카이브 문법 첫 적용. S2 자막은 광원 위 가독성 위해 네이비 처리."
+    },
+    {
+      "id": "w2-yt-lighttemp",
+      "topic": "빛의 온도 3000K vs 5700K 키네틱 숏츠",
+      "format": "쇼츠",
+      "channels": [
+        "youtube"
+      ],
+      "scheduledFor": "2026-08-09T10:00:00.000Z",
+      "score": 88,
+      "status": "planned",
+      "designTheme": "lifestyle",
+      "kicker": "빛의 온도",
+      "headline": "*3000K*와 *5700K*, 같은 방이 달라집니다",
+      "sub": "전구 하나로 두 온도를 오가는 법",
+      "dayLabel": "쇼츠",
+      "rationale": "레퍼런스 재점검 — kellys 문법(키네틱 타이포: 자간 확장 워프 타이틀 + 슬라이드 인 라벨). Seedance 2.5 t2v 멀티샷 — 동일 거실을 3000K/5700K로 정확히 유지한 하드컷(모델 일관성 실증) + 벌브 매크로 색온도 시프트. 다양성 7원칙: 제품 미특정 무드필름, 키네틱 타이포 편집(신규), 좌/우 슬라이드 모션.",
+      "captionBody": "같은 거실, 다른 온도.\n3000K 노란빛은 쉬는 시간, 5700K 하얀빛은 일하는 시간.\n색온도 변환 전구면 하나로 충분해요.\n\nvittz.co.kr\n\n#비츠 #비츠조명 #VITTZ #색온도 #전구색 #주광색 #조명인테리어",
+      "reelsScript": "[S1 0-1.7s] 웜 거실 + '빛의 온도' 키네틱 타이틀(자간 확장 워프)\n[S2 1.7-4s] 3000K 라벨 좌측 슬라이드 인 — 퇴근 후엔, 노란빛으로 쉬는 시간\n[S3 4-8s] 동일 거실 5700K 하드컷 — 5700K 라벨 우측 슬라이드 인 — 집중할 땐, 하얀빛으로 일하는 시간\n[S4 8-12s] 벌브 매크로 색온도 시프트 — 전구 하나로 두 온도를 오갈 수 있어요 · VITTZ",
+      "videoFile": "shorts/w2-yt-lighttemp/w2-yt-lighttemp.mp4",
+      "videoFrom": "w2-yt-lighttemp",
+      "videoSeconds": 12,
+      "coverOffsetMs": 9500,
+      "cardImage": "shorts/w2-yt-lighttemp/cover.png",
+      "ytTitle": "3000K vs 5700K, 같은 방이 달라집니다 💡 #Shorts",
+      "ytDescription": "노란빛은 쉬는 시간, 하얀빛은 일하는 시간.\n색온도 변환 전구면 하나로 충분해요.\n\n제품 보러 가기 → https://vittz.co.kr\n#비츠조명 #색온도 #조명인테리어",
+      "ytTags": [
+        "비츠조명",
+        "색온도",
+        "전구색",
+        "주광색",
+        "조명인테리어",
+        "LED전구"
+      ],
+      "captionNote": "Seedance 2.5 t2v 멀티샷 — 동일 공간 색온도 대비 하드컷. kellys 키네틱 타이포 첫 적용(타이틀 자간 워프 + 라벨 슬라이드)."
     }
   ]
 }

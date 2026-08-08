@@ -65,6 +65,41 @@
         "https://vittz.hgodo.com/image/thumbnail/v2-3626_thumbnail_04.jpg"
       ],
       "note": "삼성 정품 LED 모듈·플리커프리 — 방등 표준"
+    },
+    {
+      "key": "mercury",
+      "name": "OV-PL006 머큐리 펜던트 조명",
+      "price": 170000,
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100005342",
+      "images": [
+        "https://www.vittz.co.kr/shopimages/vittz/063007001629.jpg",
+        "https://vittz.hgodo.com/image/v2-2624_01.jpg",
+        "https://vittz.hgodo.com/image/v2-2624_02.jpg"
+      ],
+      "note": "크롬 더블 셰이드 미드센추리 펜던트 — PL 시리즈, 거울 광택"
+    },
+    {
+      "key": "gloren",
+      "name": "글로렌 1등 펜던트 조명",
+      "price": 50000,
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100002705",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-1660_01.jpg",
+        "https://vittz.hgodo.com/image/v2-1660_02.jpg"
+      ],
+      "note": "곡선 꽃송이 유리갓 + 황동 소켓 — 빈티지 카페 무드"
+    },
+    {
+      "key": "edith",
+      "name": "에디스 1등 인테리어조명 (식탁등)",
+      "price": 49000,
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100003814",
+      "images": [
+        "https://vittz.hgodo.com/image/v1-6825_01.jpg",
+        "https://vittz.hgodo.com/image/v1-6825_03.jpg",
+        "https://vittz.hgodo.com/image/v1-6825_05.jpg"
+      ],
+      "note": "앰버/크림 레트로 유리 펜던트 — 오뚜기 실루엣, 브라운 소켓"
     }
   ]
 }
