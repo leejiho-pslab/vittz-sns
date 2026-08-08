@@ -100,6 +100,95 @@
         "https://vittz.hgodo.com/image/v1-6825_05.jpg"
       ],
       "note": "앰버/크림 레트로 유리 펜던트 — 오뚜기 실루엣, 브라운 소켓"
+    },
+    {
+      "key": "dalbre",
+      "name": "달브레 1등 장스탠드조명",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100003823",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-1851_01.jpg",
+        "https://vittz.hgodo.com/image/v2-1851_02.jpg"
+      ],
+      "note": "거실 장스탠드 — w3-nb-stand"
+    },
+    {
+      "key": "t5nam",
+      "name": "남영전구 LED T5 간접조명 (플리커프리·삼성LED)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100002040",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-1410_01.jpg",
+        "https://vittz.hgodo.com/image/v2-1410_03.jpg"
+      ],
+      "note": "간접조명 입문 — w3-nb-t5"
+    },
+    {
+      "key": "aru4",
+      "name": "아루 매입 4구 콘센트 (블랙)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=11219",
+      "images": [
+        "https://vittz.hgodo.com/image/aru_17_01.jpg",
+        "https://vittz.hgodo.com/image/aru_17_02.jpg"
+      ],
+      "note": "콘센트커버 셀프 인테리어 — w3-nb-outlet"
+    },
+    {
+      "key": "selbid",
+      "name": "LED 셀비드 리모컨 방등 80W (삼색변환·플리커프리)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100002018",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-1405_02.jpg",
+        "https://vittz.hgodo.com/image/v2-1405_03.jpg"
+      ],
+      "note": "LED 고르기 4기준 예시 — w3-nb-ledguide"
+    },
+    {
+      "key": "down3c",
+      "name": "LED 다운라이트 8W/10W (삼색변환)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100004136",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-2027_01.jpg",
+        "https://vittz.hgodo.com/image/v2-2027_02.jpg"
+      ],
+      "note": "색온도 가이드 — w3-gb-colortemp"
+    },
+    {
+      "key": "pudding",
+      "name": "퍼딩 1등 단스탠드 무드등 (에디슨전구 포함)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100001131",
+      "images": [
+        "https://vittz.hgodo.com/image/v1-6585_01.jpg",
+        "https://vittz.hgodo.com/image/v1-6585_02.jpg"
+      ],
+      "note": "원룸 무타공 1단계 — w3-gb-oneroom·쓰레드"
+    },
+    {
+      "key": "kitchen60",
+      "name": "비츠 스탠다드 LED 주방등 60W (플리커프리)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=12093",
+      "images": [
+        "https://www.vittz.co.kr/shopimages/vittz/0630050000903.jpg",
+        "https://vittz.hgodo.com/image/v1-6115_02.jpg"
+      ],
+      "note": "주방등 가이드 — w3-gb-kitchen"
+    },
+    {
+      "key": "pixie",
+      "name": "픽시 3등 키즈조명",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100000616",
+      "images": [
+        "https://vittz.hgodo.com/image/v2-866_01.jpg",
+        "https://vittz.hgodo.com/image/v2-866_02.jpg"
+      ],
+      "note": "아이 방 조명 — w3-gb-kids"
+    },
+    {
+      "key": "rodney",
+      "name": "LED 로드니 욕실등 30W (삼성LED·플리커프리)",
+      "url": "https://vittz.co.kr/shop/shopdetail.html?branduid=1100004107",
+      "images": [
+        "https://www.vittz.co.kr/shopimages/vittz/0630060000583.jpg"
+      ],
+      "note": "욕실등 교체 — w3-gb-bathroom"
     }
   ]
 }

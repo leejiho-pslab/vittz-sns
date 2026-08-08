@@ -1,337 +1,562 @@
 [
- {
-  "id": "test-blog-livingroom",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "bars",
-    "kicker": "Guide",
-    "title": "거실 크기별 권장 밝기 (W)",
-    "bars": [
-     {
-      "label": "20평대",
-      "pct": 150,
-      "val": "120~150W"
-     },
-     {
-      "label": "30평대",
-      "pct": 180,
-      "val": "150~180W"
-     },
-     {
-      "label": "40평대~",
-      "pct": 200,
-      "val": "180W~"
-     }
+  {
+    "id": "test-blog-livingroom",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "거실 크기별 권장 밝기 (W)",
+        "bars": [
+          {
+            "label": "20평대",
+            "pct": 150,
+            "val": "120~150W"
+          },
+          {
+            "label": "30평대",
+            "pct": 180,
+            "val": "150~180W"
+          },
+          {
+            "label": "40평대~",
+            "pct": 200,
+            "val": "180W~"
+          }
+        ]
+      },
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "거실등 고르기 전 확인 4가지",
+        "items": [
+          "플리커프리 — 눈이 편한 빛인가",
+          "색온도 변환 — 주광·주백·전구색 전환",
+          "KC 인증 — 안전 기준 통과 제품",
+          "설치 — 배달+설치(딜리버리) 가능 여부"
+        ]
+      }
     ]
-   },
-   {
-    "type": "checklist",
-    "kicker": "Checklist",
-    "title": "거실등 고르기 전 확인 4가지",
-    "items": [
-     "플리커프리 — 눈이 편한 빛인가",
-     "색온도 변환 — 주광·주백·전구색 전환",
-     "KC 인증 — 안전 기준 통과 제품",
-     "설치 — 배달+설치(딜리버리) 가능 여부"
+  },
+  {
+    "id": "test-blog-midcentury",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Styling",
+        "title": "카페 같은 거실, 5단계 스타일링",
+        "steps": [
+          {
+            "label": "① 펜던트 낮게",
+            "desc": "식탁 위 60~80cm — 머큐리 펜던트"
+          },
+          {
+            "label": "② 전체는 은은, 포인트는 밝게",
+            "desc": "빛의 웅덩이 만들기"
+          },
+          {
+            "label": "③ 색온도 통일",
+            "desc": "전구색 3000K — 사진 톤이 달라짐"
+          },
+          {
+            "label": "④ 벽등 레이어",
+            "desc": "입체감 — 패브릭·골드 벽등"
+          },
+          {
+            "label": "⑤ 테이블 조명",
+            "desc": "꺼도 오브제, 켜면 무드메이커"
+          }
+        ]
+      },
+      {
+        "type": "compare",
+        "kicker": "Before / After",
+        "title": "사무실 같은 거실 vs 카페 같은 거실",
+        "left": {
+          "label": "지금의 거실",
+          "items": [
+            "형광등 주광색 하나",
+            "그림자 없는 평평한 빛",
+            "색온도 뒤죽박죽"
+          ]
+        },
+        "right": {
+          "label": "미드센추리 거실",
+          "items": [
+            "펜던트+포인트 조명",
+            "빛의 레이어와 입체감",
+            "전구색 3000K 통일"
+          ]
+        }
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "test-blog-midcentury",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "steps",
-    "kicker": "Styling",
-    "title": "카페 같은 거실, 5단계 스타일링",
-    "steps": [
-     {
-      "label": "① 펜던트 낮게",
-      "desc": "식탁 위 60~80cm — 머큐리 펜던트"
-     },
-     {
-      "label": "② 전체는 은은, 포인트는 밝게",
-      "desc": "빛의 웅덩이 만들기"
-     },
-     {
-      "label": "③ 색온도 통일",
-      "desc": "전구색 3000K — 사진 톤이 달라짐"
-     },
-     {
-      "label": "④ 벽등 레이어",
-      "desc": "입체감 — 패브릭·골드 벽등"
-     },
-     {
-      "label": "⑤ 테이블 조명",
-      "desc": "꺼도 오브제, 켜면 무드메이커"
-     }
+  },
+  {
+    "id": "w2-nb-fan",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "How it works",
+        "title": "실링팬이 시원한 원리 3단계",
+        "steps": [
+          {
+            "label": "① 층 분리",
+            "desc": "찬 공기는 바닥, 더운 공기는 천장"
+          },
+          {
+            "label": "② 크게 젓기",
+            "desc": "천장에서 방 전체 공기를 순환"
+          },
+          {
+            "label": "③ 온도 여유",
+            "desc": "설정온도 2~3도 올려도 시원"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "type": "compare",
-    "kicker": "Before / After",
-    "title": "사무실 같은 거실 vs 카페 같은 거실",
-    "left": {
-     "label": "지금의 거실",
-     "items": [
-      "형광등 주광색 하나",
-      "그림자 없는 평평한 빛",
-      "색온도 뒤죽박죽"
-     ]
-    },
-    "right": {
-     "label": "미드센추리 거실",
-     "items": [
-      "펜던트+포인트 조명",
-      "빛의 레이어와 입체감",
-      "전구색 3000K 통일"
-     ]
-    }
-   }
-  ]
- },
- {
-  "id": "w2-nb-fan",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "steps",
-    "kicker": "How it works",
-    "title": "실링팬이 시원한 원리 3단계",
-    "steps": [
-     {
-      "label": "① 층 분리",
-      "desc": "찬 공기는 바닥, 더운 공기는 천장"
-     },
-     {
-      "label": "② 크게 젓기",
-      "desc": "천장에서 방 전체 공기를 순환"
-     },
-     {
-      "label": "③ 온도 여유",
-      "desc": "설정온도 2~3도 올려도 시원"
-     }
+  },
+  {
+    "id": "w2-nb-dining",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "식탁등 고르기 3원칙",
+        "items": [
+          "높이 — 식탁 위 60~80cm까지 낮게",
+          "빛 색 — 전구색(3000K)으로",
+          "설치 — 배달+설치 딜리버리 활용"
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-nb-dining",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "checklist",
-    "kicker": "Checklist",
-    "title": "식탁등 고르기 3원칙",
-    "items": [
-     "높이 — 식탁 위 60~80cm까지 낮게",
-     "빛 색 — 전구색(3000K)으로",
-     "설치 — 배달+설치 딜리버리 활용"
+  },
+  {
+    "id": "w2-nb-bang",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "아이 방 방등 체크 3",
+        "items": [
+          "플리커프리 — 깜빡임 없는 빛",
+          "색온도 변환 — 공부/취침 모드",
+          "정품 LED 모듈 — 밝기 수명"
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-nb-bang",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "checklist",
-    "kicker": "Checklist",
-    "title": "아이 방 방등 체크 3",
-    "items": [
-     "플리커프리 — 깜빡임 없는 빛",
-     "색온도 변환 — 공부/취침 모드",
-     "정품 LED 모듈 — 밝기 수명"
+  },
+  {
+    "id": "w2-nb-layering",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Recipe",
+        "title": "빛의 3의 법칙",
+        "steps": [
+          {
+            "label": "베이스",
+            "desc": "천장에서 은은하게 전체"
+          },
+          {
+            "label": "포인트",
+            "desc": "벽·그림을 비추는 빛"
+          },
+          {
+            "label": "무드",
+            "desc": "테이블 위 낮은 빛 한 점"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-nb-layering",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "steps",
-    "kicker": "Recipe",
-    "title": "빛의 3의 법칙",
-    "steps": [
-     {
-      "label": "베이스",
-      "desc": "천장에서 은은하게 전체"
-     },
-     {
-      "label": "포인트",
-      "desc": "벽·그림을 비추는 빛"
-     },
-     {
-      "label": "무드",
-      "desc": "테이블 위 낮은 빛 한 점"
-     }
+  },
+  {
+    "id": "w2-nb-downlight",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Before",
+        "title": "다운라이트 공사 전 확인 3",
+        "items": [
+          "타공 크기(3·4·6인치) 실측",
+          "확산형/집중형 용도 구분",
+          "개수·회로 분리 계획"
+        ]
+      },
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "공간별 추천 간격",
+        "bars": [
+          {
+            "label": "복도",
+            "pct": 120,
+            "val": "1~1.5m 간격"
+          },
+          {
+            "label": "거실 보조",
+            "pct": 160,
+            "val": "4~6개"
+          },
+          {
+            "label": "주방 작업대",
+            "pct": 100,
+            "val": "싱크 위 2~3개"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-nb-downlight",
-  "channel": "naver-blog",
-  "figures": [
-   {
-    "type": "checklist",
-    "kicker": "Before",
-    "title": "다운라이트 공사 전 확인 3",
-    "items": [
-     "타공 크기(3·4·6인치) 실측",
-     "확산형/집중형 용도 구분",
-     "개수·회로 분리 계획"
+  },
+  {
+    "id": "w2-gb-living",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "평수별 거실등 와트 기준",
+        "bars": [
+          {
+            "label": "20평대",
+            "pct": 150,
+            "val": "120~150W"
+          },
+          {
+            "label": "30평대",
+            "pct": 180,
+            "val": "150~180W"
+          },
+          {
+            "label": "40평대~",
+            "pct": 200,
+            "val": "180W~"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "type": "bars",
-    "kicker": "Guide",
-    "title": "공간별 추천 간격",
-    "bars": [
-     {
-      "label": "복도",
-      "pct": 120,
-      "val": "1~1.5m 간격"
-     },
-     {
-      "label": "거실 보조",
-      "pct": 160,
-      "val": "4~6개"
-     },
-     {
-      "label": "주방 작업대",
-      "pct": 100,
-      "val": "싱크 위 2~3개"
-     }
+  },
+  {
+    "id": "w2-gb-rail",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "How to",
+        "title": "월 워싱 3스텝",
+        "steps": [
+          {
+            "label": "① 레일 설치",
+            "desc": "벽 폭의 2/3 길이"
+          },
+          {
+            "label": "② 스팟 3개",
+            "desc": "40~50cm 간격"
+          },
+          {
+            "label": "③ 비스듬히",
+            "desc": "벽·그림·소품을 향해"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-gb-living",
-  "channel": "blogger",
-  "figures": [
-   {
-    "type": "bars",
-    "kicker": "Guide",
-    "title": "평수별 거실등 와트 기준",
-    "bars": [
-     {
-      "label": "20평대",
-      "pct": 150,
-      "val": "120~150W"
-     },
-     {
-      "label": "30평대",
-      "pct": 180,
-      "val": "150~180W"
-     },
-     {
-      "label": "40평대~",
-      "pct": 200,
-      "val": "180W~"
-     }
+  },
+  {
+    "id": "w2-gb-sensor",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Signal",
+        "title": "센서등 교체 신호",
+        "items": [
+          "두세 걸음 걸어야 켜짐",
+          "켜지는 데 1초 이상",
+          "커버에 벌레 그림자"
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-gb-rail",
-  "channel": "blogger",
-  "figures": [
-   {
-    "type": "steps",
-    "kicker": "How to",
-    "title": "월 워싱 3스텝",
-    "steps": [
-     {
-      "label": "① 레일 설치",
-      "desc": "벽 폭의 2/3 길이"
-     },
-     {
-      "label": "② 스팟 3개",
-      "desc": "40~50cm 간격"
-     },
-     {
-      "label": "③ 비스듬히",
-      "desc": "벽·그림·소품을 향해"
-     }
+  },
+  {
+    "id": "w2-gb-mood",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Routine",
+        "title": "무드등 30분 수면 루틴",
+        "steps": [
+          {
+            "label": "22:30",
+            "desc": "방등 끄고 무드등만"
+          },
+          {
+            "label": "22:35",
+            "desc": "폰은 엎어두기"
+          },
+          {
+            "label": "23:00",
+            "desc": "책 몇 장, 스르르"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-gb-sensor",
-  "channel": "blogger",
-  "figures": [
-   {
-    "type": "checklist",
-    "kicker": "Signal",
-    "title": "센서등 교체 신호",
-    "items": [
-     "두세 걸음 걸어야 켜짐",
-     "켜지는 데 1초 이상",
-     "커버에 벌레 그림자"
+  },
+  {
+    "id": "w2-gb-bulb",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "K Guide",
+        "title": "색온도 한눈에",
+        "bars": [
+          {
+            "label": "3000K 전구색",
+            "pct": 100,
+            "val": "침실·식탁 (카페)"
+          },
+          {
+            "label": "4000K 주백색",
+            "pct": 130,
+            "val": "무난한 중간 (낮)"
+          },
+          {
+            "label": "5700K 주광색",
+            "pct": 160,
+            "val": "공부방·주방 (편의점)"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-gb-mood",
-  "channel": "blogger",
-  "figures": [
-   {
-    "type": "steps",
-    "kicker": "Routine",
-    "title": "무드등 30분 수면 루틴",
-    "steps": [
-     {
-      "label": "22:30",
-      "desc": "방등 끄고 무드등만"
-     },
-     {
-      "label": "22:35",
-      "desc": "폰은 엎어두기"
-     },
-     {
-      "label": "23:00",
-      "desc": "책 몇 장, 스르르"
-     }
+  },
+  {
+    "id": "w3-nb-pendant",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "식탁 위 펜던트 적정 높이 (상판→갓 아래)",
+        "bars": [
+          {
+            "label": "너무 높음",
+            "pct": 100,
+            "val": "85cm~ 무드 약함"
+          },
+          {
+            "label": "권장",
+            "pct": 75,
+            "val": "65~75cm"
+          },
+          {
+            "label": "너무 낮음",
+            "pct": 50,
+            "val": "~55cm 시야 가림"
+          }
+        ]
+      }
     ]
-   }
-  ]
- },
- {
-  "id": "w2-gb-bulb",
-  "channel": "blogger",
-  "figures": [
-   {
-    "type": "bars",
-    "kicker": "K Guide",
-    "title": "색온도 한눈에",
-    "bars": [
-     {
-      "label": "3000K 전구색",
-      "pct": 100,
-      "val": "침실·식탁 (카페)"
-     },
-     {
-      "label": "4000K 주백색",
-      "pct": 130,
-      "val": "무난한 중간 (낮)"
-     },
-     {
-      "label": "5700K 주광색",
-      "pct": 160,
-      "val": "공부방·주방 (편의점)"
-     }
+  },
+  {
+    "id": "w3-nb-stand",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "장스탠드 두기 좋은 자리 3곳",
+        "items": [
+          "소파 옆 대각선 뒤 — 독서·휴식의 빛",
+          "거실 코너 — 어두운 모서리를 넓어 보이게",
+          "TV 옆 — 화면·벽 밝기 차이 줄여 눈 편안"
+        ]
+      }
     ]
-   }
-  ]
- }
+  },
+  {
+    "id": "w3-nb-t5",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Steps",
+        "title": "T5 간접조명 설치 3단계",
+        "steps": [
+          {
+            "label": "자리 정하기",
+            "desc": "TV 뒤·커튼박스·침대 헤드 중 한 곳"
+          },
+          {
+            "label": "고정하기",
+            "desc": "양면테이프/클립 — 타공 없음"
+          },
+          {
+            "label": "꽂기",
+            "desc": "전원 코드 연결하면 끝"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-nb-outlet",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Safety",
+        "title": "콘센트커버 교체 전 확인 3가지",
+        "items": [
+          "차단기 내리기 — 선택이 아닌 필수",
+          "규격 확인 — 1·2·4구 / 매입·노출형",
+          "색 톤 통일 — 스위치 커버까지 같은 시리즈"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-nb-ledguide",
+    "channel": "naver-blog",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "LED조명 구매 전 체크 4",
+        "items": [
+          "밝기(W) — 공간 크기에 맞게",
+          "색온도 — 쉬는 곳 3000K·일하는 곳 5700K",
+          "플리커프리 — 표기 확인 필수",
+          "인증·칩 — KC 인증, 삼성·오스람 칩"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-gb-colortemp",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "색온도별 어울리는 공간",
+        "bars": [
+          {
+            "label": "3000K 전구색",
+            "pct": 60,
+            "val": "침실·식탁·무드등"
+          },
+          {
+            "label": "4000K 주백색",
+            "pct": 80,
+            "val": "거실·아이 방"
+          },
+          {
+            "label": "5700K 주광색",
+            "pct": 100,
+            "val": "주방·서재·욕실"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-gb-oneroom",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Steps",
+        "title": "원룸 무타공 조명 3단계",
+        "steps": [
+          {
+            "label": "1단계 무드등",
+            "desc": "콘센트에 꽂기만 — 제일 쉬운 시작"
+          },
+          {
+            "label": "2단계 스탠드",
+            "desc": "세우면 끝 — 용도 있는 빛"
+          },
+          {
+            "label": "3단계 등 교체",
+            "desc": "기존 등 자리 그대로 — 원상복구 가능"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-gb-kitchen",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "bars",
+        "kicker": "Guide",
+        "title": "주방 크기별 주방등 밝기 (W)",
+        "bars": [
+          {
+            "label": "미니 주방(원룸)",
+            "pct": 50,
+            "val": "20~30W"
+          },
+          {
+            "label": "일반 아파트",
+            "pct": 80,
+            "val": "30~50W"
+          },
+          {
+            "label": "넓은 주방·아일랜드",
+            "pct": 100,
+            "val": "50~60W 또는 2등"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-gb-kids",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "checklist",
+        "kicker": "Checklist",
+        "title": "아이 방 조명 체크 4",
+        "items": [
+          "플리커프리 — 슬로모션 카메라로 확인",
+          "밝기 조절 — 놀이·공부·취침 단계 전환",
+          "낮은 눈부심 — 전구 노출 없는 디자인",
+          "KC 인증 — 발열 낮은 LED"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w3-gb-bathroom",
+    "channel": "blogger",
+    "figures": [
+      {
+        "type": "steps",
+        "kicker": "Steps",
+        "title": "욕실등 셀프 교체 3단계",
+        "steps": [
+          {
+            "label": "차단기 내리기",
+            "desc": "물기 없는 마른 상태 확인까지"
+          },
+          {
+            "label": "기존 등 분리",
+            "desc": "커버·본체 순서로 나사 풀기"
+          },
+          {
+            "label": "새 등 결선·고정",
+            "desc": "불안하면 설치 서비스 이용"
+          }
+        ]
+      }
+    ]
+  }
 ]
