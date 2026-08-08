@@ -294,6 +294,7 @@ function buildClientData(
     tokenHealth: tokenHealth ?? null,
     weeklyReport: weeklyReport ?? null,
     brandBrief: guidanceStore?.loadBrief(client.id) ?? {},
+    operationPlan: guidanceStore?.loadOperationPlan(client.id) ?? null,
     channelGuides: guidanceStore?.loadGuides(client.id) ?? {},
     research: guidanceStore?.loadResearch(client.id) ?? null,
     weekPlan: guidanceStore?.loadWeekPlan(client.id) ?? null,
@@ -653,8 +654,50 @@ function submitGuidance(title, bodyPrefix, taId){
   window.open(issue(title, bodyPrefix+txt), '_blank');
   if(ta) ta.value='';
 }
+function opPlanView(client){
+  const op=client.operationPlan;
+  if(!op) return '';
+  let h='<div class="sect-h"><h2>📋 운영플랜 '+esc(op.version||'')+' — 확정 '+esc(op.confirmedAt||'')+'</h2></div>';
+  h+='<div class="panel" style="border-color:#b9c4e8;background:#f7f8ff">';
+  const cm=op.coreMessage||{};
+  h+='<div style="font-size:19px;font-weight:800;color:#110453;letter-spacing:-.01em">“'+esc(cm.main||'')+'”</div>'+
+     '<div style="margin:4px 0 8px;font-weight:600;color:#4c4560">'+esc(cm.tagline||'')+'</div>'+
+     (cm.definition?'<div class="muted" style="margin-bottom:10px">'+esc(cm.definition)+'</div>':'');
+  if((cm.axes||[]).length){
+    h+='<table><tr><th style="width:80px">축</th><th style="width:220px">메시지</th><th>근거 소재</th></tr>'+
+      cm.axes.map(a=>'<tr><td><b>'+esc(a.name||'')+'</b></td><td>“'+esc(a.message||'')+'”</td><td class="muted">'+esc(a.basis||'')+'</td></tr>').join('')+'</table>';
+  }
+  h+='</div>';
+  // 필러 4개
+  h+='<div class="panel"><h3>🧱 콘텐츠 필러 — 비중·화자·핵심 제품</h3>'+
+     '<table><tr><th style="width:150px">필러</th><th>주제</th><th style="width:56px">비중</th><th style="width:150px">화자</th><th style="width:130px">핵심 제품</th></tr>'+
+     (op.pillars||[]).map(p=>'<tr><td><b>'+esc(p.key||'')+' '+esc(p.name||'')+'</b><div class="muted" style="font-size:11px">'+esc(p.en||'')+'</div></td><td class="muted" style="font-size:12.5px">'+esc(p.theme||'')+'</td><td><b>'+(p.share??'')+'%</b></td><td class="muted" style="font-size:12px">'+esc(p.voice||'')+'</td><td class="muted" style="font-size:12px">'+esc(p.products||'')+'</td></tr>').join('')+'</table></div>';
+  // 필러 상세(접기)
+  h+=(op.pillars||[]).map(p=>{
+    const d=p.design||{};
+    return '<details class="panel" style="padding:12px 16px"><summary style="cursor:pointer;font-weight:700">'+esc(p.key||'')+'. '+esc(p.name||'')+' ('+(p.share??'')+'%) — 세부 가이드·디자인 무드</summary>'+
+      '<ul style="margin:8px 0 6px 18px;padding:0">'+(p.detail||[]).map(x=>'<li class="muted" style="font-size:12.5px;margin:3px 0">'+esc(x)+'</li>').join('')+'</ul>'+
+      '<div class="capbox"><div class="mcap" style="font-size:12.5px"><b>무드</b> '+esc(d.mood||'')+'<br><b>타이포</b> '+esc(d.typo||'')+'<br><b>형태</b> '+esc(d.formats||'')+'</div></div></details>';
+  }).join('');
+  // 채널 R&R
+  h+='<div class="panel"><h3>📡 채널 R&R — 운영 목표별 운영방식</h3>'+
+     '<table><tr><th style="width:100px">채널</th><th style="width:150px">운영 목표</th><th style="width:220px">역할</th><th>운영방식</th></tr>'+
+     (op.channels||[]).map(c=>{const cd=DATA.channels.find(x=>x.key===c.key)||{icon:''};
+       return '<tr><td>'+(cd.icon||'')+' <b>'+esc(c.label||'')+'</b></td><td>'+esc(c.goal||'')+'</td><td class="muted" style="font-size:12px">'+esc(c.role||'')+'</td><td class="muted" style="font-size:12px">'+esc(c.ops||'')+'</td></tr>';}).join('')+'</table></div>';
+  // 주간 스케줄 보드
+  const sc=op.schedule||{};
+  h+='<div class="panel" style="border-color:#c9e4d0;background:#f7fdf9"><h3>🗓 주간 업로드 스케줄 보드</h3>'+
+     (sc.summary?'<div class="muted" style="margin:2px 0 8px">'+esc(sc.summary)+'</div>':'')+
+     '<table><tr><th style="width:44px">요일</th><th>인스타그램</th><th>쓰레드</th><th>네이버 블로그</th><th>구글 블로그</th><th>유튜브</th></tr>'+
+     (sc.days||[]).map(r=>'<tr><td><b>'+esc(r.day||'')+'</b></td><td>'+esc(r.instagram||'')+'</td><td>'+esc(r.threads||'')+'</td><td>'+esc(r.naver||'')+'</td><td>'+esc(r.blogger||'')+'</td><td>'+esc(r.youtube||'')+'</td></tr>').join('')+'</table>'+
+     ((sc.notes||[]).length?'<ul style="margin:8px 0 0 18px;padding:0">'+sc.notes.map(n=>'<li class="muted" style="font-size:12px;margin:3px 0">'+esc(n)+'</li>').join('')+'</ul>':'')+
+     '</div>';
+  if(op.source){ h+='<div class="muted" style="margin:-4px 0 14px;font-size:11.5px">'+esc(op.source)+'</div>'; }
+  return h;
+}
 function guideView(client){
-  let h='<div class="sect-h"><h2>🧭 지침 — AI가 상시 학습하는 브랜드 노트·채널 가이드</h2></div>'+guideNote();
+  let h=opPlanView(client);
+  h+='<div class="sect-h"><h2>🧭 지침 — AI가 상시 학습하는 브랜드 노트·채널 가이드</h2></div>'+guideNote();
   // 브랜드 노트 3종
   h+='<div class="panel" style="border-color:#c9d8f0;background:#f8fbff"><h3>🏷 브랜드 노트</h3>';
   const bb=client.brandBrief||{};

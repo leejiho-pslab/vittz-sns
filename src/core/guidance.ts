@@ -14,6 +14,37 @@ import { join, dirname } from 'node:path';
 import type { PlatformId } from './types.js';
 
 /** 브랜드 노트 — 운영자가 수시로 갱신하는 브랜드 이해 */
+/** 확정 운영플랜 (operation-plan.json) — 핵심 메시지·콘텐츠 필러·채널 R&R·주간 스케줄 보드 */
+export interface OperationPlan {
+  version?: string;
+  confirmedAt?: string;
+  source?: string;
+  coreMessage?: {
+    main?: string;
+    tagline?: string;
+    definition?: string;
+    axes?: Array<{ name?: string; message?: string; basis?: string }>;
+  };
+  pillars?: Array<{
+    key?: string;
+    name?: string;
+    en?: string;
+    theme?: string;
+    share?: number;
+    voice?: string;
+    target?: string;
+    products?: string;
+    detail?: string[];
+    design?: { mood?: string; typo?: string; formats?: string };
+  }>;
+  channels?: Array<{ key?: string; label?: string; goal?: string; role?: string; ops?: string }>;
+  schedule?: {
+    summary?: string;
+    days?: Array<{ day?: string; instagram?: string; threads?: string; naver?: string; blogger?: string; youtube?: string }>;
+    notes?: string[];
+  };
+}
+
 export interface BrandBrief {
   /** 브랜드 분석 (우리가 어떤 브랜드인지) */
   analysis?: string;
@@ -187,6 +218,11 @@ export class GuidanceStore {
 
   loadBrief(clientId: string): BrandBrief {
     return this.read<BrandBrief>(this.file(clientId, 'brand-brief.json')) ?? {};
+  }
+
+  /** operation-plan.json — 확정 운영플랜(핵심 메시지·필러·채널 R&R·주간 스케줄). 지침 탭 상단 보드용. */
+  loadOperationPlan(clientId: string): OperationPlan | undefined {
+    return this.read<OperationPlan>(this.file(clientId, 'operation-plan.json')) ?? undefined;
   }
 
   saveBrief(clientId: string, brief: BrandBrief): void {
